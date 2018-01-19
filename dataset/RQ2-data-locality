@@ -1,0 +1,14 @@
+                 Files      1      2     3     4    4+
+0    Automated Patches  81.73   7.56  3.19  1.90  5.63
+1  Semi-manual Patches  86.28   5.49  4.25  0.69  3.29
+2       Manual Patches  75.46  11.24  6.48  2.73  4.10
+
+                 Hunks      1      2      3     4     4+
+0    Automated Patches  40.79  25.80   7.93  7.26  18.22
+1  Semi-manual Patches  35.80  19.07  12.21  6.04  26.89
+2       Manual Patches  31.80  18.93  10.73  8.02  30.51
+
+             PatchSize      1      2      3      4     4+
+0    Automated Patches  23.14  19.41  12.30  10.22  34.94
+1  Semi-manual Patches  22.63  15.36  11.93   6.45  43.62
+2       Manual Patches  12.73   7.76   6.23   6.34  66.93

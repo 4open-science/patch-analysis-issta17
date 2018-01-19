@@ -1,0 +1,7 @@
+# number of commits
+x	['Automated Patches' , 'Semi-manual Patches', 'Manual Patches']
+y	[13 , 1 , 119]
+
+# percentages
+x	['Automated Patches' , 'Semi-manual Patches', 'Manual Patches']
+y	[1.2592592592592593, 46.63923182441701, 9.048280653004516]

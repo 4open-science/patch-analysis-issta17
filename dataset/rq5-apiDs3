@@ -1,0 +1,521 @@
+81ad4276b505e987dd8ebbdf63605f92cd172b52,"['thermal_zone_device_update', 'thermal_zone_device_register']"
+793c2388cae3fd023b3b5166354931752d42353c,['acpi_root_dir']
+ccb6c1360f8dd43303c659db718e7e0b24175db5,['cfg80211_get_bss']
+da5e09a1b3e5a9fc0b15a3feb64e921ccc55ba74,"['boot_option_idle_override', 'default_idle']"
+cdd91a77043ba81585236ef61f65c18222b212e6,['si_meminfo']
+d5194decd0a6f792b2789eebd4ddf022a248f655,"['cpufreq_cpu_get', 'cpufreq_cpu_put']"
+c5279dee26c0e8d7c4200993bfc4b540d2469598,['first_ec']
+4b905671d2ea09fd48fed72c581df17e40823f39,"['jbd2_journal_init_inode', 'jbd2_journal_init_dev']"
+25f397a429dfa43f22c278d0119a60a343aa568f,"['drm_crtc_helper_set_config', 'drm_helper_connector_dpms', 'drm_helper_disable_unused_functions']"
+b3c32c4f9565f93407921c0d8a4458042eb8998e,['pci_dev_run_wake']
+5895af79158a55562753f7f05762f3bd766d32b9,['pcie_bus_configure_settings']
+0824965140fff1bf640a987dc790d1594a8e0699,"['pci_ignore_hotplug', 'pci_device_is_present', 'pci_select_bars', 'pci_dev_run_wake']"
+0874dd40bf3c1f291da14b2c554c5640c0b6bf1b,['__irq_offset_value']
+e68fd7c8071d541d3f2f7eed5814b63e865dd277,['nfs_auth_info_match']
+445d211b0da4e9a6e6d576edff85085c2aaf53df,['ata_dev_printk']
+7c01878254daadbb91f5b1137b7404d952e3931b,['drm_edid_to_eld']
+35af28219e684a36cc8b1ff456c370ce22be157d,['acpi_disabled']
+30e332f3307e9f7718490a706e5ce99f0d3a7b26,['acpi_in_debugger']
+abf03184a31a3286fc0ab30f838ddee8ba9f9b7b,"['usb_serial_suspend', 'usb_serial_resume']"
+a8ec3a662921220fc058ed6f7f3674697876d218,['drm_open']
+68a1f2cc8676f22a6fd49f344f99e326eb7f5117,['hidinput_find_field']
+5989cd6a1cbf86587edcc856791f960978087311,['boot_cpu_physical_apicid']
+ecdfc9787fe527491baefc22dce8b2dbd5b2908d,['try_to_free_buffers']
+4d3199e4ca8e6670b54dc5ee070ffd54385988e9,['rwsem_down_write_failed']
+35d865afbbdf79e492f7d61df92b1a9e1d93d26f,['ieee80211_queue_delayed_work']
+34ddeb035d704eafdcdb3cbc781894300136c3c4,"['apei_map_generic_address', 'apei_read', 'apei_write']"
+d3b3e15da14ded61c9654db05863b04a2435f4cc,['i2c_bit_add_bus']
+5b632fe85ec82e5c43740b52e74c66df50a37db3,['ieee80211_tx_status']
+e3b29f05124b07303088795396ff858811d2acb8,['ide_intr']
+442258e2ff69276ff767f3703b30ce6a31fdd181,['usb_hcd_pci_probe']
+d4c208b86b8be4254eba0e74071496e599f94639,['bdgrab']
+143b6c4008a7928de7e139c3a77a90e4cad8db2c,['rpcb_getport_async']
+396f5d62d1a5fd99421855a08ffdef8edb43c76e,['drm_clflush_virt_range']
+7097228c54e7348d8c8c6dccc96e50191e39c2f8,['ib_response_mad']
+03ba32cae66e3798d697e582633af2c7dd6907e5,['kvm_write_tsc']
+73577d1df8e1f31f6b1a5eebcdbc334eb0330e47,['acpi_root_dir']
+8915aa27d5efbb9185357175b0acf884325565f9,['kvm_write_tsc']
+7c6db4e050601f359081fde418ca6dc4fc2d0011,['first_ec']
+ca369d51b3e1649be4a72addd6d6a168cfb3f537,"['blk_set_default_limits', 'blk_set_stacking_limits', 'blk_queue_bounce_limit', 'blk_queue_max_hw_sectors', 'blk_stack_limits', 'blk_queue_io_min', 'blk_queue_io_opt', 'blk_queue_make_request', 'blk_queue_chunk_sectors', 'blk_queue_max_segments']"
+4bff6749905d3abe7436d3b2d20b626886a04475,"['pci_remove_bus', 'pci_stop_and_remove_bus_device']"
+48627d8d23c34106c1365563604739a50343edaf,['setup_irq']
+dcb84f335bee9c9a7781cfc5d74492dccaf066d2,"['cpuidle_pause_and_lock', 'cpuidle_disable_device', 'cpuidle_enable_device', 'cpuidle_resume_and_unlock', 'cpuidle_register_device', 'cpuidle_unregister_device']"
+1a48632ffed61352a7810ce089dc5a8bcd505a60,"['tty_flip_buffer_push', 'tty_buffer_lock_exclusive']"
+11bc82d67d1150767901bca54a24466621d763d7,['migrate_page']
+d5a64513c6a171262082c250592c062e97a2c693,['first_ec']
+ee586bbc28fb7128133457cf711880d13a3b7ce4,"['nf_send_unreach6', 'nf_send_reset6', 'nf_send_reset', 'nf_send_unreach', 'nf_reject_ip_tcphdr_get']"
+593078525c8b234a35a36ff551b8716464e86481,['usb_stor_adjust_quirks']
+1af3c2e45e7a641e774bbb84fa428f2f0bf2d9c9,['boot_cpu_data']
+b7b30de53aef6ce773d34837ba7d8422bd3baeec,['acpi_device_hid']
+989c6b34f6a9480e397b170cc62237e89bf4fdb9,['kvm_mmu_reset_context']
+2500822bf4eb0179ef80e5b072c1e0fa83037381,['first_ec']
+310b5d306c1aee7ebe32f702c0e33e7988d50646,['kvm_x86_ops']
+05131ecc99ea9da7f45ba3058fe8a2c1d0ceeab8,"['acpi_processor_register_performance', 'acpi_processor_get_performance_info', 'acpi_processor_notify_smm']"
+e20fa6609a0076def469aeb799b1c25558e70042,['pci_bus_alloc_resource']
+5cb8eaa227d1870a68fc99a90edc8be0dbacca41,"['drm_get_edid', 'drm_get_edid_switcheroo', 'drm_edid_duplicate', 'drm_probe_ddc', 'drm_add_edid_modes']"
+907cdda5205b012eec7513f66713749b293188c9,['tcp_check_req']
+02df8b9385c21fdba165bd380f60eca1d3b0578b,"['acpi_processor_get_performance_info', 'acpi_processor_notify_smm']"
+356ad3cd616185631235ffb48b3efbf39f9923b3,"['drm_crtc_helper_set_config', 'drm_crtc_helper_set_mode']"
+3184009c36da413724f283e3c7ac9cc60c623bc4,['drm_mode_config_cleanup']
+c6cb0e878446c79f42e7833d7bb69ed6bfbb381f,['first_ec']
+098c5eea03de4707019a205140296893252b4130,['module_mutex']
+332ac7ff77cdc6a183d78ab129545d7b14a1d57c,['ata_sff_interrupt']
+1f6ae47ecff7f23da73417e068018b311f3b5583,"['pci_set_power_state', '__pci_complete_power_transition']"
+3d3be4333fdf6faa080947b331a6a19bce1a4f57,"['skb_segment', 'skb_copy_and_csum_dev', 'skb_gro_receive']"
+cd123012d99fde4759500fee611e724e4f3016e3,['svc_process']
+21619792d1eca7e772ca190ba68588e57f29595b,"['usbip_event_add', 'usbip_event_happened']"
+8cdb46da06ea94543a3b2e53e3e92736421d1093,"['nf_log_packet', 'nfulnl_log_packet']"
+6b4517a7913a09d3259bb1d21c9cb300f12294bd,"['bdput', 'blkdev_get', 'blkdev_put', 'lookup_bdev']"
+237889bf0a62f1399fb2ba0c2a259e6a96597131,['acpi_disabled']
+4fd41a8552afc01054d9d9fc7f1a63c324867d27,"['blk_pm_runtime_init', 'blk_post_runtime_resume', 'blk_pre_runtime_suspend', 'blk_post_runtime_suspend', 'blk_pre_runtime_resume']"
+04c71976500352d02f60616d2b960267d8c5fe24,"['kbd_alloc', 'kbd_ioctl']"
+0c35bd4723e4a39ba2da4c13a22cb97986ee10c8,"['md_run', 'md_integrity_register']"
+59ccaaaa49b5b096cdc1f16706a9f931416b2332,"['rtnl_notify', 'rtnl_set_sk_err']"
+751bf4d7865e4ced406be93b04c7436d866d3684,['scsi_bus_type']
+8e4319c425077c4cc540696a5bb6c4d12f017dcd,"['acpi_bus_get_status', 'acpi_bus_private_data_handler', 'acpi_kobj', 'acpi_bus_get_private_data', 'acpi_bus_get_ejd', 'acpi_bus_get_device']"
+b8178f130e25c1bdac1c33e0996f1ff6e20ec08e,['acpi_pci_osc_control_set']
+72945b2b90a5554975b8f72673ab7139d232a121,['acpi_os_execute']
+c3d34d5d9654ec9c2510f9341bfb1030b8f029d1,['wiphy_register']
+119f449866ad18785b0445adaf0d2859c6dbdaa3,['tpacpi_led_set']
+e0f43752a942b7be1bc06b9fd74e20ae337c1cca,"['sysfs_create_link', 'sysfs_remove_link']"
+f6488c9ba51d65410e2dbc4345413c0d9120971e,['nfs_fhget']
+08851d6eb4eeb0894f4d095dfdf8ab61c435ad57,['nforce2_smbus']
+c622ca543bff8e73efacf4dafa0cc9851ecea511,"['md_check_recovery', 'md_do_sync']"
+7bd0e226e313547add65c7e4b0ecf65cb981a3c6,"['nsecs_to_jiffies64', 'nsecs_to_jiffies']"
+2caf7fcdb8532045680f06b67b9e63f0c9613aaa,"['usb_set_interface', 'usb_reset_configuration', 'usb_set_configuration', 'usb_ep0_reinit', 'usb_alloc_dev']"
+a92d5ee8666afcb4abc7686d7b760f0fb7a0c14c,"['snd_hdac_refresh_widget_sysfs', 'snd_hdac_refresh_widgets']"
+37605a6900f6b4d886d995751fcfeef88c4e462c,['acpi_os_execute']
+49741c4d01554c2630cea02cfdf236b17062a912,"['pci_disable_device', 'pci_find_ht_capability', 'pci_find_capability', 'pci_find_parent_resource', 'pci_find_next_capability', 'pci_find_ext_capability', 'pci_find_next_ht_capability', 'pci_save_state']"
+d00c362f1b0ff54161e0a42b4554ac621a9ef92d,['ax25_send_frame']
+718be4aaf3613cf7c2d097f925abc3d3553c0605,['acpi_processor_ffh_cstate_probe']
+eb85569fe2d06c2fbf4de7b66c263ca095b397aa,"['rndis_unbind', 'rndis_rx_fixup', 'usbnet_skb_return']"
+372835a8527f85b3eff20a18c2c339e827dfd4e4,"['drm_crtc_helper_set_config', 'drm_helper_disable_unused_functions']"
+16e4d93f6de7063800f3f5e68f064b0ff8fae9b7,['svc_recv']
+8244062ef1e54502ef55f54cced659913f244c3e,"['module_mutex', 'module_layout', 'module_put']"
+8505e729a2f6eb0803ff943a15f133dd10afff3a,"['pci_bus_assign_resources', 'pci_bus_size_bridges', 'pci_assign_unassigned_bridge_resources', 'pci_assign_unassigned_bus_resources']"
+704503d836042d4a4c7685b7036e7de0418fbc0f,"['proc_dointvec_userhz_jiffies', 'proc_dointvec', 'dirty_writeback_interval', 'laptop_mode']"
+f11ac8db5d07b6e99d41ff4aa39d878ee5cef1c5,"['nfs_put_lock_context', 'put_nfs_open_context', 'get_nfs_open_context', 'nfs_get_lock_context', 'nfs_getattr', 'nfs_close_context', 'alloc_nfs_open_context', 'nfs_setattr_update_inode', 'nfs_fattr_init']"
+0eee50af5b13e00b3fb7a5fe8480419a71b8235d,"['tty_port_block_til_ready', 'tty_port_carrier_raised']"
+7e99eeddb35cdaafb820676a57517b5e58685e4c,['usbnet_generic_cdc_bind']
+6230c9b4f8957c8938ee4cf2d03166d3c2dc89de,"['security_sk_clone', 'security_sk_classify_flow']"
+bed2e98e1f4db8b827df507abc30be7b11b0613d,['snd_hdac_i915_init']
+ed2888e906b56769b4ffabb9c577190438aa68b8,"['pcie_get_readrq', 'pcie_set_readrq', 'pcie_get_mps']"
+dd0f5e0b75540f7bfca99c5a664c61ac90e52514,"['dvb_usbv2_probe', 'dvb_usbv2_disconnect']"
+c103a10f690cc49054c52f493eeeff143d5f59e7,['acpi_gpiochip_request_interrupts']
+22c13f9d8179f4c9caecfcb60a95214562b9addc,"['acpi_bind_one', 'register_acpi_bus_type', 'unregister_acpi_bus_type']"
+55051feb57eba600b366006757304a0af3ada2bd,['pcibios_align_resource']
+142d44c310819e1965ca70b4d55d7679f5797e25,"['md_check_recovery', 'md_stop']"
+a90b590e957d66ea357aeff4cee8425f2567ed33,['drm_match_cea_mode']
+3308511c93e6ad0d3c58984ecd6e5e57f96b12c8,['scsi_remove_host']
+2b2ae7c7f8e25043793042eb9df88aa875b4cff8,['acpi_device_hid']
+93c9bf4d1838d5851a18ca398b0ad66397f05056,['usb_stor_Bulk_transport']
+7ebe1963a063daf30f95752c35244c5d49550aa9,['drm_edid_to_eld']
+fdf892be32d84a1745fa0aee5fc60517421b8038,['register_blkdev']
+cfa11e08ed39eb28a9eff9a907b20913020c69b5,"['totalram_pages', 'free_reserved_area', 'adjust_managed_page_count']"
+451566f45a2e6cd10ba56e7220a9dd84ba3ef550,['first_ec']
+00e962c5408b9f2d0bebd2308673fe982cb9a5fe,['kmem_cache_free']
+1e66cded334e6cea596c72f6f650eec351b1e959,['uart_unregister_driver']
+1ffc151fcddf524d0c76709d7e7a2af0255acb6b,['ata_dev_printk']
+752d2635ebb12b6122ba05775f7d1ccfef14b275,"['drm_fb_helper_hotplug_event', 'drm_fb_helper_initial_config', 'drm_fb_helper_fill_fix', 'drm_fb_helper_setcmap', 'drm_fb_helper_single_add_all_connectors', 'drm_fb_helper_debug_enter']"
+9345005f4eed805308193658d12e4e7e9c261e74,['vector_used_by_percpu_irq']
+98466cc4502b3171f1bdc146db0d2106fcbc3f4f,['fw_core_handle_bus_reset']
+658716d19f8f155c67d4677ba68034b8e492dfbe,"['div64_u64', 'div64_s64', 'div_s64_rem']"
+731f1872f4e8a0f1eabd49c3548207e79a421202,['mtrr_state']
+d0fa1af40e784aaf7ebb7ba8a17b229bb3fa4c21,['drm_crtc_init_with_planes']
+c4a0a5d964e90b93eb4101c3927b788e083e530f,"['pci_remove_bus', 'pci_stop_and_remove_bus_device']"
+59aabd6a223de6af2a513bfac1bb783764820c72,['rtllib_rx']
+ceeff7541e5a4ba8e8d97ffbae32b3f283cb7a3f,"['nf_conntrack_free', 'nf_conntrack_lock']"
+a71ee337b31271e701f689d544b6153b75609bc5,['nfs_access_add_cache']
+8e9d78edea3ce5c0036f85b93091483f2f15443a,"['mark_buffer_dirty', '__set_page_dirty_buffers', 'create_empty_buffers']"
+12d8706963f073fffad16c7c24160ef20d9aeaff,"['pci_scan_bridge', 'pci_add_new_bus']"
+65e4308d2500e7daf60c3dccc202c61ffb066c63,"['nfs_refresh_inode', 'nfs_setattr', 'nfs_setattr_update_inode', 'nfs_revalidate_inode']"
+183d95cdd834381c594d3aa801c1f9f9c0c54fa9,"['tty_wait_until_sent', 'tty_set_termios']"
+63a4f065ece613b6d575b538234375b0e9c23bbc,"['dm_put', 'dm_disk']"
+b827e496c893de0c0f142abfaeb8730a2fd6b37f,"['block_page_mkwrite', 'block_commit_write']"
+497fb54f578efd2b479727bc88d5ef942c0a1e2d,['acpi_get_pci_dev']
+39b4d07aa3583ceefe73622841303a0a3e942ca1,"['drm_gem_object_free', 'drm_gem_object_release', 'drm_gem_object_init', 'drm_gem_object_unreference', 'drm_gem_object_unreference_unlocked', 'drm_gem_handle_create']"
+f92fca0060fc4dc9227342d0072d75df98c1e5a5,['first_ec']
+4c611060660f0de3e9b8f02df207312bc6f5c331,['first_ec']
+9f8b17e643fe6aa505629658445849397bda4e4f,"['usb_reset_configuration', 'usb_set_configuration', 'usb_deregister', 'usb_alloc_dev']"
+1e359a5de861a57aa04d92bb620f52a5c1d7f8b1,['ieee80211_remove_key']
+86fd887b7fe350819dae5b55e7fef05b511c8656,['vga_default_device']
+fffe01f7a768d07cc50ace71abe28fbf2f786a43,"['pci_enable_rom', 'pci_map_rom', 'pci_unmap_rom', 'pci_platform_rom', 'pci_disable_rom']"
+d546b67a940eb42a99f56b86c5cd8d47c8348c2a,"['ioremap_nocache', 'ioremap_wc', 'set_memory_uc']"
+fa7979663190240b838ab8c8bad7f59e618bf77c,['snd_hda_attach_beep_device']
+f531dcb23f9a5c6ad77e451459df965dc9a0c0c8,['i915_read_mch_val']
+9b94a8fba501f38368aef6ac1b30e7335252a220,"['ring_buffer_resize', '__ring_buffer_alloc']"
+e24dea2afc6a0852983dc741072d8e96155e13f5,['kvm_mtrr_get_guest_memory_type']
+ced4cefc75fdb8be95eaee325ad0f6b2fc0a484b,"['snd_hda_gen_add_kctl', 'snd_hda_gen_parse_auto_config']"
+dc9887dc02e37bcf83f4e792aa14b07782ef54cf,['pcibios_align_resource']
+2423840ded13e6d3b52d88aff8d033bb78fafd08,['jbd2_journal_init_inode']
+19966754328d99ee003ddfc7a8c31ceb115483ac,"['intel_gmch_probe', 'intel_gtt_get', 'intel_gmch_remove']"
+ac0547dc62e67a3e0b0c1628b6e49efba8f517db,"['snd_hda_shutup_pins', 'snd_hda_codec_get_pincfg']"
+ba8b06e67ed7a560b0e7c80091bcadda4f4727a5,['nfs_commit_inode']
+e1191bd4f62d9086a1a47adc286e7fcffc1fa55c,['first_ec']
+b1d4b390ea4bb480e65974ce522a04022608a8df,['i2c_smbus_xfer']
+c5700766975c69d27150256444db63fbfd103791,"['ata_host_detach', 'ata_pci_remove_one']"
+da6139e49c7cb0f4251265cb5243b8d220adb48d,['vector_used_by_percpu_irq']
+f982f91516fa4cfd9d20518833cd04ad714585be,"['vmap', 'vmalloc']"
+cecbb63967b4f36701b9412a12377e8fe006a93b,['neigh_parms_release']
+0b26cd69480d4d99f39042c6621a05af7496b3da,['pci_assign_resource']
+9485e4ca0b486248ce07d7dd1411a1080d24ed0d,['dbs_update']
+d66ecb7220a70ec3f6c0e38e4af28fb8b25d31c6,"['pci_bus_size_bridges', 'pci_bus_assign_resources']"
+abb57ea48fd9431fa320a5c55f73e6b5a44c2efb,"['sock_queue_err_skb', 'skb_dequeue', 'skb_queue_tail']"
+1c40279960bcd7d52dbdf1d466b20d24b99176c8,['ata_id_c_string']
+faafd03d23c913633d2ef7e6ffebdce01b164409,['snd_hdac_i915_exit']
+4d4e9bb339cfcde7811af10859ba1ce2fe3d46b4,['snd_hda_attach_beep_device']
+96a8e13ed44e380fc2bb6c711d74d5ba698c00b2,['setup_arg_pages']
+b3d41885d9cd0d9db31c8f49e362bae02c96fa3f,"['ksize', '__kmalloc_node']"
+0294112ee3135fbd15eaa70015af8283642dd970,"['acpi_os_printf', 'acpi_check_region', 'acpi_resources_are_enforced', 'acpi_dev_filter_resource_type']"
+230323dac060123c340cf75997971145a42661ee,"['snd_timer_open', 'snd_timer_close', 'snd_timer_start', 'snd_timer_continue', 'snd_timer_interrupt', 'snd_timer_notify']"
+b26bdde5bb27f3f900e25a95e33a0c476c8c2c48,['key_type_encrypted']
+7c010de7506954e973abfab5c5999c5a97f7a73e,['first_ec']
+2ded3e5b61d61d0bc90bebb8004db6184c7db6eb,"['snd_hda_add_new_path', 'snd_hda_get_path_idx']"
+2ed99e39cb9392312c100d9da591c20641c64d12,['cpufreq_update_policy']
+8aef33a7cf40ca9da188e8578b2abe7267a38c52,['cpuidle_get_cpu_driver']
+4e29e9ec7e0707d3925f5dcc29af0d3f04e49833,"['nf_conntrack_hash', 'nf_conntrack_tuple_taken']"
+b634f87522dff87712df8bda2a6c9061954d552a,['tcp_poll']
+47819ba234d41465b76f179ba674ff549255a5d2,"['drm_edid_header_is_valid', 'drm_edid_block_valid']"
+68c11e98ef6748ddb63865799b12fc45abb3755d,['xfrm_input']
+11878b40ed5c5bc20d6a115bae156a5b90b0fb3e,['ip6_append_data']
+ac93ac7403493f8707b7734de9f40d5cb5db9045,['pci_bus_alloc_resource']
+dbf0e4c7257f8d684ec1a3c919853464293de66e,"['pci_prepare_to_sleep', 'pci_set_power_state']"
+cadc0fa534e51e20fdffe1623913c163a18d71b1,['svc_exit_thread']
+f4985dc714d7ab1920c5aa502b7f4073fa1b4177,['kill_fasync']
+64672d55d93c26fb4035fd1a84a803cbc09cb058,['nfs_inc_attr_generation_counter']
+d4c5efdb97773f59a2b711754ca0953f24516739,"['memzero_explicit', 'memset', 'memcpy', 'strlen', 'strncmp']"
+f7bcb70ebae0dcdb5a2d859b09e4465784d99029,['__ktime_divns']
+406f992e4a372dafbe3c2cff7efbb2002a5c8ebd,['restore_processor_state']
+d7fbee050753e153622b5d41bc8bd1cb19cda9b9,['ata_dev_classify']
+9905d1b411946fb3fb228e8c6529fd94afda8a92,"['pcmcia_socket_list_rwsem', 'pcmcia_socket_list', 'dead_socket']"
+82e3e767c21fef2b1b38868e20eb4e470a1e38e3,['pci_bus_alloc_resource']
+3f2f4dc456e9f80849b99d79600a7257690ca4b1,['pci_setup_cardbus']
+4c63f83c2c2e16a13ce274ee678e28246bd33645,['af_alg_accept']
+3a9ad0b4fdcd57f775d3615004c8c64c021a9e7d,['pci_bus_alloc_resource']
+02b771b64b73226052d6e731a0987db3b47281e9,"['first_ec', 'acpi_ec_remove_query_handler']"
+3868137ea41866773e75d9ac4b9988dcc361ff1d,"['snd_hda_mixer_amp_tlv', 'snd_hda_ctl_add', 'query_amp_caps', 'snd_hda_override_amp_caps']"
+1974e20161a2c097c481d2ff711de7db56cb2cd6,['ata_wait_after_reset']
+3c522cedb572bb8d2e4867f358bdaa7d0c53d88c,['blkdev_ioctl']
+b608b283a962caaa280756bc8563016a71712acf,"['nfs_commit_inode', 'nfs_wb_all', 'nfs_commitdata_alloc', 'nfs_commit_free']"
+0c70b50150cfb0b43ff500a8a394a52b4d5f1350,['nfs_lookup']
+a13f35e8714009145e32ebe2bf25b84e1376e314,"['bdi_init', 'bdi_destroy']"
+3ff42da5048649503e343a32be37b14a6a4e8aaf,['mtrr_state']
+215122e1110f97a3f478829049b9840cf8fdde57,['register_chrdev_region']
+c1159f9e8927f5732c19816a605926bc76c498b2,"['i2c_new_probed_device', 'i2c_new_device', 'i2c_bus_type']"
+9334ef755f060e251f3f395caeda1a58b6834ea3,"['drm_crtc_helper_set_config', 'drm_crtc_helper_set_mode', 'drm_helper_disable_unused_functions', 'drm_helper_crtc_in_use']"
+9062712fa9ed13b531dfc2228086650b8bd6a255,"['sata_scr_valid', 'ata_dev_printk']"
+fe47ae7f53e179d2ef6771024feb000cbb86640f,['get_dcookie']
+86fffe4a61dd972d5a4e23260d530be6da02f614,['stop_machine']
+8ff21f44fa70d363477b63646847f8d08c0e20a2,"['input_mt_report_pointer_emulation', 'input_mt_drop_unused', 'input_mt_sync_frame']"
+b507cc9710d8b6e3013468b40522e235342fc84a,['usb_serial_generic_read_bulk_callback']
+c2d00f2d1bf8dd721f5557b0df23729addc1898d,"['acpi_smbus_unregister_callback', 'acpi_smbus_read']"
+bc733d495267a23ef8660220d696c6e549ce30b3,['snd_mpu401_uart_new']
+ebb7c78d358b2ea45c7d997423e6feb42e5ce4ef,['intel_gmch_probe']
+6abd219c6eab92172038e4719e02905acb7b68d4,['nl_table_lock']
+b8e4d89357fc434618a59c1047cac72641191805,['acpi_os_printf']
+0e5dd46b761195356065a30611f265adec286d0d,"['pci_set_power_state', '__pci_complete_power_transition', 'pci_save_state', 'pci_restore_state', 'pci_choose_state', 'pci_pme_capable']"
+664dfa65e84429d0b68694483e1de7365c7c56fb,['schedule']
+1f42db786b14a31bf807fc41ee5583a00c08fcb1,"['pci_load_and_free_saved_state', 'pci_set_power_state']"
+c7cd0ef66aade29e37ee08821a0e195ee776c6e6,['snd_hda_activate_path']
+2be8412c6cef97b01dfaae71c04bf585d3d93a3b,['sn_generate_path']
+dddac6a7b445de95515f64fdf82fe5dc36c02f26,"['bdget', 'bdgrab', 'bd_set_size', 'bdput']"
+b75dd2977fc3c5848f739681fc799f27b1322e44,['acpi_os_map_generic_address']
+7e2a31da854dcf8324012a83a31b40bc11e52589,"['hpet_set_rtc_irq_bit', 'hpet_rtc_timer_init', 'hpet_rtc_interrupt', 'is_hpet_enabled', 'hpet_mask_rtc_irq_bit', 'hpet_set_alarm_time', 'hpet_set_periodic_freq']"
+ede3ff5204b0117d00609f4980df3b864cefe96f,['drm_crtc_helper_set_config']
+6d74eb9442fb113c97edc88a1c658462db711337,['usbnet_cdc_status']
+b253149b843f89cd300cbdbea27ce1f847506f99,['default_idle']
+a19faf0250e09b16cac169354126404bc8aa342b,['skb_defer_rx_timestamp']
+ecd9883724b78cc72ed92c98bcb1a46c764fff21,"['dst_release', 'dst_alloc']"
+6ff2d39b91aec3dcae951afa982059e3dd9b49dc,['idr_replace']
+12265709ac6e197f4d40d9ec1fd3af97b4196a35,"['scsi_eh_prep_cmnd', 'scsi_eh_restore_cmnd']"
+856b185dd23da39e562983fbf28860f54e661b41,['acpi_get_cpuid']
+ddd3d069c08bb1ba83aa4d522fc1360ce4afc270,['drm_gem_handle_create']
+97cc2ed27e5a168cf423f67c3bc7c6cc41d12f82,['snd_hdac_i915_init']
+1ae861e652b5457e7fa98ccbc55abea1e207916e,['pci_power_names']
+4e10d12a3d88c88fba3258809aa42d14fd8cf1d1,"['register_acpi_bus_type', 'unregister_acpi_bus_type', 'acpi_bind_one', 'acpi_unbind_one']"
+d8368af8b46b904def42a0f341d2f4f29001fa77,['kvm_x86_ops']
+7cd5b08be3c489df11b559fef210b81133764ad4,"['iTCO_vendor_pre_start', 'iTCO_vendor_pre_stop']"
+29b67497f256399c4aa2adec27ab7ba24bba44e8,['nf_ct_alloc_hashtable']
+2c62e8492ed7358bbe7da51666c7e0f6da9474ee,"['acpi_dev_get_resources', 'acpi_dev_filter_resource_type']"
+c6730ed4c280ff9e55766796523c94a7d111da09,['spufs_context_fops']
+eaf99c749d43ae74ac7ffece5512f3c73f01dfd2,"['drm_fb_helper_initial_config', 'drm_fb_helper_remove_one_connector', 'drm_has_preferred_mode', 'drm_pick_cmdline_mode', 'drm_mode_parse_command_line_for_connector', 'drm_mode_create_from_cmdline_mode', 'drm_mode_set_crtcinfo', 'drm_mode_probed_add']"
+901593f2bf221659a605bdc1dcb11376ea934163,"['drm_mm_init_scan', 'drm_mm_init_scan_with_range', 'drm_mm_scan_add_block', 'drm_mm_scan_remove_block']"
+2a5708409e4e05446eb1a89ecb48641d6fd5d5a9,"['acpi_ec_add_query_handler', 'acpi_walk_dep_device_list']"
+3e9e63dbd3745ba9ea10f0f86c93f4086c89d5b8,"['vga_switcheroo_register_client', 'vga_switcheroo_register_audio_client', 'vga_switcheroo_unregister_client', 'vga_switcheroo_client_fb_set', 'vga_switcheroo_register_handler', 'vga_switcheroo_unregister_handler', 'vga_switcheroo_process_delayed_switch']"
+882bebaaca4bb1484078d44ef011f918c0e1e14e,['tcp_simple_retransmit']
+85fbd722ad0f5d64d1ad15888cd1eb2188bfb557,"['pm_freezing', 'system_freezing_cnt']"
+3b2d99429e3386b6e2ac949fc72486509c8bbe36,"['acpi_processor_preregister_performance', 'acpi_processor_register_performance', 'acpi_processor_unregister_performance']"
+9f4c899c0d90e1b51b6864834f3877b47c161a0e,['nfs_get_client']
+02e352287a40bd456eb78df705bf888bc3161d3f,['bd_set_size']
+a4714a898e85205e1118ec923cde43d88eb105f6,"['acpi_os_map_generic_address', 'acpi_os_unmap_generic_address']"
+1965f66e7db08d1ebccd24a59043eba826cc1ce8,['pci_scan_bridge']
+83e68189745ad931c2afd45d8ee3303929233e7f,"['ibft_addr', 'dmi_check_system']"
+83f45fc360c8e16a330474860ebda872d1384c8c,['drm_mode_config_cleanup']
+b1ddaf681e362ed453182ddee1699d7487069a16,"['snd_interval_list', 'snd_interval_refine']"
+73367bd8eef4f4eb311005886aaa916013073265,"['kmem_cache_free', 'kmem_cache_alloc_node']"
+69afade72a3e13e96a065f757891d384d466123f,"['adjust_managed_page_count', 'totalram_pages', 'free_reserved_area']"
+43d78ef2ba5bec26d0315859e8324bfc0be23766,"['rpc_create', 'rpc_bind_new_program', 'nfs_init_timeout_values', 'nfs_create_rpc_client', 'nfs_init_client', 'nfs_mark_client_ready']"
+05ad709d04799125ed85dd816fdb558258102172,"['parport_register_device', 'parport_unregister_device']"
+b1e4adf4ea41bb8b5a7bfc1a7001f137e65495df,['nfs_rename']
+e517a5e97080bbe52857bd0d7df9b66602d53c4d,['clflush_cache_range']
+bde8f00ce64d9824a4f227c8594e335a1a10d044,"['rpc_put_task', 'rpc_call_sync', 'rpc_killall_tasks', 'rpc_call_async']"
+ae2d990eede0ef5938c210d48a177c044258ecd8,"['hisax_register', 'hisax_unregister']"
+43612d7c04f1a4f5e60104143918fcdf018b66ee,['__nf_conntrack_confirm']
+c04209a7948b95e8c52084e8595e74e9428653d3,"['first_ec', 'acpi_bus_scan']"
+dfbafc995304ebb9a9b03f65083e6e9cea143b20,"['sk_wait_data', 'sk_set_memalloc', 'sk_clear_memalloc', 'release_sock', 'tcp_recvmsg', 'tcp_splice_read', 'dccp_recvmsg']"
+e50525bef593c3dd0564df676c567d77f7c20322,['ath10k_htt_txrx_compl_task']
+59f4ff2ecff4cef36378928cec891785b402e80c,['usb_stor_Bulk_transport']
+2148f18fdb45f31ca269a7787fbc24053cd42e70,"['drm_fb_helper_add_one_connector', 'drm_fb_helper_remove_one_connector']"
+01db403cf99f739f86903314a489fb420e0e254f,['tcp_sendmsg']
+881fdaa5e4cb0d68e52acab0ad4e1820e2bfffa4,['ttm_dma_unpopulate']
+c1a220e7acf8ad2c03504891f4a70cd9c32c904b,"['queue_work_on', 'destroy_workqueue', 'queue_delayed_work_on', 'flush_workqueue', 'delayed_work_timer_fn']"
+d6637b28ffb38f207015c990e481fde5bba233d7,['acpi_processor_preregister_performance']
+67469601406c12ced3db9956aeb0ef0854e2952f,"['tcp_mss_to_mtu', 'tcp_mtup_init']"
+866d54177b4e671cd52bed1fb487d140d7b691f5,"['pci_reenable_device', 'pci_enable_device']"
+068c6e98bc7ec4419299b38cd40be26ebf4bdeda,['netpoll_setup']
+1196f8b814f32cd04df334abf47648c2a9fd8324,['bd_set_size']
+196e077dc165a307efbd9e7569f81bbdbcf18f65,['drm_add_edid_modes']
+084f34939424161669467c19280dbcf637730314,['cpufreq_cpu_put']
+766a53d059d1500c9755c8af017bd411bd8f1b20,"['vga_switcheroo_fini_domain_pm_ops', 'vga_switcheroo_init_domain_pm_ops', 'vga_switcheroo_get_client_state', 'vga_switcheroo_set_dynamic_switch', 'vga_switcheroo_init_domain_pm_optimus_hdmi_audio']"
+a62e8f1978f49e52f87a711ff6711b323d4b12ff,"['ec_transaction', 'acpi_ec_remove_query_handler']"
+59866da9e4ae54819e3c4e0a8f426bdb0c2ef993,['snd_usbmidi_disconnect']
+bb2b43fefab723f4a0760146e7bed59d41a50e53,['platform_device_unregister']
+bb03ed216370cb021f377f923471e56d1de3ff5d,"['snd_hdac_i915_set_bclk', 'snd_hdac_set_codec_wakeup', 'snd_hdac_display_power', 'snd_hdac_sync_audio_rate', 'snd_hdac_acomp_get_eld']"
+455c8793d2c49eaecad038c8de83dade9fc3759f,['acpi_bus_scan']
+1e2571a78138361f74afeb4c5df859b9536b2d8e,"['pci_load_and_free_saved_state', 'pci_set_power_state']"
+d8d031a605bff183b76611e0d18e2ca7021fb99f,['first_ec']
+9f5ac8ed4013c616bd3b29147808c8b2f057c251,['intel_gmch_remove']
+8daedea656ef48d36d1bda3d1339da484387c710,['parport_pc_unregister_port']
+b7300b78d1a87625975a799a109a2f98d77757c8,['bdput']
+950bbabb5a804690a0201190de5c22837f72f83f,['do_exit']
+6415e12ba0f92a54f02d9c4ecaa3c82f35f3d335,['acpi_root_dir']
+8647ca9ad5a0065ad53a2ad7e39163592b6ed35e,['pci_get_hp_params']
+b126b4703afa4010b161784a43650337676dd03b,['pci_bus_alloc_resource']
+c627589282213bbef12a482c0b87f23526ceb3f0,"['input_mt_get_slot_by_key', 'input_mt_init_slots', 'input_mt_assign_slots', 'input_mt_sync_frame']"
+dcf15cbded656a12335bc4151f3f75f10080a375,['first_ec']
+2add0ec14c259471d45d6afd051ca02eef0a4a92,['pci_disable_link_state']
+f8f1becfa4ac3231da55de68698cf7facf089646,['snd_hda_codec_update_widgets']
+40e7fcb19293cbdff02c74cb0668413480f82ea1,"['acpi_walk_dep_device_list', 'acpi_bus_get_device', 'acpi_bus_scan']"
+45040978c8994d1401baf5cc5ac71c1495d4e120,"['ip_set_put_byindex', 'ip_set_name_byindex', 'ip_set_put_extensions']"
+fb9802fa59b196d7f90bb3c2e33c555c6bdc4c54,['acpi_in_debugger']
+a3a2e76c77fa22b114e421ac11dec0c56c3503fb,['do_exit']
+9cf7490360bf2c46a16b7525f899e4970c5fc144,"['tcp_v4_send_check', 'tcp_v4_mtu_reduced', 'tcp_req_err', 'tcp_v4_conn_request', 'tcp_hashinfo']"
+3a48ee8a4ad26c3a538b6fc11a86a8f80c3dce18,"['mb_cache_create', 'mb_cache_destroy']"
+4511f7166a2deb5f7a578cf87fd2fe1ae83527e3,"['thermal_zone_bind_cooling_device', 'thermal_zone_device_update', 'thermal_zone_device_register']"
+474f81967217f3bec2389ae913da72641f2c40e3,['start_thread']
+f985dedb57bae741b4326415f72fe1a1e556563b,['drm_add_modes_noedid']
+27943620cbd960f710a385ff4a538e14ed3f1922,"['ata_sff_interrupt', 'ata_bmdma32_port_ops']"
+22fe9446e82f1fe4b59900db4599061384efb0ad,['ahci_start_engine']
+686a7e32ca7fdd819eb9606abd3db52b77d1479f,['inet_getpeer']
+4dae560f97fa438f373b53e14b30149c9e44a600,['register_kretprobe']
+d362edaf5386acedad4319a6721bb1540b74dcf7,"['acpi_os_printf', 'acpi_os_map_generic_address', 'acpi_os_unmap_generic_address']"
+61e76b178dbe7145e8d6afa84bb4ccea71918994,['icmpv6_err_convert']
+0e6d6ec02f867fe8d1f785312b7343b21052322f,"['ttm_bo_mmap', 'ttm_fbdev_mmap']"
+1df6a2ebd75067aefbdf07482bf8e3d0584e04ee,['ttm_bo_wait']
+a6da74cb077e88a604e5b2a6663b44c221f0ae75,"['mptscsih_host_reset', 'mptscsih_flush_running_cmds']"
+adde0f23396fe6c6cd4fe8e66e9cdc7d1f5081d9,['drm_cvt_mode']
+a49c3c7736a2e77931dabc5bc4a83fb4b2da013e,"['nfs_file_release', 'get_nfs_open_context', 'put_nfs_open_context']"
+44521527be36172864e6e7a6fba4b66e9aa48e40,['ata_host_register']
+9b37596a2e860404503a3f2a6513db60c296bfdc,"['usb_hcd_irq', 'usb_hc_died', 'usb_hcd_link_urb_to_ep', 'usb_add_hcd', 'usb_remove_hcd']"
+b0244a00451c1ad64bf0a51f50679f7146786780,['ide_in_drive_list']
+2a7851bffb008ff4882eee673da74718997b4265,"['nf_ip6_checksum', 'ipv6_chk_addr', 'nf_ipv6_ops', 'nf_afinfo', 'nf_register_afinfo', 'nf_unregister_afinfo']"
+ef6c5be658f6a70c1256fbd18e18ee0dc24c3386,['split_page']
+62fb376e214d3c1bfdf6fbb77dac162f6da04d7e,['drm_fb_helper_check_var']
+f89ec8a456dde7f18a13de77b4d79e6b05ca7c84,"['drm_edid_header_is_valid', 'drm_edid_block_valid', 'drm_edid_is_valid', 'drm_do_get_edid', 'drm_add_modes_noedid', 'drm_mode_find_dmt']"
+d364b5c3e446bbf9892edbb000bf4c358f86bd8b,"['do_unregister_con_driver', 'give_up_console', 'fg_console']"
+aee3ad815dd291a7193ab01da0f1a30c84d00061,"['pnp_is_active', 'pnp_disable_dev', 'isapnp_write_byte', 'pnp_get_resource']"
+bbc8764f80eb872d2b36302882ddfc9882de4b16,"['drm_crtc_arm_vblank_event', 'drm_vblank_count', 'drm_crtc_send_vblank_event', 'drm_handle_vblank', 'drm_crtc_handle_vblank']"
+3eba563e280101209bad27d40bfc83ddf1489234,['ec_get_handle']
+ff140fea847e1c2002a220571ab106c2456ed252,['thermal_zone_device_update']
+9e772d0135a5b5f8355320be429efa339700d52d,['ide_map_sg']
+46f18e3a28295a9e11a6ffa4478241c19bc93735,['acpi_processor_preregister_performance']
+a27341cd5fcb7cf2d2d4726e9f324009f7162c00,['recalc_sigpending']
+769d9968e42c995eaaf61ac5583d998f32e0769a,['pci_bus_assign_resources']
+1e8bbe6cd02fc300c88bd48244ce61ad9c7d1776,"['cdc_ncm_select_altsetting', 'cdc_ncm_unbind', 'cdc_ncm_bind_common', 'cdc_ncm_fill_tx_frame']"
+569d3287c1f2c5d5e9264e89bd2c0f632e7b7dbb,['invalidate_inode_pages2_range']
+0e435ac26e3f951d83338ed3d4ab7dc0fe0055bc,"['generic_make_request', 'blk_init_queue_node', 'blk_queue_make_request', 'blk_queue_stack_limits', 'blk_queue_segment_boundary', 'blk_queue_max_segment_size']"
+fd8fbfc1709822bd94247c5b2ab15a5f5041e103,"['dquot_transfer', 'inode_add_rsv_space', 'inode_claim_rsv_space', 'inode_sub_rsv_space', '__dquot_alloc_space', 'dq_data_lock', '__dquot_free_space', 'dquot_free_inode', 'dquot_operations']"
+a1862e31079149a52b6223776228c3aee493d4a7,['allocate_resource']
+ac40532ef0b8649e6f7f83859ea0de1c4ed08a19,['scsi_init_io']
+565277f63c616e11c37309a1e98c052d18ebbb55,"['nfs_atomic_open', 'nfs_lookup', 'nfs_dentry_operations', 'nfs_fattr_init', 'nfs_fhget']"
+74443bbed72ab22ee005ecb6ecdc657a8018e1db,['first_ec']
+bb94a406682770a35305daaa241ccdb7cab399de,"['usb_stor_probe1', 'usb_stor_probe2']"
+664c715573c2c116c2d8f5de7d59ce85a98a1751,"['snd_hdac_regmap_write_raw', 'snd_hdac_regmap_read_raw', 'snd_hda_check_amp_list_power', 'snd_hda_set_power_save', 'snd_hdac_power_up', 'snd_hdac_power_up_pm', 'snd_hdac_power_down', 'snd_hdac_power_down_pm', 'snd_hdac_get_connections']"
+90d5b18061656993410dfd57ddb88aa5a3f34563,['lockd_down']
+60f75b8e97daf4a39790a20d962cb861b9220af5,['acpi_bind_one']
+b7900eedfb393dcea9794fbb6d57e4d43338a16b,['videobuf_reqbufs']
+f244d8b623dae7a7bc695b0336f67729b95a9736,"['acpi_bus_get_private_data', 'acpi_kobj', 'acpi_bus_private_data_handler']"
+b913100d7304ea9596d8d85ab5f3ae04bd2b0ddb,"['pci_set_power_state', 'pci_find_parent_resource']"
+03a05ed1152944000151d57b71000de287a1eb02,['acpi_processor_power_init_bm_check']
+0adf3c746a73684b3f8c2821a584e1db998f61e9,['first_ec']
+582442d6d5bc74c1e11a2515f9387d3d227278e2,['ip6_tnl_change_mtu']
+80f0cf3947889014d3a3dc0ad60fb87cfda4b12a,['usb_set_interface']
+7a8d37a37380e2b1500592d40b7ec384dbebe7a0,"['device_add', 'get_device', 'put_device', 'device_unregister']"
+29c486df6a208432b370bd4be99ae1369ede28d8,['inet_bind']
+4214c5349c20005b7a83916801394eb7270896b2,"['snd_hdac_stream_reset', 'snd_hdac_stream_setup', 'snd_hdac_stream_clear', 'snd_hdac_dsp_prepare']"
+2a84cb9852f52c0cd1c48bca41a8792d44ad06cc,"['ec_transaction', 'first_ec']"
+fe7cb6bcb41eb45e177dd20abb475c9819e14507,['smscore_onresponse']
+12d60e28bed3f593aac5385acbdbb089eb8ae21e,"['iTCO_vendor_pre_start', 'iTCO_vendor_pre_stop']"
+960bd2c26421d321e890f1936938196ead41976f,"['nft_data_uninit', 'nft_data_init']"
+ef7b06cd905424aea7c31f27fef622e84e75e650,"['register_acpi_bus_type', 'unregister_acpi_bus_type', 'acpi_bind_one']"
+628e341f319f1a64a4639088faba952e4ec8f0a8,"['xfrm6_find_1stfragopt', 'xfrm_local_error', 'xfrm_output_resume', 'xfrm_output', 'xfrm_inner_extract_output', 'xfrm_state_register_afinfo', 'xfrm_state_unregister_afinfo', 'xfrm_state_delete_tunnel']"
+79896cf42f6a96d7e14f2dc3473443d68d74031d,['pci_claim_resource']
+58c84eda07560a6b75b03e8d3b26d6eddfc14011,"['pcibios_align_resource', 'pci_claim_resource']"
+b62b8ef906cdf7115af579ce7378886ce3e0ce00,['cpu_down']
+ffc4e7595734cf768fa60cea8a4d545dfef8231a,['put_io_context']
+eb2e2652457e407ff617a4412120e924398e7545,['tda8261_attach']
+0aeea18964173715a1037034ef6838198f319319,['blkdev_issue_zeroout']
+ce821ef0333fc130154ed3091144a590c1909f4d,['pcibios_fixup_device_resources']
+94862a62dfe3ba1c7601115a2dc80721c5b256f0,['dbs_update']
+3a50597de8635cd05133bd12c95681c82fe7b878,"['prepare_creds', 'prepare_kernel_cred', 'commit_creds', 'request_key']"
+0f64474b8f7f1f7f3af5b24ef997baa35f923509,"['pci_choose_state', 'pci_set_power_state', 'pci_find_capability']"
+3b254c54ec46eb022cb26ee6ab37fae23f5f7d6a,['nf_ct_l3proto_module_put']
+eb8895debe1baba41fcb62c78a16f0c63c21662a,['tcp_make_synack']
+1deb9d341d475ff84262e927d6c0e36fecb9942e,"['hid_debug_event', 'hid_dump_input', 'hid_set_field', 'hid_allocate_device']"
+4e7dba99c9e606e304f104ce4071d8b5ba93957e,['nf_nat_ftp_hook']
+077675c1e8a193a6355d4a7c8c7bf63be310b472,['drm_prime_gem_destroy']
+4dde507fc1984435f28862ddd1beb90822aa116c,['acpi_os_map_generic_address']
+0f40fbbcc34e093255a2b2d70b6b0fb48c3f39aa,"['tty_flip_buffer_push', 'tty_buffer_lock_exclusive', 'tty_buffer_unlock_exclusive']"
+4529eefad087f97b33c0f31984d924b1f15d7bae,"['hid_add_device', 'hid_ignore', 'hid_debug', 'hid_destroy_device']"
+2263576cfc6e8f6ab038126c3254404b9fcb1c33,"['first_ec', 'acpi_pci_detect_ejectable', 'acpi_bus_scan', 'acpi_is_video_device']"
+3f86b83243d59bb50caf5938d284d22e10d082a4,"['acpi_lock_ac_dir', 'acpi_unlock_ac_dir', 'acpi_lock_battery_dir', 'acpi_unlock_battery_dir']"
+0e1affe41bdd7b1bef64c007d260e142bcaef220,['first_ec']
+576e4385ff59f52ca0e9a6a953a55f1f76fc196b,['pcibios_claim_one_bus']
+dff01de1c3cafb128344fe809cbca84606b1b65c,['drm_release']
+5423a0cb3f74c16e90683f8ee1cec6c240a9556e,['first_ec']
+5677d67ae3949f09f57357241b88222d49b8c782,['drm_mode_config_reset']
+f4fd3797848aa04e72e942c855fd279840a47fe4,['cpufreq_show_cpus']
+f6c20c596f41fe6331cee2053b270bf12142b04e,['__ip6_local_out']
+ecd75ad514d73efc1bbcc5f10a13566c3ace5f53,['ata_port_schedule_eh']
+a0fb6ad7ae28a4dce34c010028dc070eeacae1d9,['drm_fb_helper_set_par']
+4df2bf466a9c9c92f40d27c4aa9120f4e8227bfc,"['dm_get_dev_t', 'dm_get_device', 'dm_table_get_mode']"
+3cdeb713dc66057b50682048c151eae07b186c42,"['pci_reenable_device', 'pci_enable_device']"
+e4cb81d7e49c806fa557cf0ff4f3f40bd7a9cb7c,"['vga_switcheroo_register_handler', 'vga_switcheroo_unregister_handler', 'vga_switcheroo_client_fb_set', 'vga_switcheroo_lock_ddc', 'vga_switcheroo_unlock_ddc', 'vga_switcheroo_handler_flags', 'vga_switcheroo_process_delayed_switch', 'vga_switcheroo_register_audio_client', 'vga_switcheroo_get_client_state']"
+fa95ba04e6ba11d71e1b87becd054b38faf546c8,['first_ec']
+983d308cb8f602d1920a8c40196eb2ab6cc07bd2,"['intel_enable_gtt', 'intel_gtt_insert_sg_entries', 'intel_gtt_clear_range']"
+50bed2e2862a8f3a4f7d683d0d27292e71ef18b9,"['sg_copy_buffer', 'sg_miter_start', 'sg_miter_next', 'sg_miter_stop']"
+48ed7b26faa758e6612cd1fb11c07f25cd54f771,['rt6_lookup']
+cd38b115d5ad79b0100ac6daa103c4fe2c50a913,['nr_online_nodes']
+c019b1933015ee31366eeaa085bad3ee9516991c,['acpi_ec_add_query_handler']
+961b6a7003acec4f9d70dabc1a253b783cb74272,['acpi_gsi_to_irq']
+3494252d5644993f407a45f01c3e8ad5ae38f93c,"['usb_hcd_pci_remove', 'usb_hcd_pci_shutdown']"
+751f188dd5ab95b3f2b5f2f467c38aae5a2877eb,"['dm_rh_recovery_prepare', 'dm_rh_dec', 'dm_rh_recovery_start', 'dm_rh_recovery_end', 'dm_rh_inc_pending', 'dm_rh_mark_nosync', 'dm_rh_bio_to_region']"
+f9319f903f898dd4b15dbc386499725ce6c59776,['first_ec']
+d6de2c80e9d758d2e36c21699117db6178c0f517,"['module_mutex', 'module_put']"
+343065a605646b4c1fee8b1ca07b715283813b11,['drm_fb_helper_hotplug_event']
+0adb25d2e71ab047423d6fc63d5d184590d0a66f,"['page_symlink', '__page_symlink', 'page_put_link', 'page_symlink_inode_operations', 'generic_readlink', 'lookup_one_len', 'page_readlink']"
+12c22d6ef299ccf0955e5756eb57d90d7577ac68,['pci_bus_size_bridges']
+ce29ca3ea40744f24c2b5d88431e8ac566d257cc,"['pci_bus_sem', 'pci_get_slot']"
+aaf68cfbf2241d24d46583423f6bff5c47e088b3,['svc_destroy']
+48a8a03b5806179f12dd6994a6957f797c13675f,['isl6421_attach']
+609c4c12af79b1ba5fd2d31727a95dd3a319c0ae,['cx88_video_mux']
+64289c8e6851bca0e589e064c9a5c9fbd6ae5dd4,['skb_gro_receive']
+05496769e5da83ce22ed97345afd9c7b71d6bd24,"['jbd2_journal_init_dev', 'jbd2_journal_init_inode', 'jbd2_journal_wipe']"
+bd637f6f22235b4613f9ab6555e8088a455c1ed4,['add_mtd_blktrans_dev']
+f3d83e2415445e5b157bef404d38674e9e8de169,['wmi_query_block']
+837c4ef13c44296bb763a0ca0e84a076592474cf,['pcibios_align_resource']
+88db5e1489f23876a226f5393fd978ddc09dc5f9,['acpi_os_execute']
+199785eac892a1fa1b71cc22bec58e8b156d9311,"['recalibrate_cpu_khz', 'cpu_khz']"
+bcd2ea17da6a329a7276cde7286d802f009af332,['nfs_remount']
+db78c22230d0bcc8b27b81f05b39f104f08232c5,"['memremap', 'devm_memunmap']"
+91f68c89d8f35fe98ea04159b9a3b42d0149478f,['__find_get_block']
+4055dee7f525a702a060ea08a3fb9f045317355f,"['ata_dev_printk', 'ata_id_xfermask', 'ata_xfer_mask2mode', 'ata_mode_string', 'ata_xfer_mode2mask']"
+a4de05268e674e8ed31df6348269e22d6c6a1803,"['vga_con', 'dummy_con']"
+4c62ab9c538bc09c38093fa079e6902ea4d42b98,"['irttp_close_tsap', 'irttp_udata_request', 'irttp_data_request']"
+932df7414336a00f45e5aec62724cf736b0bcfd4,['acpi_get_cpuid']
+2d518f84e5ecd1d71df0e6ac5176d212f68c27ce,"['fat_setattr', 'fat_getattr']"
+45bea1555f5bf0cd5871b208b4b02d188f106861,"['first_ec', 'ec_read', 'ec_write']"
+762674f86d0328d5dc923c966e209e1ee59663f2,['nfs_permission']
+106d1a0ab2a354b97df3e232be7dedbfaf8e901d,['acpi_check_resource_conflict']
+2f67a0695dc389247c05041b05d2a2b06fc102a3,['acpi_os_execute']
+4c6bcf44549907cb50b67f98eb13717a4adc6b33,"['drm_match_cea_mode', 'drm_mode_equal_no_clocks', 'drm_mode_equal', 'drm_mode_equal_no_clocks_no_stereo', 'drm_mode_duplicate']"
+3e2ada5867b7e9fa0b296d30fa8f3726ebd0a8b7,['acpi_processor_power_init_bm_check']
+49d45a31b71d7d9da74485922bdb63faf3dc9684,['drm_add_edid_modes']
+a361ee5cb8011763ece7b4add393e206439db8b3,"['ioremap_cache', 'iounmap']"
+3ebfe46ac72c0bda0fee3d33dd4cfe88f43cefd9,['pcibios_claim_one_bus']
+1c8ea5aee0b16409295d96a5e8984bd902f06a77,['alloc_irdadev']
+3a4c6800f31ea8395628af5e7e490270ee5d0585,['write_cache_pages']
+2d93148ab6988cad872e65d694c95e8944e1b626,['usb_serial_port_softint']
+9e197219605513c14d3eae41039ecf1b82d1920d,"['ec_write', 'ec_transaction']"
+3b6e2723f32de42028617f2c99b244ccd72cd959,"['locks_release_private', 'lease_modify']"
+415e12b2379239973feab91850b0dce985c6058a,"['hest_disable', 'apei_hest_parse', 'acpi_pci_osc_control_set', 'acpi_pci_find_root']"
+c0c362b60e259e3480a36ef70280d545818844f0,"['ata_port_wait_eh', 'ata_msleep', 'ata_host_alloc', 'ata_host_init', 'ata_ratelimit']"
+ada723dcd681e2dffd7d73345cc8fda0eb0df9bd,['sget']
+b8d35192c55fb055792ff0641408eaaec7c88988,['acpi_os_execute']
+d68909f4c3eee09c13d4e5c86512c6c075553dbd,['acpi_evaluate_integer']
+ad332c8a45330d170bb38b95209de449b31cd1b4,"['first_ec', 'ec_get_handle']"
+7a0b33d4a45d30b9a838fba4efcd80b7b57d4d16,"['pci_scan_bridge', 'pci_add_new_bus']"
+0584ffa548b6e59aceb027112f23a55f0133400e,['snd_timer_stop']
+f03d78db65085609938fdb686238867e65003181,"['sysctl_tcp_mem', 'udp_table', 'sysctl_udp_mem']"
+72c77b7ea9ce781f4987840984a462e4456ba98e,['first_ec']
+07e49a7a31153a95caa270d8ad7350a0bcd4d511,['acpi_resources_are_enforced']
+7394371d85699a1d6d49b61f65583d6cd902a6a2,"['drm_fb_helper_hotplug_event', 'drm_fb_helper_initial_config', 'drm_fb_helper_fill_fix', 'drm_fb_helper_setcmap', 'drm_fb_helper_single_add_all_connectors', 'drm_fb_helper_debug_enter']"
+8edc6e1688fc8f02c8c1f53a2ec4928cb1055f4d,['fsnotify']
+99b76233803beab302123d243eea9e41149804f3,"['snd_seq_root', 'snd_info_register', 'proc_irda', 'atm_proc_root', 'ipmi_smi_add_proc_entry']"
+8bb4d9ce08b0a92ca174e41d92c180328f86173f,"['snd_lookup_oss_minor_data', 'snd_lookup_minor_data']"
+7343ff31ebf01691ea4515d3126467434b9d22d6,['ip6_pol_route']
+cbaffba12ce08beb3e80bfda148ee0fa14aac188,['flush_signals']
+a913f50706b21c7933f53cec678bb9a1c2383499,"['acpi_processor_register_performance', 'acpi_processor_get_performance_info', 'acpi_processor_unregister_performance']"
+01ea50638bc04ca5259f5711fcdedefcdde1cf43,['blk_register_region']
+0dc10e50f219db3f7fd66d35e5d95860ecde4213,"['mddev_suspend', 'mddev_resume']"
+38e088546522e1e86d2b8f401a1354ad3a9b3303,['handle_mm_fault']
+39a0ad871000d2a016a4fa113a6e53d22aabf25d,"['acpi_bus_get_status', 'acpi_match_device_ids', 'pnpacpi_protocol', 'acpi_bus_scan', 'acpi_device_hid']"
+583248e6620a4726093295e2d6785fcbc2e86428,['alloc_iova_fast']
+9c312058b2e530722c7bd30c1b6f26eea35dc5fe,"['kmap_atomic_prot', 'kmap']"
+fbd02dd405d0724a0f25897ed4a6813297c9b96f,['ip_tunnel_rcv']
+71cc1fa9f2d71eb2eba9b8e71e27cff9863e55f3,['usbnet_cdc_unbind']
+239665a3bb0a2234980f918913add31bc536cfd1,"['acpi_unregister_ioapic', 'acpi_os_map_memory']"
+4bb9c5c02153dfc89a6c73a6f32091413805ad7d,"['vm_insert_page', 'remap_pfn_range']"
+561ec68e4de7947167937c49c451728e6b19e63b,['register_blkdev']
+b298cecb3deddf76d60022473a57f1cb776cbdcd,"['mpt_config', 'mpt_attach']"
+cd9ec30da58bcd8ab154eba9eb54d16c67e7ef3b,['hid_unregister_driver']
+a39ed680bddb1ead592e22ed812c7e47286bfc03,['drm_add_edid_modes']
+1e360a60b24ad8f8685af66fa6de10ce46693a4b,"['rpc_uaddr2sockaddr', 'rpc_pton']"
+eb1c160b22655fd4ec44be732d6594fd1b1e44f4,"['blk_init_allocated_queue', 'elevator_exit', 'elevator_change', 'elevator_init', 'elevator_alloc']"
+f75e6745aa3084124ae1434fd7629853bdaf6798,"['xprt_disconnect_done', 'xprt_set_retrans_timeout_def']"
+6404e88e8385638123f4b18b104430480870601a,['__request_region']
+06475b556cb4863cf1dcace9b2d21dac1fc74daf,"['thermal_cdev_update', 'thermal_zone_device_update']"
+9eaef27b36a6b716384948da94b8fc5bfba7b712,"['nfs_lookup', 'd_move', 'rename_lock', 'dput', '__d_drop']"
+f6bb13aa1ea3bb26a4c783822347873f085b9000,"['ec_transaction', 'first_ec']"
+55e8ddecec6a9dbe35a99d03cc4189fd7c56e600,"['iTCO_vendor_pre_start', 'iTCO_vendor_pre_stop']"
+c5811dbdd26284d63c19fca618bd740dd10ad53d,['nfs_umount_begin']
+c2aa3665cf8510b1665ee2f5a9525cf7be6dec4f,"['__alloc_skb', 'pskb_expand_head']"
+e8c7106280a305e1ff2a3a8a4dfce141469fb039,['boot_cpu_data']
+b876aef7f890d8c59a45b78858a36cf60fddf522,['usb_stor_control_msg']
+dfee0a725bb027b749ffdd318eb48b91d564b266,['ipv6_setsockopt']
+cf309e3fb863b7a245b91f816193957f6daf786f,['dev_getfirstbyhwtype']
+51f39a1f0cea1cacf8c787f652f26dfee9611874,"['remove_arg_zero', 'setup_arg_pages', 'open_exec']"
+a83893ae903ba908b1139fd8455ac93c4e5a2dff,['acpi_bus_scan']
+0f1b414d190724617eb1cdd615592fa8cd9d0b50,"['acpi_check_region', 'acpi_resources_are_enforced', 'acpi_dev_filter_resource_type']"
+a395bdd6b24b692adbce0df6510ec9f2af57573e,"['sst_dsp_new', 'sst_dsp_free', 'sst_mem_block_register', 'sst_mem_block_unregister_all', 'sst_dma_new', 'sst_dma_free', 'sst_dsp_get_offset', 'sst_dsp_inbox_read']"
+7904ac84244b59f536c2a5d1066a10f46df07b08,"['seq_lseek', 'seq_read']"
+8523acfe40efc1a8d3da8f473ca67cb195b06f0c,"['set_pages_array_uc', 'set_pages_array_wb']"
+13e3c5e5b9c67e59074d24e29f3ff794bb4dfef0,['d_delete']
+59f0aa9480cfef9173a648cec4537addc5f3ad94,['first_ec']
+9e51159c14c29ebd485a45ba56f148e180d62c29,['ttm_mem_io_reserve']
+7829fb09a2b4268b30dd9bc782fa5ebee278b137,"['memzero_explicit', 'memset']"
+42d53b4ff7d61487d18274ebdf1f70c1aef6f122,['debug_dma_map_page']
+40c6023031369ae5573e622ca54fa3ffe89fb865,['ata_sff_tf_load']
+e91abf80a0998f326107874c88d549f94839f13c,['drm_calc_vbltimestamp_from_scanoutpos']
+21a31013f774c726bd199526cd673acc6432b21d,['is_dock_device']
+156d7d4120e1c860fde667fc30eeae84bc3e7a25,"['vga_switcheroo_register_handler', 'vga_switcheroo_unregister_handler', 'vga_switcheroo_handler_flags', 'vga_switcheroo_register_audio_client', 'vga_switcheroo_client_fb_set', 'vga_switcheroo_process_delayed_switch', 'vga_switcheroo_unregister_client', 'vga_switcheroo_register_client', 'vga_switcheroo_get_client_state']"
+e10aec652f31ec61d6a0b4d00d8ef8d2b66fa0fd,['drm_add_edid_modes']
+8b8bae901ce23addbdcdb54fa1696fb2d049feb5,['pcie_aspm_support_enabled']
+2ed9926e16094ad143b96b09c64cba8bcba05ee1,"['eth_validate_addr', 'eth_mac_addr', 'eth_change_mtu']"
+cebd7709d396b59ff53b95fa3c4d9febbd4c010f,['vid_from_reg']
+3e8c806a08c7beecd972e7ce15c570b9aba64baa,"['inet_csk_bind_conflict', 'inet_csk_get_port', 'inet6_csk_bind_conflict']"
+a035fc3e2531703b539f23bec4ca7943cfc69349,['md_flush_request']
+33852a1f2bb014e4047a844556c0d76a2f790c37,['nfs_fill_super']
+6dc1418e13144162e8bc4858789010d8f0e1e65c,['hid_ignore']
+26d46867b7d27f68a446b073dac7817721ae4c8f,"['acpi_bus_get_device', 'acpi_bus_trim']"
+6d3321e8e2b3bf6a5892e2ef673c7bf536e3f904,['stop_machine']
+374a868a726eb8a1cb28ba88805e51ce34222f8d,"['drm_add_modes_noedid', 'drm_edid_header_is_valid', 'drm_edid_block_valid']"
+3194ed497939c6448005542e3ca4fa2386968fa0,"['snd_hdac_regmap_add_vendor_verb', 'snd_hdac_regmap_read_raw', 'snd_hdac_regmap_write_raw', 'snd_hdac_regmap_update_raw', '_snd_hdac_read_parm', 'snd_hdac_read_parm_uncached', 'snd_hdac_power_up_pm', 'snd_hdac_power_down_pm']"
+9af0b38ff3f4f79c62dd909405b113bf7c1a23aa,['o2net_send_message_vec']
+d66af4df0837f21bf267305dc5ccab2d29e24d86,"['ata_acpi_stm', 'ata_acpi_gtm']"
+7521473305f1379403b893a30ac09a2132dc1e25,['drm_mm_scan_add_block']
+c8adf9a3e873eddaaec11ac410a99ef6b9656938,"['pci_setup_cardbus', 'pci_bus_size_bridges', 'pci_bus_assign_resources']"
+4a88f73f14f6d6c94616538427e1235a6d0a5885,['drm_gem_prime_handle_to_fd']
+0f7e7aee2f37119a32e6e8b63250922442528961,['pci_bus_alloc_resource']
+ec5a36f94e7ca4b1f28ae4dd135cd415a704e772,"['kmem_cache_free', 'kfree']"
+0e6c8e8db508fcb292836b23d039649c5de29090,"['usb_reset_configuration', 'usb_set_interface']"

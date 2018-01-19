@@ -1,0 +1,6 @@
+index,date,tool,count
+95,2015-12,syzkaller,2
+98,2016-03,syzkaller,1
+100,2016-05,syzkaller,1
+101,2016-06,syzkaller,2
+102,2016-07,syzkaller,1

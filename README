@@ -1,0 +1,30 @@
+The artefacts are organised as follows:
+
+-Dashboard : An excel file contains lists the figures represented in the paper and its matching datasets.
+
+dataset_raw.csv: a raw dataset where a row contains commit hash, Type of patch (HMG, …), date, ..)
+
+
+dataset/ 
+	Some pre-elaborated data which the scripts depend.
+
+The folders below contain the scripts/ for the calculations of the metrics, and /figure_data/ which contains the data itself using for plotting the figures.  
+
+commitDelay/ 
+	The distribution of delays in the three scenarios of the patching.
+developerProfile/ 
+	The distribution of speciality metric values of developers and commitment scores of developers for different types of patches and 
+lklml/ 
+	The distributions per month of the number of patches that were submitted through LKML mentioning DLH and HMG, as well as the number of maintainer replies referencing those, and the number of related commits accepted into the mainline tree. Also the integration gap as a percentage between the number of patches submitted to the LKML and the number of patches integrated.
+locality/ 
+	The distributions of the patch sizes in terms of hunks, file and lines
+mutation/ 
+	The distributions of the number of operations performed in a patch and top-5 change operations recurrently implemented by the patches.
+Revert/ 
+	The distributions of delays in reverting commits
+temporal&spatial/
+	The temporal distribution of patches since Linux 2.6.12 unti Linux 4.8.
+	The detailed temporal evolutions of DLH patches
+	Number of patches and the percentages patches committed with regards to the folders where the files are changed in the three scenarios of the patching.
+	
+	

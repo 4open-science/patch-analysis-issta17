@@ -1,0 +1,750 @@
+3caf02ee280a171074476d346d01dc0f5e05b22c:0,{'Ident/GenericString:upd': 2}
+9c83633ad38138855181af6936e8ac570ef7e2cb:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+114a6f8b52163c0232fbcd7f3808ff04dc61a9b5:0,"{'Compound/Label:add': 2, 'Compound/ExprStatement:add': 2, 'Compound/Goto:add': 2, 'Compound/ReturnExpr:mv': 2, 'Compound/ReturnExpr:del': 1}"
+3ff448b5b7dc7ad4d664588c343da1e5e2ce18dd:0,{'Compound/ExprStatement:add': 1}
+15c50ccc3c4377ad02ff6da7792c1d54633d3122:1,{'Compound/ExprStatement:add': 4}
+e4459e1682c107d7ee1bf102c1ba534230e9b50b:0,"{'If/Compound:add': 1, 'If/Goto:del': 1}"
+8321652ae22f38830af5b553f3a316d68948ddce:0,"{'Compound/ExprStatement:mv': 6, 'Compound/If:add': 1}"
+8291550f8479fde2cee571d1b367e6918819f189:0,"{'RecordPtAccess/RecordPtAccess:mv': 2, 'If/RecordPtAccess:add': 2, 'If/RecordPtAccess:mv': 2}"
+ac0a36679928e3e8d7cc0b4c2fd02fb368186992:1,"{'If/FunCall:mv': 1, 'Compound/If:add': 1, 'Ident/GenericString:upd': 2, 'Some/Assignment:add': 1, 'Compound/ExprStatement:mv': 2, 'GenericList/Left:del': 1, 'Some/FunCall:mv': 1}"
+7e1389a9e622a421e85e8611c76bd9142bf4bff1:2,"{'Compound/ReturnExpr:add': 2, 'Compound/Label:add': 4, 'Compound/If:add': 4, 'Compound/Goto:add': 1, 'Compound/Return:del': 1, 'Compound/ExprStatement:mv': 1, 'Label/ExprStatement:mv': 1}"
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:12,"{'If/ExprStatement:mv': 1, 'If/Compound:del': 5, 'If/ReturnExpr:mv': 3, 'Compound/ReturnExpr:mv': 3, 'Compound/ExprStatement:mv': 1, 'If/ExprStatement:add': 1}"
+c435285df112da1125e61d826b03014a4e769386:0,{'Binary/GenericString:upd': 2}
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:10,"{'Case/If:add': 1, 'If/FunCall:mv': 1, 'ReturnExpr/Unary:mv': 1, 'ParenExpr/Assignment:mv': 1, 'Some/Assignment:mv': 1, 'Compound/ExprStatement:add': 1, 'Case/ReturnExpr:del': 1, 'CondExpr/Unary:mv': 1, 'CondExpr/FunCall:mv': 1, 'Binary/ParenExpr:del': 1, 'Binary/Ident:add': 1}"
+bfa1a42ec367afd82d70298e451a1ca1cf4989ce:0,{'Left/Constant:upd': 2}
+6f030abf9a77f10213bc5a2da2eff478d4d4e0c3:0,"{'Assignment/FunCall:mv': 2, 'Compound/If:add': 2, 'Ident/GenericString:upd': 4, 'Binary/FunCall:mv': 2, 'Ident/GenericString:mv': 4, 'Assignment/GenericString:upd': 6, 'Compound/ExprStatement:del': 2}"
+6d1bdd2afbed74b3adcf3a7aec49e430eeb6c5f3:0,"{'If/ExprStatement:mv': 2, 'Compound/ExprStatement:mv': 2, 'Compound/If:del': 2}"
+0a9858689017544743708b332c6b7a54df10b6fe:0,"{'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+1354379b13f190ae5da21c26836a16ba56566ab3:0,"{'Ident/GenericString:mv': 4, 'If/FunCall:add': 2, 'If/Unary:del': 2, 'Ident/GenericString:upd': 4}"
+662845057f2d063461c88a97b737ec7f66daece0:0,{'Compound/ExprStatement:add': 1}
+9a32bb39d6a48d435135695763e5e4a06652eeda:0,"{'If/Binary:add': 1, 'If/FunCall:mv': 1, 'Assignment/FunCall:mv': 1, 'Compound/ExprStatement:add': 1}"
+15c50ccc3c4377ad02ff6da7792c1d54633d3122:0,{'Compound/ExprStatement:add': 6}
+2389df458b9e8222ef54fbb6e7023ead84b87a5c:0,"{'Compound/ExprStatement:add': 2, 'Compound/DeclList:add': 1, 'Program/NotParsedCorrectly:add': 3, 'Program/NotParsedCorrectly:del': 3}"
+86b02be043c42e1d7450be025177e3e248a2e8c1:0,"{'Binary/Constant:del': 6, 'ReturnExpr/Constant:del': 3, 'GenericList/Left:mv': 2, 'Left/Ident:add': 6, 'Left/Constant:del': 7, 'Assignment/Ident:add': 5, 'InitExpr/Ident:add': 11, 'Left/Ident:mv': 2, 'InitExpr/Constant:del': 11, 'Assignment/Constant:del': 5, 'GenericList/Left:add': 1, 'ReturnExpr/Ident:add': 3, 'DeclList/InitExpr:del': 2, 'Binary/Ident:add': 6}"
+0d451e79567f0c5b51004354e08c95f442491cb4:0,"{'Left/Constant:upd': 2, 'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+0d451e79567f0c5b51004354e08c95f442491cb4:1,"{'Left/Constant:upd': 6, 'GenericList/Left:add': 3, 'Ident/GenericString:upd': 6}"
+0d451e79567f0c5b51004354e08c95f442491cb4:2,"{'Left/Constant:upd': 2, 'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+0d451e79567f0c5b51004354e08c95f442491cb4:3,"{'Left/Constant:upd': 16, 'GenericList/Left:add': 8, 'Ident/GenericString:upd': 16}"
+e7f2aa345581b5b500b44a4114bdda642938eb2e:0,"{'Compound/ExprStatement:mv': 5, 'InitList/InitFieldOld:del': 8, 'Ident/GenericString:upd': 2, 'ParenExpr/Assignment:mv': 1, 'Some/Assignment:mv': 1, 'If/ExprStatement:mv': 1, 'Binary/Ident:add': 1, 'InitDesignators/InitExpr:mv': 7, 'InitList/InitDesignators:add': 8, 'Left/Constant:upd': 10, 'Compound/Define:del': 1, 'InitFieldOld/InitExpr:mv': 7, 'Compound/ExprStatement:add': 1, 'DeclList/InitExpr:del': 1, 'Compound/If:del': 2, 'Binary/ParenExpr:del': 1, 'InitExpr/SizeOfType:mv': 2}"
+d788d8056fd913defa48bd94f18dc53de98cd7a6:1,{'Compound/DeclList:del': 1}
+7dc576158d7e5cdff3349f78598fdb4080536342:6,"{'Assignment/Constant:del': 1, 'Left/Ident:add': 8, 'Left/Constant:del': 8, 'Assignment/Ident:add': 1}"
+6b63e3015a69dd8aa5534e23af9f132a021da02e:0,{'Ident/GenericString:upd': 2}
+fc3fbc45098e5aff59f06962dee79aba2e11430d:0,{'NotParsedCorrectly/GenericString:add': 8}
+67454b6602c3519d15193630e6765a5f02f39160:0,{'Compound/If:del': 1}
+e2f11c58ae49d57b0e634685dd944c1771ba38c0:0,"{'Compound/ExprStatement:mv': 4, 'Goto/GenericString:upd': 2}"
+7dc576158d7e5cdff3349f78598fdb4080536342:5,"{'Assignment/Constant:del': 2, 'Assignment/Ident:add': 2}"
+3898115896c7f18cb7009de691c43cb3d92bb82a:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+50a45b170c044a27075535b36beea7b18ada98ce:0,{'Ident/GenericString:upd': 2}
+50a45b170c044a27075535b36beea7b18ada98ce:1,{'Definition/GenericString:upd': 2}
+50a45b170c044a27075535b36beea7b18ada98ce:2,{'DeclList/GenericString:upd': 2}
+58889788fc806e8b63e7f159db659937decf61e8:1,{'Ident/GenericString:upd': 16}
+19c551482ad620336afb724bb6cfcf1720fa545c:1,"{'Ident/GenericString:mv': 2, 'Left/Ident:add': 1, 'Left/Cast:del': 1}"
+05f2b3912323b4130dbf6d5091601d9ca3aaf119:0,"{'DeclList/GenericString:upd': 2, 'Some/Postfix:mv': 1, 'Binary/RecordPtAccess:mv': 1, 'Assignment/Ident:add': 1, 'Compound/ExprStatement:add': 3, 'Some/Sequence:del': 1, 'Assignment/RecordPtAccess:mv': 2, 'Sequence/Postfix:mv': 1, 'Left/RecordPtAccess:mv': 1, 'Binary/Ident:add': 1}"
+c6b97bcf8e3ee6643a7f90a54d1ef3f9e12ec245:1,"{'Left/Constant:upd': 2, 'Compound/Label:add': 1, 'Label/GenericString:upd': 2, 'Goto/GenericString:upd': 4, 'Compound/ExprStatement:add': 1}"
+58889788fc806e8b63e7f159db659937decf61e8:2,{'DeclList/GenericString:upd': 2}
+7671986839f9207f8d76e8ef92b2d3f263a794cc:0,{'Compound/ExprStatement:add': 1}
+1e358f94c00570f88a590cabe718daf835440cc9:0,{'DeclList/InitExpr:add': 1}
+8ecc1bad4c9b485ceb47182d282980d0b0fe20ac:0,{'Left/Constant:upd': 2}
+e4bbf2f541501dcde47ce687ffc6d238bd2f7813:11,{'NotParsedCorrectly/GenericString:add': 2}
+f1f74aa2cf7f109b2eaf3502b8bd13bf40bf6633:0,{'Include/GenericString:upd': 2}
+966036fde60e6d96708815e0d495692ac352acf9:0,"{'Ident/GenericString:upd': 2, 'Program/NotParsedCorrectly:add': 3, 'Program/NotParsedCorrectly:del': 3}"
+c727040bdaa28cd7aa9dbc086eee7b236e0fb270:0,"{'If/Unary:del': 1, 'Goto/GenericString:mv': 2, 'If/Goto:del': 1, 'If/FunCall:add': 1, 'Ident/GenericString:mv': 2, 'Program/NotParsedCorrectly:add': 2, 'Program/Declaration:del': 5, 'Program/Declaration:add': 5, 'If/Compound:add': 1, 'Program/NotParsedCorrectly:del': 2}"
+5173cb814b36439a9d9537016965e75798b9f130:0,"{'Ident/GenericString:upd': 4, 'If/FunCall:add': 2, 'If/Binary:del': 2, 'Ident/GenericString:mv': 4, 'Program/NotParsedCorrectly:add': 6, 'Program/Declaration:del': 1, 'Program/Declaration:add': 1, 'Program/NotParsedCorrectly:del': 6}"
+e87cb470896e9089d2185e1dcbe8d17b0e3361d3:0,"{'Label/ExprStatement:mv': 2, 'Compound/ExprStatement:mv': 2, 'Label/ExprStatement:add': 2, 'Compound/ExprStatement:add': 4}"
+933d594313a5928ffc5325d7bbb6e2383d79622e:11,"{'NotParsedCorrectly/GenericString:upd': 2, 'NotParsedCorrectly/GenericString:add': 2}"
+933d594313a5928ffc5325d7bbb6e2383d79622e:14,"{'DeclList/GenericString:del': 1, 'DeclList/Storage:del': 1}"
+f79b0d9c223ca09cefffc72304a7bcbc401a1c6f:0,{'Include/GenericString:upd': 2}
+933d594313a5928ffc5325d7bbb6e2383d79622e:17,"{'Compound/ExprStatement:mv': 1, 'If/Compound:del': 1, 'If/ExprStatement:mv': 1}"
+961354612efa9cecb98250f4f1cfd51221af8098:0,{'Definition/Storage:add': 1}
+5159e39bdf119613adc6556901ae2d2e5e027551:0,"{'If/Unary:mv': 1, 'Unary/ParenExpr:mv': 1, 'Unary/ParenExpr:add': 1, 'Binary/Unary:mv': 1, 'If/Binary:del': 1, 'Binary/ParenExpr:mv': 1}"
+2b5f2e44a0687987d04eaa2fc9b1da7857a15c79:0,"{'Ident/GenericString:mv': 10, 'ReturnExpr/Constant:add': 8, 'ReturnExpr/ParenExpr:del': 13, 'ReturnExpr/Ident:add': 5}"
+6633327d59067fe16128d66968cd50a10ca7a09c:0,"{'If/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'If/Compound:add': 1}"
+dcb784050a518c59f695f76a0a3f802c0a9d92ab:0,"{'If/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'Compound/If:del': 1}"
+e703f23747e25db6ccc1f752f787925f86c27f31:3,{'NotParsedCorrectly/GenericString:del': 1}
+52d178516dcf61e7a59363a572458c830af6e520:0,"{'Compound/ExprStatement:mv': 4, 'If/Compound:del': 1, 'If/ExprStatement:mv': 2, 'If/Compound:add': 1}"
+4408f5319b6c8784120e0784df315b87e8a5dfef:0,"{'Left/Constant:upd': 6, 'If/Compound:del': 2, 'If/ExprStatement:mv': 2, 'Compound/ExprStatement:mv': 2}"
+19eeb2f9e750f47c805f66e3b0e889b12557d80f:0,"{'Compound/While:add': 1, 'Compound/ReturnExpr:add': 2, 'Compound/ExprStatement:del': 1, 'Binary/Constant:add': 1, 'Ident/GenericString:upd': 6, 'While/ExprStatement:mv': 1, 'Compound/Break:del': 1, 'Compound/For:del': 1, 'Compound/ExprStatement:mv': 1, 'Ident/GenericString:mv': 4, 'Program/NotParsedCorrectly:add': 4, 'Program/Declaration:del': 9, 'Program/Declaration:add': 9, 'Compound/DeclList:del': 1, 'Binary/Ident:del': 1, 'Program/NotParsedCorrectly:del': 4}"
+0cbe8c87fe02513e6de981c18502d220ed4afe41:0,"{'ReturnExpr/Constant:del': 2, 'ReturnExpr/Unary:add': 2}"
+d788d8056fd913defa48bd94f18dc53de98cd7a6:0,"{'Compound/DeclList:del': 1, 'Compound/ExprStatement:add': 1, 'Assignment/FunCall:mv': 1, 'InitExpr/FunCall:mv': 1}"
+bb59a4c539140592723e806e852ee171da0eb3eb:1,"{'Compound/ExprStatement:mv': 1, 'If/Compound:del': 1, 'If/ExprStatement:mv': 1}"
+8afd983ce4a3e2efe513a131ef5ee4516ec2eb28:0,"{'ParenExpr/Assignment:mv': 4, 'Compound/ExprStatement:add': 4, 'If/ParenExpr:del': 4, 'Some/Assignment:mv': 4, 'If/Ident:add': 4}"
+657d4c86d4cd85a4696445f6fb2fe0941a5724ff:1,"{'Compound/ReturnExpr:add': 3, 'Assignment/FunCall:mv': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 1, 'Some/Assignment:add': 1, 'Compound/Return:del': 2, 'Compound/ReturnExpr:del': 1, 'Some/FunCall:mv': 1}"
+4d6b7a779be34e1df296abc1dc555134a8cf34af:3,"{'Program/Definition:del': 2, 'Program/EmptyDef:add': 1, 'Program/NotParsedCorrectly:add': 3, 'Program/Declaration:del': 1}"
+aa6432f122434a79253b07c87f292eff982bd71e:0,"{'ParameterType/GenericString:upd': 2, 'Ident/GenericString:upd': 4}"
+e459933967aef650c25b3cbe1ff88c8047cac543:0,"{'GenericList/Left:mv': 8, 'FunCall/GenericList:mv': 4, 'FunCall/GenericList:del': 2}"
+4d6b7a779be34e1df296abc1dc555134a8cf34af:0,"{'Definition/Storage:add': 4, 'Definition/GenericString:upd': 4, 'Program/Definition:mv': 2}"
+a3f3e9211947101b00d3c6d6c0864905a1bde0a9:2,{'DeclList/GenericString:upd': 2}
+a3f3e9211947101b00d3c6d6c0864905a1bde0a9:1,{'Definition/GenericString:upd': 2}
+a3f3e9211947101b00d3c6d6c0864905a1bde0a9:0,{'Ident/GenericString:upd': 2}
+23e5abd5555b86fd56af6383e7a832b0cf2a2d95:4,{'DeclList/Storage:add': 2}
+bc26d4d06e337ade069f33d3f4377593b24e6e36:0,"{'Compound/ExprStatement:mv': 3, 'Case/ExprStatement:mv': 1, 'Case/If:del': 1, 'Program/NotParsedCorrectly:add': 1, 'Program/NotParsedCorrectly:del': 1}"
+23e5abd5555b86fd56af6383e7a832b0cf2a2d95:0,{'Definition/Storage:add': 1}
+23e5abd5555b86fd56af6383e7a832b0cf2a2d95:1,{'DeclList/Storage:add': 50}
+23e5abd5555b86fd56af6383e7a832b0cf2a2d95:2,{'DeclList/Storage:add': 3}
+23e5abd5555b86fd56af6383e7a832b0cf2a2d95:3,{'DeclList/Storage:add': 1}
+a307d1d6d4cf66723a395785fd4c5998fe922b61:0,{'Ident/GenericString:upd': 2}
+4eb3991c5def39bcf553c14ebe2618fcb47b627f:0,"{'Binary/Binary:mv': 2, 'Binary/GenericString:mv': 2}"
+eddc633a3abcffbbe2fb1eb460670f0c63b11211:0,"{'Compound/ReturnExpr:del': 1, 'Compound/Goto:add': 1, 'Ident/GenericString:upd': 2}"
+c60a32cd129b1c41f98888b03ba2904406bac8f8:0,"{'Compound/ReturnExpr:add': 1, 'Assignment/FunCall:mv': 1, 'Ident/GenericString:upd': 2, 'Some/FunCall:add': 1, 'Compound/Label:add': 1, 'Compound/Goto:add': 1, 'Some/Assignment:del': 1, 'Compound/ReturnExpr:del': 1, 'Compound/ExprStatement:mv': 1, 'Ident/GenericString:mv': 2, 'Left/FunCall:mv': 1, 'Compound/Goto:del': 1, 'Label/ExprStatement:mv': 1}"
+df32b3343aa11e0c7f54783594b24321d17d376f:0,"{'Assignment/FunCall:add': 1, 'Definition/Storage:add': 1, 'Assignment/FunCall:mv': 1, 'Left/FunCall:mv': 1}"
+048975ac580a771fc5bb96c6b454cba897ab1a73:0,"{'Binary/GenericString:upd': 2, 'If/Compound:add': 1, 'Goto/GenericString:mv': 2, 'If/Goto:del': 1}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:2,"{'Binary/Constant:del': 1, 'Left/Ident:add': 1, 'Left/Constant:del': 1, 'InitExpr/Ident:add': 3, 'InitExpr/Constant:del': 3, 'Binary/Ident:add': 1}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:3,"{'Binary/Constant:del': 3, 'Left/Ident:add': 1, 'Left/Constant:del': 1, 'Binary/Ident:add': 3}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:0,"{'If/Unary:add': 1, 'If/Binary:del': 1, 'Ident/GenericString:mv': 2, 'InitExpr/Ident:add': 4, 'InitExpr/Constant:del': 4}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:1,"{'Binary/Constant:del': 1, 'InitExpr/Ident:add': 3, 'InitExpr/Constant:del': 3, 'Binary/Ident:add': 1}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:6,"{'Assignment/Constant:del': 2, 'Assignment/Ident:add': 2}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:7,"{'Binary/Constant:del': 2, 'Binary/Ident:add': 2}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:4,"{'Binary/RecordPtAccess:mv': 1, 'Assignment/Ident:add': 2, 'If/Unary:add': 1, 'InitExpr/Ident:add': 1, 'If/Binary:del': 1, 'InitExpr/Constant:del': 1, 'Unary/RecordPtAccess:mv': 1, 'Assignment/Constant:del': 2}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:5,"{'ReturnExpr/Constant:del': 2, 'Binary/RecordPtAccess:mv': 1, 'Assignment/Ident:add': 2, 'If/Unary:add': 3, 'InitExpr/Ident:add': 1, 'If/Binary:del': 3, 'Ident/GenericString:mv': 4, 'InitExpr/Constant:del': 1, 'Unary/RecordPtAccess:mv': 1, 'Assignment/Constant:del': 2, 'ReturnExpr/Ident:add': 2}"
+61ca1500c5ee04f2be34a4f58bb9baed0214b7a9:8,"{'Binary/RecordPtAccess:mv': 1, 'Assignment/Ident:add': 2, 'If/Unary:add': 1, 'InitExpr/Ident:add': 1, 'If/Binary:del': 1, 'InitExpr/Constant:del': 1, 'Unary/RecordPtAccess:mv': 1, 'Assignment/Constant:del': 2}"
+da0abaee4793bac4047b3bdfd221fc54850bbf5f:0,"{'Compound/ExprStatement:add': 1, 'DeclList/InitExpr:add': 1}"
+41ebb8a1c5f1f567b9c30c9b50aace91387537f8:0,"{'Binary/Constant:del': 5, 'ReturnExpr/Constant:del': 3, 'Assignment/GenericString:add': 1, 'Left/Ident:add': 11, 'Left/Constant:del': 11, 'Ident/GenericString:upd': 2, 'Assignment/Ident:add': 12, 'Assignment/RecordAccess:mv': 2, 'InitExpr/Ident:add': 6, 'Ident/GenericString:add': 1, 'Binary/RecordAccess:mv': 2, 'InitExpr/Constant:del': 6, 'Assignment/GenericString:del': 1, 'Assignment/Constant:del': 12, 'Ident/GenericString:mv': 2, 'ReturnExpr/Ident:add': 3, 'DeclList/InitExpr:del': 2, 'Binary/Ident:add': 5}"
+705a421238964e26f13a87d01cefa229eb8a458d:0,{'Definition/Storage:del': 1}
+3b5ecbab99c9ed10b30c18f984ef144167b2c3fc:0,"{'Compound/ExprStatement:mv': 3, 'If/Compound:del': 3, 'If/ExprStatement:mv': 3}"
+5eeb3014827f44ea7de43c865118cb2095ad030e:0,"{'ReturnExpr/Unary:mv': 1, 'Ident/GenericString:upd': 2, 'Some/Assignment:add': 1, 'Assignment/Unary:mv': 1, 'Compound/ReturnExpr:del': 1, 'Compound/ExprStatement:mv': 2, 'Ident/GenericString:mv': 2, 'Compound/Goto:add': 1, 'Some/FunCall:del': 1}"
+deb3d7fff0b7c21c5a80b2fdfb93d7fb1abcf21f:0,{'Compound/If:del': 1}
+55ae2f3b88421256e0a785320f7067bc58c1b0cd:1,{'Definition/Storage:add': 1}
+55ae2f3b88421256e0a785320f7067bc58c1b0cd:0,{'DeclList/Storage:add': 1}
+38f736e974e394157c9111cc53a6f3a55ea8cbc8:0,"{'If/Unary:add': 9, 'If/Binary:del': 10, 'Ident/GenericString:mv': 20, 'If/Ident:add': 1}"
+9ef7db7f38d0472dd9c444e42d5c5175ccbe5451:1,"{'Label/ExprStatement:mv': 1, 'Goto/GenericString:upd': 2, 'If/Goto:del': 1, 'Compound/Label:del': 1, 'Compound/ExprStatement:mv': 7, 'If/ReturnExpr:add': 1, 'Compound/ExprStatement:del': 1}"
+9ef7db7f38d0472dd9c444e42d5c5175ccbe5451:0,"{'Compound/ExprStatement:mv': 1, 'If/Compound:del': 1, 'If/ExprStatement:mv': 1}"
+a9aefd707c65aa5a7945b3f16bd39f314aa8414d:0,"{'If/Ident:del': 2, 'Compound/ExprStatement:add': 2, 'Compound/ExprStatement:del': 2, 'If/FunCall:mv': 2, 'Assignment/FunCall:mv': 2}"
+9494849e53e74048ee14d512feade01db402eef7:0,"{'Compound/ExprStatement:mv': 1, 'Compound/If:add': 1, 'Compound/ExprStatement:add': 1, 'If/ExprStatement:mv': 1, 'Ident/GenericString:upd': 4}"
+2a953cfd42c00bab00e792422f7c2064c5f0b410:1,"{'Unary/ArrayAccess:mv': 6, 'GenericList/Left:mv': 24, 'Compound/ExprStatement:del': 1, 'Unary/ParenExpr:mv': 1, 'Ident/GenericString:upd': 26, 'Definition/Storage:add': 12, 'Binary/ParenExpr:mv': 1, 'Left/Cast:del': 19, 'Compound/ExprStatement:mv': 1, 'Left/Ident:del': 1, 'If/ExprStatement:mv': 1, 'Binary/ArrayAccess:mv': 6, 'Ident/GenericString:mv': 30, 'Program/Declaration:del': 8, 'Left/Constant:upd': 2, 'GenericList/Left:del': 3, 'GenericList/Left:add': 1, 'Program/Definition:del': 1, 'Left/Cast:add': 1, 'Left/Binary:add': 19, 'If/ExprStatement:add': 1}"
+2a953cfd42c00bab00e792422f7c2064c5f0b410:0,{'Definition/Storage:add': 1}
+2a953cfd42c00bab00e792422f7c2064c5f0b410:5,"{'Assignment/Cast:del': 1, 'Assignment/Ident:add': 4, 'Assignment/RecordPtAccess:mv': 1, 'Program/Declaration:mv': 2, 'Left/Cast:del': 5, 'Compound/If:add': 1, 'Ident/GenericString:upd': 14, 'Compound/DeclList:add': 1, 'Left/Binary:add': 2, 'InitExpr/Cast:mv': 1, 'Compound/ExprStatement:add': 1, 'Ident/GenericString:mv': 12, 'Left/Cast:mv': 1, 'Program/Declaration:del': 6, 'Assignment/Constant:del': 2, 'Unary/RecordPtAccess:mv': 1, 'Left/Cast:add': 1, 'Left/Ident:add': 3}"
+2a953cfd42c00bab00e792422f7c2064c5f0b410:4,"{'Program/CppTop:del': 1, 'Program/Declaration:add': 28, 'Program/CppTop:mv': 16}"
+a86581829fdd646655116f89cb8af2f22b5fbf9e:0,"{'If/Binary:mv': 4, 'DeclList/InitExpr:del': 1, 'If/ReturnExpr:mv': 1, 'If/Compound:del': 1, 'Some/Assignment:mv': 2, 'Compound/ReturnExpr:mv': 1, 'Binary/Ident:add': 1, 'Compound/ExprStatement:add': 1, 'If/IfToken:mv': 2, 'ParenExpr/Assignment:mv': 2, 'Binary/RecordPtAccess:add': 1, 'If/Compound:add': 1, 'Compound/If:mv': 2, 'Compound/If:del': 1, 'Binary/ParenExpr:del': 2, 'If/IfToken:add': 1}"
+0e04f3f381c6a3ab3a7ef0ec9ded709e95996527:1,"{'ReturnExpr/Constant:del': 1, 'Binary/Constant:del': 1, 'InitExpr/Ident:add': 5, 'InitExpr/Constant:del': 5, 'ReturnExpr/Ident:add': 1, 'Binary/Ident:add': 1}"
+0e04f3f381c6a3ab3a7ef0ec9ded709e95996527:0,"{'Binary/Constant:del': 3, 'Binary/Ident:add': 3}"
+389d7b26d9e4f78b17366c23a3aa16b3c5cb3bde:0,"{'Compound/ExprStatement:add': 1, 'DeclList/GenericString:add': 1, 'Ident/GenericString:upd': 4}"
+d5e27e8b83b1da0cd64a6a090e273a199c2805fc:0,"{'Binary/Ident:mv': 4, 'Compound/While:add': 1, 'Definition/Compound:mv': 2, 'Assignment/GenericString:add': 1, 'If/Compound:del': 4, 'Some/Assignment:mv': 2, 'Compound/ExprStatement:mv': 31, 'Some/GenericString:mv': 8, 'If/IfToken:add': 1, 'Definition/Compound:del': 2, 'Binary/Constant:add': 1, 'If/IfToken:mv': 6, 'Binary/ArrayAccess:mv': 2, 'Binary/GenericString:mv': 2, 'Ident/GenericString:upd': 10, 'If/Compound:mv': 10, 'ExprStatement/Some:add': 2, 'If/Ident:add': 1, 'Compound/DeclList:add': 4, 'Compound/ReturnExpr:mv': 2, 'Ident/GenericString:add': 10, 'If/ExprStatement:mv': 11, 'Some/GenericString:add': 2, 'Compound/If:del': 1, 'For/Compound:del': 1, 'If/IfToken:del': 1, 'Compound/For:mv': 2, 'If/If:mv': 4, 'Compound/DeclList:mv': 16, 'For/ExprStatement:mv': 20, 'ArrayAccess/Ident:mv': 6, 'Ident/GenericString:mv': 18, 'Some/Binary:mv': 2, 'ExprStatement/Some:mv': 2, 'Binary/Ident:add': 1, 'If/Binary:mv': 26, 'Assignment/Ident:add': 1, 'While/Compound:mv': 2, 'If/Compound:add': 2, 'While/Binary:mv': 2, 'Binary/GenericString:add': 2, 'Compound/If:add': 6, 'ArrayAccess/Ident:add': 1, 'Binary/ArrayAccess:add': 1, 'ArrayAccess/Binary:add': 1, 'Compound/Switch:mv': 2, 'Assignment/Ident:mv': 4, 'Compound/If:mv': 16, 'Assignment/GenericString:mv': 2}"
+d009f0d7ae38bf1fdc0ff1a914a6dee538059869:1,"{'Left/Constant:add': 2, 'GenericList/ParameterType:add': 2, 'Left/Cast:del': 2, 'Ident/GenericString:upd': 4}"
+809a3bf9f34cb6d0c0383b31b3495fa1ed3508a6:0,"{'Binary/Binary:mv': 2, 'Binary/Binary:del': 1, 'Binary/GenericString:mv': 2, 'Binary/GenericString:del': 1}"
+df7841604394c57289072d15fcd90a2585b701a6:0,"{'Program/Declaration:add': 5, 'Program/NotParsedCorrectly:del': 10, 'DeclList/Storage:add': 1, 'Program/NotParsedCorrectly:add': 10, 'Program/Declaration:del': 5}"
+90ca75fd1945d9e51e21cbde0aae1aad68730dc5:0,"{'Compound/ExprStatement:mv': 5, 'If/ExprStatement:mv': 1, 'ReturnExpr/Ident:mv': 2, 'If/Compound:add': 1, 'ReturnExpr/Constant:add': 1}"
+6301002f8de0ae5b1e6044c422445b1a34cc6270:0,"{'Compound/Label:add': 1, 'GenericList/Left:mv': 2, 'Definition/Compound:mv': 1, 'Compound/If:add': 4, 'If/Compound:mv': 1, 'Compound/Return:add': 2, 'Unary/RecordPtAccess:mv': 1, 'Compound/DeclList:add': 2, 'Compound/DeclList:mv': 2, 'Compound/ExprStatement:mv': 2, 'InitExpr/Unary:mv': 1, 'Definition/Compound:del': 1, 'Left/Unary:mv': 1, 'If/RecordPtAccess:mv': 1, 'Compound/ExprStatement:add': 1}"
+05aab177a9a231455d8dfcb71c7179da0985e7f8:1,"{'Assignment/Binary:mv': 1, 'Left/Binary:mv': 1, 'DeclList/GenericString:upd': 2, 'Left/Ident:add': 1, 'Ident/GenericString:upd': 34, 'Compound/DeclList:add': 2, 'Binary/FunCall:mv': 1, 'Compound/ExprStatement:add': 2, 'Binary/Ident:add': 1, 'Assignment/FunCall:mv': 1}"
+e719bba8559708e240164c69b39ed3ea86a7fa46:0,{'DeclList/InitExpr:del': 1}
+e719bba8559708e240164c69b39ed3ea86a7fa46:1,{'DeclList/InitExpr:del': 1}
+4e5b864e7cac67f06f18147b1980cb6b8fb213ec:0,"{'Left/Ident:add': 1, 'Ident/GenericString:upd': 2, 'Left/FunCall:del': 1, 'Left/Unary:add': 1, 'FunCall/Ident:mv': 2, 'Ident/GenericString:mv': 2, 'Left/Unary:del': 1, 'FunCall/GenericList:mv': 2}"
+d7b990a035a86a07e81231caceb6e624056c258f:0,"{'Compound/ReturnExpr:add': 1, 'Assignment/FunCall:mv': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 1, 'ReturnExpr/FunCall:mv': 1, 'Compound/ReturnExpr:mv': 2, 'Compound/ExprStatement:add': 1, 'ReturnExpr/Ident:add': 1}"
+2160abb2945831aaf50d176ef6d070bdbd19130d:0,"{'Compound/ExprStatement:mv': 2, 'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1, 'Compound/ExprStatement:add': 1}"
+f9fa1887dcf26bd346665a6ae3d3f53dec54cba1:0,{'Compound/If:add': 1}
+369620a09bc5ab867342d51f1820c66b00d78a2c:0,"{'Program/NotParsedCorrectly:add': 1, 'Program/Definition:del': 1}"
+43b4f4061cf54aa225a1e94a969450ccf5305cd9:1,{'Left/Constant:upd': 8}
+43b4f4061cf54aa225a1e94a969450ccf5305cd9:2,{'InitExpr/Constant:upd': 4}
+71d42e9c71d7fca2eca98eac315cb485b5d2314d:0,{'NotParsedCorrectly/GenericString:del': 2}
+08a16208c8cb2ce1f79fea24f21dd7a8df4f12b6:0,"{'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+de6687313df421296533de085dee76ec779d7332:1,{'Ident/GenericString:upd': 2}
+de6687313df421296533de085dee76ec779d7332:0,"{'Left/Constant:upd': 2, 'Definition/GenericString:upd': 2}"
+524edf3877775c46e8b3ba56f9dd75d07914392c:0,"{'Compound/ReturnExpr:add': 1, 'Unary/FunCall:mv': 1, 'Some/Assignment:add': 2, 'Compound/Goto:add': 1, 'Compound/ExprStatement:mv': 1, 'Ident/GenericString:upd': 2, 'Compound/DeclList:add': 1, 'If/ExprStatement:mv': 1, 'Program/NotParsedCorrectly:add': 7, 'Some/FunCall:mv': 1, 'Program/Declaration:del': 2, 'If/FunCall:mv': 1, 'If/Ident:add': 1, 'Ident/GenericString:mv': 2, 'Program/Declaration:add': 2, 'If/Compound:add': 1, 'Program/NotParsedCorrectly:del': 7, 'Compound/Label:add': 2, 'Assignment/FunCall:mv': 2, 'Compound/If:add': 1, 'Compound/ExprStatement:add': 1, 'Left/FunCall:mv': 1, 'Some/FunCall:del': 1}"
+303dfbf5727410bfa3e82d4e2554813f1e8f2de6:0,{'Goto/GenericString:upd': 2}
+2dd34339ac6305c4f2f4e589b858212e339d31e9:0,"{'If/ReturnExpr:add': 1, 'Some/FunCall:mv': 1, 'Compound/If:add': 1, 'Some/Assignment:add': 1, 'Compound/Return:del': 2, 'If/Return:del': 1, 'Compound/ReturnExpr:add': 3, 'Assignment/FunCall:mv': 1}"
+8c9247a6b5e57d04e55d94ecbfd9e9d61c2a01e1:0,{'Compound/If:del': 1}
+cdeb860252e66bdaf1ab70420274df879f243d3d:2,{'Left/Constant:upd': 16}
+c6067472252c1d6155c7c01c93e0d580342cdb29:2,"{'Program/Declaration:add': 1, 'Program/NotParsedCorrectly:del': 66, 'Program/NotParsedCorrectly:add': 66, 'Program/Declaration:del': 1}"
+c6067472252c1d6155c7c01c93e0d580342cdb29:1,"{'Program/Definition:del': 1, 'Program/NotParsedCorrectly:del': 1, 'Program/Definition:add': 1, 'Program/Declaration:del': 2}"
+a1c31f1d057130cc63e72a09189410d169db7ecf:0,"{'Compound/ExprStatement:mv': 2, 'Compound/ExprStatement:add': 1, 'Ident/GenericString:upd': 2}"
+7be7d6def3358736d479fa99c424e07e60d4de72:0,"{'Binary/Constant:del': 18, 'ReturnExpr/Constant:del': 4, 'Left/Binary:mv': 2, 'GenericList/Left:mv': 4, 'Left/Ident:add': 14, 'Left/Constant:del': 15, 'Assignment/Ident:add': 13, 'InitExpr/Ident:add': 14, 'InitExpr/Constant:del': 14, 'Assignment/Constant:del': 13, 'GenericList/Left:add': 1, 'ReturnExpr/Ident:add': 4, 'Binary/Ident:add': 18}"
+bf959931ddb88c4e4366e96dd22e68fa0db9527c:0,"{'Compound/ReturnExpr:add': 1, 'If/Binary:mv': 1, 'Unary/ParenExpr:mv': 1, 'ReturnExpr/Constant:mv': 2, 'Binary/ParenExpr:mv': 1, 'Compound/If:add': 1, 'Compound/ReturnExpr:del': 1, 'ParenExpr/Binary:mv': 1, 'If/Binary:del': 1, 'Program/NotParsedCorrectly:add': 11, 'GenericList/Left:add': 1, 'ParamList/ParameterType:add': 1, 'Program/NotParsedCorrectly:del': 11}"
+58889788fc806e8b63e7f159db659937decf61e8:0,{'Definition/GenericString:upd': 2}
+bcb4a75bde3821cecb17a71d287abfd6ef9bd68d:0,"{'Compound/Label:add': 2, 'Assignment/FunCall:mv': 1, 'Compound/If:add': 1, 'Some/Assignment:add': 1, 'Goto/GenericString:upd': 2, 'Compound/Goto:add': 1, 'Some/FunCall:mv': 1, 'Compound/ExprStatement:del': 2}"
+ac4898a0f81d3b3c218cb4d17bac1750ef82e456:0,{'Left/Constant:upd': 24}
+cb68429d155507ec46f1922d2beb7bc637de4836:0,"{'Binary/GenericString:upd': 2, 'Binary/Unary:del': 1, 'Binary/Constant:add': 1}"
+ae5ef67b9a71dba0dc4b045cca102c4ab3c0bd5f:0,{'Compound/ExprStatement:add': 4}
+f40e06f0b7fe1f7244349b753cc22e67f69cded4:0,"{'Left/Constant:upd': 4, 'GenericList/Left:add': 2, 'Ident/GenericString:upd': 4}"
+8aeabc375041a5fe9c9be315472497b2e0547eed:0,"{'Compound/ExprStatement:mv': 1, 'If/Goto:add': 1, 'Label/ExprStatement:mv': 1, 'If/Return:del': 1, 'Compound/Label:add': 1}"
+b409894f9d6961bd5feffb86ba1d8dbbebfb5b72:0,{'Left/Constant:upd': 8}
+0d451e79567f0c5b51004354e08c95f442491cb4:4,"{'Left/Constant:upd': 16, 'GenericList/Left:add': 8, 'Ident/GenericString:upd': 16}"
+d60fc1bbc26a16e79258d9b11baea83f49ff7776:0,"{'Binary/SizeOfExpr:del': 2, 'Binary/Constant:add': 2, 'Binary/Cast:del': 2, 'Ident/GenericString:mv': 4, 'Program/NotParsedCorrectly:add': 21, 'Program/NotParsedCorrectly:del': 21, 'Binary/Ident:add': 2}"
+6518c10be952ef0afb95e5ea5d277458e273b662:0,"{'Left/Constant:upd': 4, 'Ident/GenericString:upd': 4}"
+38c385449048ef4372ec7973c179bf1012cb284e:1,{'Definition/GenericString:upd': 2}
+e6028db0146cf5a68dbd1508225ea49840997880:0,{'Compound/ExprStatement:mv': 2}
+5ddfbbb9ca2e74d4b392ccef675641babba6b7f8:1,"{'GenericList/Left:add': 4, 'Compound/DeclList:add': 2, 'Ident/GenericString:upd': 8}"
+5ddfbbb9ca2e74d4b392ccef675641babba6b7f8:0,"{'GenericList/Left:add': 4, 'Compound/DeclList:add': 2, 'Ident/GenericString:upd': 8}"
+26049b11cb4dbe92243c9db5fd35ce7711d9b6bc:0,{'Compound/Break:del': 1}
+26049b11cb4dbe92243c9db5fd35ce7711d9b6bc:1,{'Compound/Break:del': 1}
+dddaba1a3b1b17a6945a973a1ac57358bab269ee:0,"{'ParenExpr/RecordPtAccess:mv': 9, 'Unary/RecordPtAccess:mv': 9, 'Unary/ParenExpr:del': 9}"
+930a6eac9f40e692bd9670d89bcd9ac0f4019356:0,{'Ident/GenericString:upd': 2}
+629dcf23dffcf90f2104784d4ad9324ab3a1f2ef:0,"{'Binary/Ident:mv': 2, 'Compound/ExprStatement:add': 1, 'Binary/FunCall:mv': 1, 'Binary/ParenExpr:del': 1, 'Assignment/FunCall:mv': 1}"
+64417a398973d964139306c0b152536e468bf77c:0,{'DeclList/Storage:add': 2}
+5255e4d9dfe2e33a5d68c54f6d1bee28fc5edd66:0,"{'If/FunCall:mv': 1, 'Ident/GenericString:upd': 2, 'Assignment/Ident:add': 1, 'Compound/DeclList:add': 1, 'Compound/ExprStatement:mv': 4, 'If/FunCall:add': 1, 'GenericList/Left:mv': 2, 'If/Break:del': 1, 'Some/FunCall:mv': 1, 'Assignment/Constant:del': 1, 'GenericList/Left:add': 1, 'If/Compound:add': 1, 'Compound/If:mv': 2, 'Compound/ExprStatement:add': 1}"
+29323b3e6bc65d95e2ef5add5db332fcb41ff2e6:0,"{'DeclList/GenericString:del': 1, 'DeclList/Storage:del': 1}"
+f4e4a67a37e7c9624b3e8bb9655db2ae45243f3d:0,"{'ReturnExpr/FunCall:add': 1, 'If/ReturnExpr:add': 1, 'ReturnExpr/Unary:del': 1, 'If/FunCall:mv': 1, 'Assignment/FunCall:mv': 2, 'Compound/If:add': 1, 'Compound/DeclList:add': 1, 'ReturnExpr/FunCall:mv': 1, 'If/Binary:add': 1, 'Compound/ExprStatement:add': 2, 'If/ReturnExpr:del': 1, 'ReturnExpr/Ident:add': 1}"
+780e312175f688ab5ab6124c91d46fa2b9afe2d2:2,"{'DefineExpr/Cast:del': 2, 'ParenExpr/CondExpr:mv': 2, 'Left/CondExpr:mv': 2, 'DefineExpr/FunCall:add': 2}"
+97ccd4af120c6ee183f424f17672870809bd6efd:0,"{'Compound/Label:add': 1, 'ReturnExpr/Unary:mv': 1, 'Assignment/Unary:mv': 1, 'Compound/ReturnExpr:mv': 2, 'Compound/ReturnExpr:del': 2, 'Compound/ExprStatement:add': 2, 'Compound/Goto:add': 3, 'If/Goto:add': 1, 'If/ReturnExpr:del': 1}"
+780e312175f688ab5ab6124c91d46fa2b9afe2d2:6,"{'Compound/ExprStatement:mv': 1, 'If/Compound:del': 1, 'If/ExprStatement:mv': 1}"
+04ca58372c5e4922d7463450ffdb5cdc3d0dd596:0,"{'Binary/Unary:add': 1, 'Binary/Binary:del': 1, 'Ident/GenericString:mv': 2}"
+3b7c7e52efda0d4640060de747768360ba70a7c0:0,{'Ident/GenericString:upd': 2}
+f5740b2e7e74fa9ba915aa74bfba7cf849dce8a7:0,"{'Compound/ReturnExpr:add': 2, 'If/ReturnExpr:del': 2}"
+86b7987dd7a8acbaa54a446a73e2431da88b3ca1:0,{'Compound/ExprStatement:add': 1}
+e6938ea4d56cca1dc7984428d3af79b27ce1db51:0,"{'Binary/Binary:mv': 1, 'If/Binary:mv': 1, 'If/Binary:del': 1}"
+f5335e00f30ef69f093e5074ecf8ef5e778baf3b:0,{'Compound/If:add': 1}
+4b63739efabc93d67d2b6812dd0cd41358fadf29:0,"{'ReturnExpr/FunCall:add': 2, 'Left/Binary:mv': 1, 'ParenExpr/Binary:mv': 1, 'Program/CppTop:add': 1, 'Ident/GenericString:mv': 2, 'ReturnExpr/Binary:del': 2}"
+654043f002b5ec954aef5baafeb37b3158b0352d:0,{'Compound/ExprStatement:del': 2}
+aa292fa4093d7afab513fee77e3f78229968b931:0,"{'Program/CppTop:del': 1, 'Program/CppTop:mv': 2, 'InitList/InitDesignators:del': 1, 'Program/Definition:del': 1}"
+0b2d70764bb39242dcc49c0ebd10fcb8258ce5fa:0,"{'Binary/Cast:add': 2, 'Ident/GenericString:mv': 4, 'Binary/Ident:del': 2}"
+2493c0c166565e36831196446af594eb07892daf:0,"{'Compound/ExprStatement:add': 1, 'Compound/ExprStatement:del': 1}"
+5e7db0389fd05ba8721df3978b76156917cb4256:0,"{'ReturnExpr/Constant:del': 2, 'ReturnExpr/Unary:add': 2}"
+74552f1b2f7bee7f8a7d3040ce86a1df167ec691:0,"{'If/ExprStatement:mv': 3, 'Compound/ExprStatement:mv': 3, 'IfdefDirective/GenericString:upd': 2, 'If/Compound:add': 3}"
+b8017d2957fb0ebf0c2aa91d48f2465f6f799738:0,"{'Compound/ExprStatement:add': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 1, 'Assignment/RecordPtAccess:mv': 2, 'Assignment/Ident:add': 1}"
+1333ab03150478df8d6f5673a91df1e50dc6ab97:0,"{'Compound/ExprStatement:mv': 2, 'Program/NotParsedCorrectly:add': 4, 'Program/NotParsedCorrectly:del': 4}"
+b563a0d049143a98411b6a45745186daf443d587:0,"{'Assignment/FunCall:mv': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 1, 'ReturnExpr/FunCall:mv': 1, 'Compound/ExprStatement:add': 1, 'ReturnExpr/Ident:add': 1}"
+5d8be84397618a2c04ec2b74d5d5a3d852a2ee5a:0,"{'Binary/Ident:mv': 2, 'If/Binary:mv': 1, 'Binary/Binary:mv': 1, 'Binary/Constant:mv': 2, 'Binary/GenericString:upd': 2, 'If/Binary:del': 1, 'Left/Constant:upd': 2}"
+5ecf85f082e2e0f4bfd967b9c7ae9d0b89552153:0,{'Definition/Storage:del': 1}
+c93d81955005c2ac0ea072f88d376026208410e1:0,"{'Compound/Label:add': 1, 'InitExpr/Unary:mv': 1, 'ReturnExpr/Unary:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 2, 'Some/Assignment:add': 1, 'Label/For:mv': 1, 'Compound/For:mv': 1, 'Compound/ExprStatement:add': 1, 'Some/FunCall:mv': 1, 'ReturnExpr/Ident:add': 1, 'Assignment/FunCall:mv': 1}"
+3df770725339c41d1cd9be4da4ca0d968119d8ad:0,"{'Left/Constant:upd': 2, 'Compound/ExprStatement:add': 1, 'Compound/If:mv': 2}"
+742af585268b8473990ff0fe89055e945e419d79:0,"{'ParenExpr/Binary:mv': 1, 'DefineExpr/ParenExpr:add': 1, 'DefineExpr/Binary:mv': 1}"
+fa2d8bbb6360ec4bf831802e925d9db06d3c9649:0,"{'Compound/DeclList:del': 6, 'GenericList/Left:del': 12, 'Ident/GenericString:upd': 26}"
+f7b7caa488eb209f1c63cc98104407c62753e406:0,{'Compound/If:add': 2}
+2f9381e98471837b631743270de988e78aad1f96:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+d9d5713ca628dc211d8b4a1da5fb9e0cfe592b92:0,"{'Compound/ExprStatement:mv': 1, 'If/ExprStatement:mv': 1, 'Compound/If:add': 1}"
+3e9f88e68801fe7f862d7ab57041a68f91ce9b5a:0,"{'Left/Binary:del': 1, 'If/Compound:mv': 2, 'ParenExpr/Assignment:mv': 1, 'Binary/FunCall:mv': 1, 'Some/Assignment:mv': 1, 'Left/FunCall:mv': 1, 'If/Compound:add': 1}"
+7dd91d52a813f99a95d20f539b777e9e6198b931:0,"{'Compound/Goto:add': 1, 'Compound/ReturnExpr:del': 1}"
+6dd93e9e5eb19e81a74b3df8426a945a08ad8a1f:0,{'Compound/ExprStatement:add': 1}
+a2ca8ecb8ffc985e82c9570c3837408f7efe8c9d:0,{'Compound/ExprStatement:add': 3}
+d7312aab230f975b8ec41c0055a17f0d395b7fb5:0,"{'Compound/ReturnExpr:add': 1, 'Assignment/FunCall:mv': 1, 'Compound/If:add': 2, 'Compound/DeclList:add': 1, 'Compound/Label:add': 3, 'Some/Assignment:add': 1, 'Compound/Goto:add': 1, 'Compound/ReturnExpr:del': 1, 'Some/FunCall:mv': 1}"
+cc5bcbbdbf29914e1ab679548c7da68ea46829cf:0,"{'Compound/Return:add': 1, 'Compound/Label:del': 1, 'Compound/Break:del': 2, 'Compound/Break:add': 1, 'Compound/Goto:del': 2}"
+b795016cd2c6aebfa40cbccb3bad4e0325815fb4:0,{'Compound/If:add': 1}
+12d7b7a23694b4d3dba58d7ae971ee9120a617e5:0,"{'Label/ReturnExpr:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/ReturnExpr:mv': 1}"
+e26a755211c72ccfc52faf4e647757a058eb131a:0,{'Compound/ExprStatement:del': 1}
+2a613e41ec7684ba863d54a9df3d964e2c7aa4c1:0,"{'If/Return:add': 1, 'If/ExprStatement:mv': 2, 'ReturnExpr/Unary:mv': 2, 'If/Compound:del': 3, 'ParenExpr/Unary:mv': 2, 'Compound/ExprStatement:mv': 2, 'NotParsedCorrectly/GenericString:add': 2, 'Left/Constant:upd': 2, 'ReturnExpr/ParenExpr:del': 2}"
+f49a59c4471d81a233e09dda45187cc44fda009d:0,{'Ident/GenericString:upd': 2}
+c67d2f074073b39e5eba84e852c894c22057d159:0,"{'Compound/Label:add': 1, 'Goto/GenericString:upd': 18, 'Compound/Goto:add': 1, 'Compound/ExprStatement:mv': 1, 'Label/GenericString:upd': 2, 'Label/ExprStatement:mv': 1}"
+d0d670abcf97d2e1a369449847d776ebbfba292d:0,"{'Ident/GenericString:upd': 2, 'Some/Assignment:add': 1, 'Some/Assignment:mv': 1, 'Some/Assignment:del': 2, 'Assignment/Assignment:mv': 1, 'Compound/ExprStatement:add': 1, 'Assignment/RecordPtAccess:mv': 4, 'Assignment/Ident:mv': 2, 'Compound/DeclList:del': 1, 'Assignment/GenericString:mv': 2}"
+f16feb5119a87f5e683be7e8916c060abfb0e8d6:2,"{'Compound/Case:add': 1, 'InitList/InitList:add': 1, 'Compound/Break:add': 1}"
+8a3c033262311ad274ef40f5ab4f2ec1d453ad72:0,"{'ParenExpr/RecordPtAccess:mv': 1, 'Unary/RecordPtAccess:mv': 1, 'Unary/ParenExpr:del': 1}"
+cea07e523c218ba45b9448ff78e18357880a2548:0,"{'If/Compound:del': 1, 'If/Break:add': 1}"
+86bb4f697a964ab5e50f1159e04c6a5d5acde2d4:0,"{'Compound/ExprStatement:mv': 2, 'If/Unary:add': 1, 'If/Unary:mv': 2, 'Compound/If:add': 1}"
+4d1b2fbbaf6420f64fae8b3f3a7801fc97d07260:0,"{'Binary/Constant:del': 8, 'Left/Ident:add': 2, 'Left/Constant:del': 2, 'Binary/Ident:add': 8}"
+c7f268df3f4e80513271aea8e91f3fd0701aae1b:0,"{'ReturnExpr/Constant:del': 1, 'ReturnExpr/Unary:add': 1}"
+a31267c30880ebdc73e6815f58c69a665052fab8:0,{'Compound/Label:mv': 2}
+b65d6040e3a7cd75d9287f7ddfd115e85fde4b44:0,"{'Ident/GenericString:upd': 8, 'Some/Assignment:add': 1, 'DeclList/GenericString:mv': 2, 'DeclList/GenericString:add': 1, 'Compound/DeclList:add': 1, 'FunCall/Ident:mv': 2, 'Binary/FunCall:add': 2, 'Binary/Unary:del': 2, 'GenericList/Left:del': 2, 'Assignment/FunCall:add': 1, 'Ident/GenericString:mv': 6, 'Compound/DeclList:del': 2, 'DeclList/InitExpr:mv': 2, 'DeclList/InitExpr:del': 1, 'Assignment/Unary:del': 1, 'FunCall/GenericList:mv': 2, 'Some/FunCall:del': 1}"
+04bc936591469433b6ad3b16b04e07cb1b86690a:0,{'Compound/ExprStatement:add': 1}
+5c2b6078ce02c3e81eb0aa2f07bf59ba67461ce2:0,"{'ReturnExpr/Ident:add': 1, 'Compound/If:add': 1, 'Compound/ExprStatement:add': 1, 'ReturnExpr/FunCall:mv': 1, 'Assignment/FunCall:mv': 1}"
+036de8efae4b81f8e1504fab654070cecce6dfa9:0,"{'If/Return:add': 1, 'If/ExprStatement:del': 1, 'Compound/Return:del': 1}"
+df065b373f882c4efc396afa1f31cd8afedab356:0,"{'If/Goto:add': 7, 'If/ReturnExpr:del': 7, 'Compound/ReturnExpr:add': 1, 'Compound/Label:add': 1}"
+0fcd869f9e0947ddb22ba8ba197cbe43e39f97f3:0,"{'InitExpr/RecordPtAccess:mv': 1, 'Compound/ExprStatement:add': 1, 'DeclList/InitExpr:del': 1, 'Assignment/RecordPtAccess:mv': 1}"
+0fcd869f9e0947ddb22ba8ba197cbe43e39f97f3:1,"{'If/ExprStatement:mv': 1, 'Assignment/Ident:add': 1, 'Assignment/RecordPtAccess:del': 1, 'Compound/If:add': 1, 'Ident/GenericString:upd': 4, 'Compound/DeclList:add': 1, 'Compound/ExprStatement:mv': 1, 'CondExpr/RecordPtAccess:mv': 1, 'Ident/GenericString:mv': 4, 'Program/NotParsedCorrectly:add': 1, 'Cast/RecordPtAccess:mv': 1, 'Binary/RecordPtAccess:del': 1, 'Cast/Ident:add': 1, 'Binary/Ident:add': 1, 'Program/NotParsedCorrectly:del': 1}"
+caac970f91f39f67b5e48680840605e24896ff99:0,{'Ident/GenericString:upd': 2}
+221b7b5796b520b51c34c40239d77921ba39225b:0,"{'Compound/ExprStatement:mv': 2, 'If/Binary:mv': 3, 'Compound/If:add': 2, 'If/Compound:mv': 2, 'If/ExprStatement:mv': 2, 'ParenExpr/Binary:mv': 3, 'If/Binary:add': 2, 'Compound/If:mv': 2, 'Compound/If:del': 3}"
+a3b3842c2e27ba07f8f7944a76013425d182c47b:0,"{'Some/Assignment:add': 1, 'Compound/DeclList:add': 1, 'Assignment/FunCall:mv': 1, 'Some/FunCall:mv': 1, 'Compound/If:add': 1}"
+60f53cf99060472973f16452116d9c467f8b08c6:0,"{'Compound/ExprStatement:add': 1, 'Compound/DeclList:add': 1, 'Ident/GenericString:upd': 4}"
+fa611271b4d681d02520c458c555e48ee11d61d4:0,"{'Left/SizeOfType:del': 1, 'Left/SizeOfExpr:add': 1}"
+34fd5dad46fc494c6ed3b174b2c991ea9961ebe9:0,{'Compound/ReturnExpr:del': 1}
+82281bc0c31ccd3a0733c678ad0f0a19ca59246d:0,"{'Compound/ExprStatement:add': 4, 'Program/NotParsedCorrectly:add': 6, 'Program/NotParsedCorrectly:del': 6}"
+82281bc0c31ccd3a0733c678ad0f0a19ca59246d:1,{'Compound/ExprStatement:add': 2}
+af3d305ca71fea5dfdeba4bcecf2f91fa16dfa9d:1,"{'Assignment/Constant:del': 5, 'Assignment/Ident:add': 5, 'Program/NotParsedCorrectly:add': 5, 'Program/NotParsedCorrectly:del': 5}"
+19c551482ad620336afb724bb6cfcf1720fa545c:0,"{'Binary/Binary:mv': 1, 'If/Binary:mv': 1, 'If/Binary:del': 1}"
+2d33fa1059da4c8e816627a688d950b613ec0474:0,{'DefineExpr/Constant:upd': 2}
+0d07fc1b027403d05b223c7c99ace996de8cad7b:0,"{'Left/Constant:upd': 2, 'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+5c22e2294156377b7e2d2d99aaffea9ae6994452:0,"{'Compound/DeclList:del': 1, 'ReturnExpr/Ident:add': 1, 'Ident/GenericString:mv': 2, 'Compound/ExprStatement:del': 2, 'ReturnExpr/CondExpr:del': 1}"
+41ada9df7f340998e810dcda21a00da5f75c4147:0,"{'Compound/Label:add': 1, 'Goto/GenericString:upd': 4}"
+6946edd07a98e74fa7eedc465dc37a615830a311:0,"{'ReturnExpr/FunCall:mv': 1, 'ParenExpr/FunCall:mv': 1, 'ReturnExpr/Unary:add': 2, 'Unary/Constant:mv': 4, 'Unary/GenericString:mv': 4, 'ReturnExpr/ParenExpr:del': 3}"
+3333447c6946f8a76548d1599686a2bbd11e9264:0,"{'Compound/Label:add': 5, 'Assignment/FunCall:mv': 3, 'Compound/ReturnExpr:add': 1, 'Compound/If:add': 5, 'Some/Assignment:add': 3, 'Some/FunCall:mv': 3}"
+c63eee546079859e9b6ede13f32457b8bf2fb1ff:0,"{'Program/CppTop:add': 1, 'GenericList/Left:del': 1, 'Ident/GenericString:upd': 2}"
+bb6b03de3f5456a3d48a9de83eb3411d0b0ba395:0,{'Left/Constant:upd': 6}
+4833d7f0a86fd9a44f98bedf0c639e1da070d3a0:0,{'Definition/Storage:del': 1}
+b21629da120dd6145d14dbd6d028e1bba680a92b:0,"{'If/FunCall:del': 1, 'Left/RecordPtAccess:mv': 1, 'Program/NotParsedCorrectly:add': 8, 'Program/Declaration:del': 4, 'Program/Declaration:add': 4, 'If/RecordPtAccess:mv': 1, 'Program/NotParsedCorrectly:del': 8}"
+5e102b3b4fa944815aead89e63eec2a35069a07b:0,{'Ident/GenericString:upd': 2}
+a11f5d2b2b37fcc5a06e9149686a85f3148f4190:0,"{'Left/Constant:upd': 8, 'ParenExpr/Binary:mv': 2, 'If/Binary:mv': 2, 'If/ParenExpr:del': 2}"
+b721260085533a9bead1fd853c0aead7d82ce763:0,"{'Compound/Label:add': 1, 'ReturnExpr/Unary:mv': 2, 'Compound/ReturnExpr:add': 1, 'Compound/Goto:add': 2, 'Assignment/Unary:mv': 2, 'Compound/ExprStatement:add': 2, 'Compound/ReturnExpr:del': 2}"
+f37d6e701f2a3a04e66690397340a6417f6e053f:0,"{'Compound/Label:add': 1, 'Goto/GenericString:upd': 4, 'Compound/For:add': 1, 'Compound/Goto:add': 1, 'Compound/ReturnExpr:del': 1, 'Label/GenericString:upd': 2}"
+f1383176c928016e6b7c85bb8c646fe829600db0:2,{'DeclList/GenericString:upd': 2}
+f1383176c928016e6b7c85bb8c646fe829600db0:1,{'Definition/GenericString:upd': 2}
+f2c28cfc26e53101c39d8052777ea9d465c718e0:0,"{'Label/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/ExprStatement:add': 2}"
+06b3f44a9784c48c64dfedf5f012deb93049a3aa:0,"{'If/ExprStatement:mv': 1, 'Case/ExprStatement:mv': 1, 'Compound/Label:mv': 2, 'Case/If:add': 1, 'Compound/Goto:del': 1}"
+2851fcd52073b03e865128cad8161891094ecc02:0,"{'Ident/GenericString:upd': 12, 'If/Compound:mv': 2, 'Compound/DeclList:add': 4, 'ParameterType/GenericString:upd': 4, 'Left/Constant:upd': 2, 'GenericList/Left:add': 3}"
+6699291f89aa3e22490c9c93620350f92015b699:0,{'Compound/ExprStatement:mv': 2}
+b59958ee900c81692da131873c0fc0b1599f164f:1,"{'Ident/GenericString:mv': 4, 'ParenExpr/Ident:add': 2, 'ParenExpr/Binary:del': 2}"
+6946edd07a98e74fa7eedc465dc37a615830a311:1,"{'Ident/GenericString:mv': 2, 'ReturnExpr/ParenExpr:del': 1, 'ReturnExpr/Ident:add': 1}"
+e6889b310eb997afe698fac9762203e11577af1e:0,"{'Program/CppTop:del': 1, 'Program/CppTop:add': 1, 'Program/NotParsedCorrectly:add': 16, 'Program/Declaration:del': 3, 'Program/Declaration:add': 3, 'Program/NotParsedCorrectly:del': 16}"
+18ebe5c1c63b46f1acc41f68af5d82d6b7b39d73:0,"{'Assignment/FunCall:mv': 2, 'Binary/FunCall:mv': 2, 'Compound/ExprStatement:add': 2, 'Assignment/Constant:del': 2, 'ExprStatement/Some:mv': 4, 'Compound/If:del': 2}"
+e0e982b436cd678dc80a1167a00a8104f54bb761:0,"{'GenericList/Left:del': 2, 'Ident/GenericString:upd': 4}"
+d2c7f7730e5660c812765acd57516f709ea35fc0:2,"{'Compound/ExprStatement:mv': 3, 'If/Compound:del': 3, 'If/ExprStatement:mv': 3}"
+f883c4ca5e6948de4fd461ca4a4fbb15aff8bbff:0,{'Compound/Return:del': 4}
+60d5f66ce5e1a569fe0230bc1b23bfb5295f383d:2,{'DeclList/GenericString:upd': 2}
+60d5f66ce5e1a569fe0230bc1b23bfb5295f383d:1,{'Definition/GenericString:upd': 2}
+60d5f66ce5e1a569fe0230bc1b23bfb5295f383d:0,{'Ident/GenericString:upd': 4}
+7f8b183059edc6c74654301431d520a91539e45f:0,"{'Compound/Break:del': 1, 'Compound/If:del': 1, 'Compound/Break:mv': 2}"
+44eeccc054909fd47e6a6cd55eba05a985396177:0,"{'Default/Break:add': 1, 'Default/ExprStatement:del': 1}"
+8b3b90aca293418171297ae14efac5817ba02bd3:0,"{'If/ExprStatement:mv': 3, 'If/If:mv': 1, 'If/Compound:del': 3, 'Compound/ExprStatement:mv': 3, 'Program/CppTop:add': 1, 'If/Compound:add': 1, 'Compound/If:mv': 1, 'Program/NotParsedCorrectly:del': 1}"
+ac0a36679928e3e8d7cc0b4c2fd02fb368186992:2,"{'If/FunCall:mv': 1, 'Compound/ExprStatement:del': 1, 'Compound/If:add': 1, 'Ident/GenericString:upd': 2, 'GenericList/Left:del': 1, 'Some/FunCall:mv': 1}"
+ac0a36679928e3e8d7cc0b4c2fd02fb368186992:3,"{'If/FunCall:mv': 1, 'Compound/ExprStatement:del': 1, 'Compound/If:add': 1, 'Ident/GenericString:upd': 2, 'GenericList/Left:del': 1, 'Some/FunCall:mv': 1}"
+ac0a36679928e3e8d7cc0b4c2fd02fb368186992:0,"{'Program/CppTop:mv': 8, 'Program/Definition:del': 1}"
+f1f74aa2cf7f109b2eaf3502b8bd13bf40bf6633:1,{'Include/GenericString:upd': 2}
+b9c79543efcd0235d2fc1485c31ec9e9584f3ad7:0,"{'Compound/ReturnExpr:add': 1, 'Assignment/FunCall:mv': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 1, 'ReturnExpr/FunCall:mv': 1, 'Compound/ReturnExpr:del': 1, 'Compound/ExprStatement:add': 1}"
+1b4448815ee746f878ca4c6b8fffa23441f6d16c:0,"{'Definition/GenericString:upd': 2, 'Assignment/SizeOfExpr:del': 1, 'DeclList/GenericString:upd': 2, 'Assignment/SizeOfType:add': 1, 'Ident/GenericString:upd': 4}"
+933d594313a5928ffc5325d7bbb6e2383d79622e:20,"{'NotParsedCorrectly/GenericString:upd': 4, 'NotParsedCorrectly/GenericString:add': 4}"
+adbe6991efd36104ac9eaf751993d35eaa7f493a:0,{'RecordPtAccess/GenericString:upd': 2}
+5433ba365f6dd9f30899188755eb4b093314732c:0,"{'Left/Binary:mv': 1, 'Assignment/ParenExpr:add': 2, 'Assignment/RecordAccess:mv': 2, 'ParenExpr/Unary:mv': 1, 'ParenExpr/Binary:mv': 1, 'Assignment/FunCall:del': 4, 'Left/RecordAccess:mv': 2, 'Left/Unary:mv': 1}"
+dc6d2a0f9782cf323acfddb6d98f5dbacc9cd4e3:0,{'Ident/GenericString:upd': 2}
+2daa48729dfafd349c2a52520734de2edb9dc805:0,{'Compound/ExprStatement:mv': 2}
+f7b83b908fbecadefa73c0d76b9c719d09c1d96d:0,"{'Compound/ExprStatement:add': 2, 'DeclList/GenericString:add': 1, 'Ident/GenericString:upd': 4}"
+e0493627c32f7d04683c44d195c0f3e1fc4678d4:0,"{'Compound/ReturnExpr:add': 1, 'Assignment/FunCall:mv': 5, 'Compound/If:add': 2, 'Compound/DeclList:add': 1, 'Some/Assignment:add': 5, 'Compound/ExprStatement:mv': 8, 'Some/FunCall:mv': 5}"
+d552b233f692416d63bb93eb35bf24e5c95c7e0b:0,{'Definition/Storage:del': 1}
+afd270d1a45043cef14341bcceff62ed50e8dc9a:0,"{'Compound/Label:add': 2, 'ReturnExpr/Unary:mv': 5, 'Compound/ReturnExpr:add': 1, 'Assignment/Unary:mv': 5, 'Compound/ReturnExpr:del': 5, 'Compound/ExprStatement:mv': 1, 'Compound/ExprStatement:add': 5, 'DeclList/GenericString:add': 1, 'Compound/Goto:add': 5, 'Label/ExprStatement:mv': 1}"
+a3d81a379b0933f3a2e9ceba6cb770ceb4865c18:0,"{'Left/Constant:add': 1, 'GenericList/ParameterType:add': 1, 'Left/Ident:add': 1, 'Left/Cast:del': 2, 'Ident/GenericString:upd': 2, 'Ident/GenericString:mv': 2}"
+6950e23e54b1c94abf8c60c1ddfac79133d41de2:0,"{'Left/Constant:upd': 2, 'Compound/ExprStatement:mv': 26, 'ExprStatement/Some:mv': 2, 'If/ExprStatement:del': 1, 'If/Compound:add': 3}"
+2a21f86917f7a9fe13b180e895a816871a234dee:0,"{'If/ReturnExpr:add': 1, 'If/Unary:del': 1, 'Ident/GenericString:upd': 6, 'If/Compound:del': 1, 'FunCall/Ident:mv': 2, 'If/FunCall:add': 1, 'GenericList/Left:del': 1, 'Ident/GenericString:mv': 2, 'FunCall/GenericList:mv': 2}"
+be3e5b32462790b91c14d5869fbabaf5bfe7c901:0,"{'Assignment/Constant:del': 3, 'Assignment/Ident:add': 3}"
+be28b63506a99dc6dc8c6267ecfea8a649b29523:0,"{'Program/IfdefTop:mv': 2, 'Program/Declaration:del': 1}"
+0f9e2bf008a1b143973a01b52320eb66c20ac6ab:0,"{'Label/ReturnExpr:mv': 1, 'Compound/Label:del': 1, 'Compound/If:del': 1, 'Compound/ReturnExpr:mv': 1}"
+becdbc592580f76df58fdae14544f5db36ae05b4:0,{'Definition/Storage:del': 1}
+2dcb7efa120a8d8f625001d6c7cd78aa38c411a7:0,"{'InitList/InitList:add': 1, 'InitList/InitList:mv': 2, 'InitList/InitDesignators:add': 1}"
+26303150c3fe9fce81cc1baa60a32aed6ff203ee:1,{'Definition/GenericString:upd': 2}
+26303150c3fe9fce81cc1baa60a32aed6ff203ee:0,{'Ident/GenericString:upd': 2}
+26303150c3fe9fce81cc1baa60a32aed6ff203ee:2,{'DeclList/GenericString:upd': 2}
+c206f8bc543858ed2d82b1547c1a986dbd3df022:0,"{'Compound/If:mv': 2, 'Compound/If:add': 1}"
+388cdf31db6dfc3d175786a76989266380e12c26:0,"{'Assignment/Binary:mv': 1, 'Left/Binary:mv': 2, 'Binary/ArrayAccess:mv': 2, 'Left/ArrayAccess:mv': 2, 'ParenExpr/Binary:mv': 1, 'Binary/FunCall:add': 2, 'Assignment/Binary:del': 1, 'Assignment/FunCall:add': 2}"
+9e17df37d710f8998e9cb10a548304fe33d4a5c2:0,"{'Compound/Label:add': 1, 'Assignment/FunCall:mv': 2, 'Ident/GenericString:upd': 2, 'Some/Assignment:add': 2, 'Compound/If:add': 1, 'Compound/DeclList:add': 2, 'For/ExprStatement:mv': 2, 'Compound/ExprStatement:mv': 6, 'Compound/ExprStatement:add': 2, 'GenericList/Left:del': 1, 'Program/NotParsedCorrectly:add': 3, 'Some/FunCall:mv': 2, 'Program/Declaration:del': 8, 'Program/Declaration:add': 8, 'For/Compound:add': 2, 'Program/NotParsedCorrectly:del': 3}"
+e947d9ad8ab118d51ff07b7d93c3c1a3e9f7c42f:0,"{'ParamList/ParameterType:del': 1, 'Label/ExprStatement:add': 1, 'Compound/ExprStatement:mv': 1, 'Ident/GenericString:upd': 2, 'InitExpr/RecordPtAccess:add': 1, 'Assignment/Ident:del': 1, 'Label/ExprStatement:mv': 1, 'Assignment/FunCall:add': 1, 'Compound/ExprStatement:add': 1, 'GenericList/Left:del': 1, 'InitExpr/FunCall:del': 1, 'Ident/GenericString:mv': 4}"
+bd16f9ebd083b965dcdfb6b762e206374d5b823b:0,{'Ident/GenericString:upd': 2}
+69e3bc543c5610236b74d7e186bc8829b1bc3689:0,"{'ParenExpr/ArrayAccess:mv': 1, 'Unary/ArrayAccess:mv': 1, 'ParenExpr/RecordPtAccess:mv': 5, 'Unary/RecordPtAccess:mv': 5, 'Unary/ParenExpr:del': 6}"
+cab9a128dad0fa0c8400a03d9375c781dda43982:0,"{'Compound/ExprStatement:mv': 1, 'If/ExprStatement:mv': 1, 'Compound/If:add': 1}"
+6fa7db83e4f9ef5cd820b7c8aba06cd068035641:0,{'ParamList/ParameterType:add': 1}
+6fa7db83e4f9ef5cd820b7c8aba06cd068035641:1,{'ParamList/ParameterType:add': 2}
+6fa7db83e4f9ef5cd820b7c8aba06cd068035641:2,{'ParamList/ParameterType:add': 3}
+6fa7db83e4f9ef5cd820b7c8aba06cd068035641:3,{'ParamList/ParameterType:add': 1}
+6fa7db83e4f9ef5cd820b7c8aba06cd068035641:4,{'ParamList/ParameterType:add': 7}
+6fa7db83e4f9ef5cd820b7c8aba06cd068035641:5,{'ParamList/ParameterType:add': 2}
+5bd9d99d107c56ff7b35a29e930d85f91a07b2fd:2,"{'Some/Assignment:add': 2, 'Assignment/FunCall:mv': 2, 'Some/FunCall:mv': 2, 'Compound/If:add': 2}"
+8353584eae4af8f37e5a23b63ed816c79185a9c9:0,"{'Left/Constant:upd': 4, 'GenericList/Left:del': 2}"
+2cbba75a56ea78e6876b4e2547a882f10b3fe72b:0,"{'Compound/If:mv': 2, 'Program/NotParsedCorrectly:add': 2, 'Program/NotParsedCorrectly:del': 2}"
+83bffc8125de274ea8fae106dffc873738d755b9:0,"{'If/ExprStatement:mv': 1, 'If/Binary:mv': 2, 'Compound/If:add': 1, 'If/Compound:mv': 1, 'Compound/ExprStatement:mv': 1, 'MacroIteration/Compound:mv': 1, 'MacroIteration/Compound:del': 1}"
+e9d126cdfa60b575f1b5b02024c4faee27dccf07:0,"{'Binary/Ident:mv': 4, 'Compound/ExprStatement:mv': 1, 'Binary/GenericString:mv': 2, 'If/Binary:add': 1, 'If/ExprStatement:mv': 1, 'Binary/GenericString:upd': 2, 'If/Binary:del': 1, 'If/Compound:add': 1}"
+b4e3e6eec877078e394c3c10cf37dae046e6f334:0,"{'Left/Constant:upd': 4, 'GenericList/Left:add': 2, 'Ident/GenericString:upd': 4}"
+58f3e0a864c46dadbeadf682e6bbdcab14ba19d3:0,"{'Ident/GenericString:mv': 2, 'If/FunCall:add': 1, 'If/Unary:del': 1}"
+ed7487c2c28560a6b06900851ab63ebca1aea444:0,{'Compound/Goto:add': 1}
+ac22521cb2dc07e0b2193868c647dee5d737f85a:0,"{'ReturnExpr/Constant:del': 1, 'ParamList/ParameterType:del': 1, 'Assignment/FunCall:mv': 1, 'If/Compound:del': 1, 'If/ReturnExpr:mv': 1, 'Some/Assignment:add': 1, 'Compound/ReturnExpr:mv': 1, 'GenericList/Left:del': 1, 'Some/FunCall:mv': 1, 'ReturnExpr/Ident:add': 1}"
+5a2815f03c0fd5a091c95af93b7f1a17a971ac20:0,"{'Program/Declaration:add': 1, 'Compound/If:add': 1, 'Program/NotParsedCorrectly:del': 5, 'Program/NotParsedCorrectly:add': 5, 'Program/Declaration:del': 1}"
+fd69aee4271ead4bf5c759aeaf4f16ab3d63322f:0,"{'Compound/ExprStatement:mv': 1, 'Definition/Compound:mv': 1, 'If/Compound:mv': 1, 'If/ExprStatement:mv': 1, 'Definition/Compound:del': 1, 'Compound/If:del': 1}"
+933d594313a5928ffc5325d7bbb6e2383d79622e:19,"{'Program/Declaration:add': 2, 'Program/NotParsedCorrectly:del': 4, 'Program/NotParsedCorrectly:add': 4, 'Program/Declaration:del': 2}"
+08cb3f60b2f866c906a5a779444b30ba8f9a93c8:0,"{'Binary/Unary:add': 1, 'Binary/RecordPtAccess:mv': 1, 'Unary/RecordPtAccess:mv': 1}"
+22505b258be0c112b71ef5a794579965c540188f:0,"{'Label/ReturnExpr:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/ReturnExpr:mv': 1, 'Ident/GenericString:upd': 10}"
+e1cc3112b22715f91a07680ea315fd92521a5c2e:0,"{'Compound/Break:del': 1, 'Compound/Break:mv': 2}"
+186e868786f97c8026f0a81400b451ace306b3a4:0,"{'GenericList/Left:add': 2, 'Ident/GenericString:upd': 4}"
+a7b19448ddbdc34b2b8fedc048ba154ca798667b:0,{'RecordPtAccess/GenericString:upd': 2}
+4a6d87f1db06c9670251d6c72a89319e7d1cbaee:0,"{'Compound/ExprStatement:mv': 3, 'Compound/ExprStatement:del': 1, 'Label/If:del': 1, 'If/ExprStatement:mv': 4, 'Compound/MacroStmt:add': 1, 'Label/ExprStatement:mv': 1, 'Compound/If:del': 3}"
+4a6d87f1db06c9670251d6c72a89319e7d1cbaee:1,"{'If/Binary:mv': 1, 'If/If:mv': 1, 'Sequence/Constant:upd': 2, 'ParenExpr/Binary:mv': 1, 'If/Binary:del': 1, 'Compound/If:mv': 1}"
+e0a30008be203ded9b90b6bef668041e210fde52:0,"{'If/ExprStatement:mv': 3, 'If/Compound:del': 4, 'If/ReturnExpr:mv': 1, 'Compound/ReturnExpr:mv': 1, 'For/ExprStatement:mv': 4, 'Compound/ExprStatement:mv': 7, 'For/Compound:del': 4}"
+26462869a6e8a4bc03d2be8d821953141c7e730c:0,{'Include/GenericString:upd': 6}
+f240729832dff3785104d950dad2d3ced4387f6d:0,"{'MacroIteration/Left:add': 1, 'MacroIteration/GenericString:upd': 2, 'Compound/DeclList:add': 1}"
+10e5efb7b51f30b696a2cde366b783d8ecd0f465:2,{'DeclList/GenericString:upd': 2}
+5bfd446e7bd94ee6f9c17d07b5d47342b96b387a:0,"{'Some/FunCall:add': 1, 'Binary/FunCall:mv': 1, 'If/ExprStatement:mv': 2, 'If/IfToken:add': 1, 'Some/FunCall:mv': 1, 'If/If:add': 1, 'If/IfToken:mv': 2}"
+212db303ed21df1bee5037362f3a1098b53b5e55:0,"{'If/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'If/Compound:add': 1}"
+f3033aecf2341a4e2669c63ed78a190a1c3e7a3a:0,"{'DefineDoWhileZero/Compound:mv': 1, 'ReturnExpr/Unary:del': 1, 'Define/DefineExpr:add': 1, 'Compound/ReturnExpr:add': 2, 'Some/FunCall:add': 12, 'Compound/ExprStatement:mv': 27, 'Some/GenericString:mv': 12, 'GenericList/Left:mv': 2, 'Compound/ExprStatement:del': 7, 'Ident/GenericString:upd': 8, 'If/Compound:mv': 1, 'ReturnExpr/Constant:add': 1, 'Compound/ReturnExpr:mv': 2, 'If/ExprStatement:mv': 1, 'DefineExpr/FunCall:mv': 1, 'Some/FunCall:mv': 19, 'Compound/If:del': 1, 'FunCall/GenericList:mv': 8, 'FunCall/GenericList:add': 2, 'RecordAccess/GenericString:mv': 4, 'FunCall/Ident:add': 2, 'FunCall/Ident:mv': 8, 'If/Binary:add': 1, 'Ident/GenericString:mv': 8, 'If/ExprStatement:del': 1, 'Unary/GenericString:mv': 2, 'RecordAccess/RecordPtAccess:mv': 2, 'Left/Unary:mv': 4, 'Left/Constant:add': 2, 'If/Binary:mv': 2, 'ExprStatement/Some:mv': 2, 'If/Compound:add': 1, 'Compound/If:add': 21, 'Binary/FunCall:mv': 20, 'RecordPtAccess/Ident:mv': 4, 'Define/DefineDoWhileZero:del': 1, 'Unary/RecordAccess:mv': 2, 'Compound/If:mv': 2}"
+f8c47be4e883bc49171a85985e6fb54d4680c6eb:0,"{'If/ReturnExpr:del': 1, 'If/Compound:add': 1, 'ReturnExpr/Constant:mv': 2}"
+44c5f629f1abb70be239a289f4c9bfd380f67f2a:0,"{'Assignment/Assignment:mv': 1, 'Compound/ExprStatement:add': 1, 'Some/Assignment:mv': 1, 'Assignment/Constant:add': 1}"
+4ab84d450e24b3a309608182a8d8e30626b46f8f:0,"{'Unary/RecordAccess:mv': 1, 'Binary/RecordAccess:mv': 1, 'Binary/Unary:mv': 2, 'Binary/ParenExpr:del': 1, 'Unary/ParenExpr:add': 1}"
+65fc7668006b537f7ae8451990c0ed9ec882544e:0,"{'Compound/ExprStatement:add': 3, 'ReturnExpr/FunCall:mv': 3, 'Some/FunCall:mv': 3, 'Compound/ReturnExpr:del': 3}"
+11c7e0e2f91fdfdf9f7b4d107bc93d6c298c95fe:0,"{'Compound/ReturnExpr:add': 1, 'Ident/GenericString:upd': 2, 'Compound/Label:add': 2, 'Compound/If:add': 2, 'Compound/Asm:add': 2, 'Compound/IfdefDirective:del': 15, 'Compound/Asm:del': 2, 'Compound/ReturnExpr:del': 1, 'Ident/GenericString:mv': 4, 'ReturnExpr/ParenExpr:del': 1, 'ReturnExpr/Ident:add': 1}"
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:8,"{'If/Binary:del': 1, 'If/RecordPtAccess:mv': 1, 'Binary/RecordPtAccess:mv': 1}"
+5cc59d299f0690c5ce3b32cdf8e07ac535c2288a:0,"{'Left/FunCall:add': 1, 'Ident/GenericString:upd': 4, 'Binary/FunCall:add': 1, 'Left/ParenExpr:del': 1, 'Ident/GenericString:mv': 8, 'Binary/ParenExpr:del': 1}"
+29e20aa6c6aff35c81d4da2e2cd516dadb569061:0,{'Compound/ExprStatement:mv': 2}
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:2,"{'Compound/If:add': 1, 'Compound/Switch:mv': 2}"
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:3,"{'If/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'If/Compound:add': 1, 'If/IfToken:add': 1, 'If/IfToken:mv': 2}"
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:0,"{'Binary/Binary:mv': 1, 'If/Binary:add': 1, 'If/Binary:mv': 1}"
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:1,"{'If/Binary:add': 1, 'If/Ident:del': 1, 'Ident/GenericString:mv': 2}"
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:6,{'Compound/If:add': 1}
+cff5638ef7852196879f9687e70d49ea291bbb33:0,"{'Compound/ExprStatement:add': 2, 'Compound/DeclList:add': 1}"
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:4,"{'Assignment/FunCall:mv': 1, 'Unary/FunCall:mv': 1, 'Compound/If:add': 1, 'Assignment/Ident:add': 1, 'Assignment/Constant:del': 1, 'Assignment/Unary:del': 1}"
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:5,{'Compound/ExprStatement:add': 2}
+0d08d54f8da9f54bd861f694a81208a8a0625b95:1,{'Definition/GenericString:upd': 2}
+aff1924508e8808a3e9d6b41ce30ad4cbb4be582:0,{'Ident/GenericString:upd': 2}
+0d08d54f8da9f54bd861f694a81208a8a0625b95:2,{'DeclList/GenericString:upd': 2}
+d3a874e899b073496d1fe89b6a2d1aa50870874d:0,"{'Compound/ExprStatement:add': 1, 'Compound/If:add': 1}"
+efdd4070f38e962d69c11f23c5aa033121a8cf0f:0,{'Compound/If:del': 1}
+f84d3d4735a1c96a745c453de8390936a7eb72d3:0,{'Compound/ExprStatement:add': 2}
+258726b350d42b508e1e39f781b61608b6493835:0,"{'NotParsedCorrectly/GenericString:upd': 4, 'NotParsedCorrectly/GenericString:del': 2}"
+de47b69c7b7be46b0848b2c4f8e23c478cd68690:0,{'Compound/ExprStatement:add': 1}
+20758c5b912b47939300e7f67d6d124899caedd5:0,"{'If/ExprStatement:mv': 10, 'If/Binary:mv': 2, 'Compound/If:add': 1, 'If/Compound:mv': 2, 'If/Compound:del': 10, 'Compound/ExprStatement:mv': 10, 'If/IfToken:mv': 2, 'If/IfToken:del': 1}"
+661489adb6bade7bb452e6513daf52e607d1094e:4,"{'Compound/ExprStatement:mv': 1, 'Ident/GenericString:upd': 6, 'Compound/If:add': 3, 'If/Ident:del': 1, 'If/ExprStatement:mv': 1, 'If/Binary:add': 1, 'Ident/GenericString:mv': 2, 'Program/NotParsedCorrectly:add': 21, 'GenericList/Left:add': 2, 'If/Compound:add': 1, 'Compound/If:mv': 2, 'Program/NotParsedCorrectly:del': 21}"
+b724207b4122ac8253c76834b24696a9dc68384a:0,{'Ident/GenericString:upd': 2}
+b724207b4122ac8253c76834b24696a9dc68384a:1,{'Definition/GenericString:upd': 2}
+b724207b4122ac8253c76834b24696a9dc68384a:2,{'DeclList/GenericString:upd': 2}
+e8a285b7b10029c3da7e9bbaa1659e7e08178912:0,{'Compound/If:add': 1}
+955e7da82d8cc917a2c604c782b525dec3466921:1,{'GenericList/Left:del': 8}
+955e7da82d8cc917a2c604c782b525dec3466921:2,"{'ParamList/ParameterType:del': 1, 'Left/CondExpr:del': 1, 'GenericList/Left:del': 2, 'Ident/GenericString:mv': 2, 'Left/Ident:add': 1}"
+661489adb6bade7bb452e6513daf52e607d1094e:2,"{'Compound/ExprStatement:mv': 4, 'GenericList/Left:add': 3, 'Compound/If:add': 3, 'Ident/GenericString:upd': 6}"
+f19885fadfdb0bf410b5e31c7dc2f2be7815e454:0,"{'Label/ExprStatement:mv': 1, 'Compound/If:add': 1, 'Compound/Label:del': 1, 'Compound/ExprStatement:mv': 1, 'Compound/Goto:del': 1}"
+7a444d1f0b557c68f847050b33713ae7b56f25e7:0,{'Compound/ExprStatement:add': 1}
+193d01532a730a53cbc74462799dbc43968b97fd:0,"{'If/ReturnExpr:del': 1, 'Compound/DeclList:add': 1, 'ReturnExpr/FunCall:mv': 1, 'If/Compound:add': 1, 'Assignment/FunCall:mv': 1}"
+780e312175f688ab5ab6124c91d46fa2b9afe2d2:25,"{'Compound/ExprStatement:mv': 1, 'If/Compound:del': 1, 'If/ExprStatement:mv': 1}"
+ef23db9c5ee2dd240ad6875e03d004416f4ee0df:0,{'DeclList/InitExpr:del': 1}
+c6067472252c1d6155c7c01c93e0d580342cdb29:0,"{'ReturnExpr/Constant:del': 1, 'ReturnExpr/Ident:add': 1, 'DeclList/GenericString:upd': 2, 'Ident/GenericString:upd': 8}"
+c03307eab68d583ea6db917681afa14ed1fb3b84:0,"{'Compound/ExprStatement:mv': 2, 'Compound/ExprStatement:add': 1}"
+13f81c099bee8141f764fd41a1f4b68b93be3296:0,{'Compound/ExprStatement:add': 1}
+20ff1418d3936f76df24f5694c6b5eb9179a565f:0,{'Compound/ExprStatement:add': 1}
+0669e5fa802fb7de3c842388059a777afac13205:0,"{'Compound/Label:add': 2, 'Assignment/FunCall:mv': 1, 'Compound/If:add': 2, 'Compound/DeclList:add': 1, 'Some/Assignment:add': 1, 'Some/FunCall:mv': 1, 'Compound/ReturnExpr:add': 1}"
+43d24e48940d04f587818fadc5305b109f5cb8cf:0,{'Ident/GenericString:upd': 2}
+cf732b5fa30f5dc421b4c1911bc2446b9bcbc025:0,"{'ReturnExpr/Constant:del': 1, 'Compound/ReturnExpr:add': 2, 'Definition/Compound:mv': 2, 'If/Compound:del': 1, 'Compound/Break:del': 1, 'ReturnExpr/FunCall:mv': 1, 'ReturnExpr/Ident:mv': 2, 'Definition/Compound:del': 1, 'ReturnExpr/Ident:add': 1, 'Ident/GenericString:upd': 2, 'If/Compound:mv': 2, 'Compound/DeclList:add': 3, 'Compound/ReturnExpr:del': 1, 'Label/ExprStatement:mv': 1, 'Unary/Ident:add': 4, 'Definition/Compound:add': 1, 'If/FunCall:mv': 3, 'Some/FunCall:mv': 1, 'Compound/Label:add': 2, 'Some/Assignment:add': 1, 'Compound/DeclList:mv': 2, 'If/Ident:add': 3, 'Unary/Constant:del': 4, 'If/Goto:add': 2, 'If/ReturnExpr:del': 2, 'Compound/ExprStatement:mv': 7, 'Assignment/FunCall:mv': 5, 'Compound/If:add': 4, 'Compound/ExprStatement:add': 4, 'Compound/If:mv': 2}"
+b03671a826ba9873724164c6c96e82d0f9f5988d:0,{'Definition/Storage:add': 2}
+e58ba01e2cfe7b7d54d28f78c7af3cff4d5419a3:0,"{'Compound/ExprStatement:add': 1, 'DeclList/GenericString:add': 1, 'Ident/GenericString:upd': 4}"
+e302ca47b59f024e90c26367fca6448af5198dc7:2,{'DeclList/GenericString:upd': 2}
+8c09757d91703ccbf0da9fc67764de9714c9e615:0,"{'Compound/ExprStatement:mv': 1, 'If/Compound:del': 1, 'If/ExprStatement:mv': 1}"
+e302ca47b59f024e90c26367fca6448af5198dc7:0,{'Ident/GenericString:upd': 2}
+6da6eabe1038cb438460a8295a37270a8adebb19:15,"{'DeclList/GenericString:del': 1, 'DeclList/Storage:del': 1}"
+4d6b7a779be34e1df296abc1dc555134a8cf34af:2,"{'Definition/Storage:add': 5, 'Definition/GenericString:upd': 4, 'Program/Definition:mv': 2}"
+56ec16cb1e1ce46354de8511eef962a417c32c92:0,"{'Left/Unary:del': 1, 'Ident/GenericString:mv': 2, 'Left/Ident:add': 1, 'Ident/GenericString:upd': 4}"
+4d6b7a779be34e1df296abc1dc555134a8cf34af:1,"{'Definition/Storage:add': 5, 'Definition/GenericString:upd': 4, 'Program/Definition:mv': 2}"
+ee7619f2eb21304dcc846b8dc8f8c3d6cbe11792:2,"{'ParenExpr/Binary:mv': 1, 'If/Binary:mv': 1, 'If/Binary:del': 1}"
+597a1e7cccc9a5a0c47629267ac4b23bf8654578:1,"{'Binary/Constant:del': 1, 'Binary/Ident:add': 1}"
+2b588db82d2c210e84da129a223bb403d3131abe:0,{'Ident/GenericString:upd': 2}
+7dc576158d7e5cdff3349f78598fdb4080536342:3,"{'Left/Ident:add': 5, 'Left/Constant:del': 5}"
+7dc576158d7e5cdff3349f78598fdb4080536342:2,"{'Left/Ident:add': 1, 'Left/Constant:del': 1}"
+7dc576158d7e5cdff3349f78598fdb4080536342:1,"{'Left/Ident:add': 1, 'Left/Constant:del': 1}"
+7dc576158d7e5cdff3349f78598fdb4080536342:0,"{'Left/Ident:add': 4, 'Left/Constant:del': 4}"
+5900adaee8cacb6a188ca9cd888a791585f71c4d:0,{'DeclList/InitExpr:del': 1}
+5900adaee8cacb6a188ca9cd888a791585f71c4d:1,"{'Program/EmptyDef:del': 2, 'Program/EmptyDef:add': 2, 'Program/NotParsedCorrectly:add': 10, 'Program/Declaration:del': 3, 'Program/Declaration:add': 3, 'Program/NotParsedCorrectly:del': 10}"
+5900adaee8cacb6a188ca9cd888a791585f71c4d:2,{'DeclList/InitExpr:del': 1}
+7dc576158d7e5cdff3349f78598fdb4080536342:4,"{'Assignment/Ident:add': 1, 'Program/NotParsedCorrectly:add': 5, 'Program/Declaration:del': 3, 'Assignment/Constant:del': 1, 'Program/Declaration:add': 3, 'Program/NotParsedCorrectly:del': 5}"
+5bf1f439c89d4653f8cc8f8aa303e0d6991aba4b:0,{'Compound/ExprStatement:del': 1}
+075eb0dc3670328fa62425449ca4b52bde2d3c17:0,"{'Compound/ExprStatement:mv': 2, 'Some/GenericString:mv': 2, 'Program/Definition:mv': 6, 'GenericList/Left:mv': 34, 'Left/Ident:add': 3, 'Definition/Storage:del': 1, 'Ident/GenericString:upd': 26, 'Compound/DeclList:add': 9, 'Ident/GenericString:add': 2, 'Definition/GenericString:upd': 14, 'GenericList/Left:del': 1, 'Left/Constant:upd': 12, 'Definition/Storage:add': 1, 'Compound/DeclList:mv': 12, 'Left/Unary:del': 3, 'Definition/ParamList:mv': 10, 'Ident/GenericString:mv': 14, 'Unary/Ident:mv': 2, 'Compound/ExprStatement:del': 1, 'Unary/GenericString:upd': 2, 'Compound/If:add': 9, 'Compound/ExprStatement:add': 19, 'Unary/GenericString:mv': 2, 'Compound/If:mv': 6}"
+597f95e2bfbe9b83ed8b0761ebf4e7d55fd4df17:0,{'Compound/ExprStatement:add': 1}
+5a406b0cdfa948c7d949b270374737b17ee1679f:0,{'Program/CppTop:add': 1}
+1f70ef96b176bdb3b75230ec68850d83736b387b:0,"{'If/ReturnExpr:add': 1, 'If/Unary:mv': 1, 'Compound/ExprStatement:del': 1, 'Unary/FunCall:mv': 2, 'Compound/If:add': 1, 'Compound/Label:add': 1, 'Binary/Unary:mv': 1, 'Compound/ExprStatement:mv': 1, 'If/Binary:add': 1, 'If/ExprStatement:del': 1, 'Some/FunCall:mv': 2, 'Label/ExprStatement:mv': 1}"
+a4d8c83cb55ee58cdbdc4b8a27e3855516efa484:0,{'Ident/GenericString:upd': 6}
+82554c2ffbb475609d381f0e258e247a96aad5b9:0,"{'Left/SizeOfType:del': 1, 'Left/SizeOfExpr:add': 1}"
+e6be8e632c6b5e63643bac03198ce3c13cbe651d:0,"{'InitExpr/Ident:add': 2, 'InitExpr/Constant:del': 2, 'Left/Constant:del': 1, 'Left/Ident:add': 1}"
+eb6b420da13fee2edc30b7bde67c0c8993c4c30d:0,"{'Compound/ExprStatement:mv': 3, 'DoWhile/Compound:add': 3, 'DoWhile/ExprStatement:mv': 3}"
+eb6b420da13fee2edc30b7bde67c0c8993c4c30d:1,"{'Compound/ExprStatement:mv': 1, 'DoWhile/Compound:add': 1, 'DoWhile/ExprStatement:mv': 1}"
+7c69a47f1badf40dfa2febac71df98d32b1b56d7:0,{'InitList/InitExpr:add': 1}
+d009f0d7ae38bf1fdc0ff1a914a6dee538059869:0,"{'GenericList/ParameterType:add': 5, 'Left/Cast:del': 5, 'Ident/GenericString:mv': 10, 'Left/Ident:add': 5, 'Ident/GenericString:upd': 10}"
+66cb54bd24086b2d871a03035de9b0e79b2b725e:0,"{'If/Compound:add': 1, 'Goto/GenericString:mv': 2, 'If/Goto:del': 1}"
+ee7619f2eb21304dcc846b8dc8f8c3d6cbe11792:0,"{'ParenExpr/Binary:mv': 1, 'If/Binary:mv': 1, 'If/Binary:del': 1}"
+ea7a1484baa33574f932f0ade4443072ec0fc9fe:0,{'Compound/ExprStatement:mv': 2}
+38c385449048ef4372ec7973c179bf1012cb284e:0,{'Ident/GenericString:upd': 2}
+54160729c58408fedd762cde4579691731c2ae97:0,"{'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+38c385449048ef4372ec7973c179bf1012cb284e:2,{'DeclList/GenericString:upd': 2}
+c64c6073e8fe1c80cc991c48450136c619c051ee:2,{'DeclList/GenericString:upd': 2}
+c64c6073e8fe1c80cc991c48450136c619c051ee:1,{'Definition/GenericString:upd': 2}
+c64c6073e8fe1c80cc991c48450136c619c051ee:0,{'Ident/GenericString:upd': 4}
+1865e4ea0b2d9889e5e1f93d5ca69194857cc9f0:0,"{'Assignment/Constant:del': 1, 'Assignment/Ident:add': 1}"
+1105a13bb8ad29cf83d46989ee462d196038be87:0,"{'Compound/Goto:add': 1, 'Compound/ExprStatement:add': 1, 'ReturnExpr/Unary:mv': 1, 'Assignment/Unary:mv': 1, 'Compound/ReturnExpr:del': 1}"
+46798c897e235e71e1e9c46a5e6e9adfffd8b85d:0,"{'Compound/ExprStatement:mv': 1, 'Compound/Label:add': 1, 'Label/ExprStatement:mv': 1, 'Compound/If:add': 1}"
+0686e4f4a2e6f33c418c8d57d9a4fc82b89557b2:1,{'Left/Constant:upd': 10}
+0686e4f4a2e6f33c418c8d57d9a4fc82b89557b2:0,{'Left/Constant:upd': 2}
+6ccb81f2171ab48592946efab0ce0fd41978f4ba:0,{'Ident/GenericString:upd': 4}
+6527cc27761a124de8c08e6488ce17fdcc74dbba:0,"{'If/ExprStatement:mv': 1, 'Goto/GenericString:upd': 10, 'If/ReturnExpr:add': 1, 'Label/ExprStatement:mv': 2, 'If/Compound:del': 1, 'Compound/Label:add': 4, 'Assignment/Unary:mv': 1, 'Compound/ExprStatement:mv': 1, 'ReturnExpr/Unary:mv': 1, 'Program/NotParsedCorrectly:add': 5, 'RecordPtAccess/GenericString:upd': 4, 'Program/NotParsedCorrectly:del': 5, 'Compound/ReturnExpr:add': 1, 'Label/If:del': 1, 'Compound/ExprStatement:del': 9}"
+6960af6dce1f0b2d9d1b4ddf75952d54e633b923:0,"{'Assignment/FunCall:mv': 2, 'Compound/If:add': 1, 'Binary/FunCall:mv': 2, 'If/Ident:add': 1, 'If/Binary:del': 1, 'Compound/ExprStatement:add': 2}"
+85c5e0d451125c6ddb78663972e40af810b83644:0,"{'DeclList/GenericString:mv': 4, 'Compound/DeclList:del': 1, 'Compound/If:add': 2, 'Compound/DeclList:add': 2, 'DeclList/InitExpr:mv': 2}"
+b833d0df943d70682e288c38c96b8e7bfff4023a:0,"{'Label/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'Compound/ExprStatement:add': 1, 'Label/ExprStatement:add': 1}"
+c4277e9ea70431aea0fecebb8bb9a3fbc27d074e:0,"{'If/FunCall:mv': 1, 'Assignment/FunCall:mv': 1, 'If/Ident:add': 1, 'Compound/ExprStatement:add': 1}"
+9841654949f0a3f1289b6b95b2ab56cd99fb5360:0,"{'If/ExprStatement:mv': 1, 'If/Binary:mv': 2, 'If/Unary:del': 1, 'Compound/If:add': 1, 'If/RecordPtAccess:mv': 2, 'Some/Assignment:mv': 1, 'Compound/ExprStatement:mv': 1, 'If/Binary:add': 1, 'Compound/ExprStatement:add': 1, 'ParenExpr/Assignment:mv': 1, 'Left/Constant:upd': 2, 'Compound/If:mv': 2, 'Compound/If:del': 1}"
+031cb428383b2fcf36a4ce09aeedaa548d9ed1d1:0,{'Compound/ExprStatement:del': 1}
+79f18a0637033f588accaa05621225c60301514a:0,"{'Left/Ident:add': 1, 'Ident/GenericString:upd': 4, 'Label/GenericString:upd': 2, 'Ident/GenericString:mv': 2, 'Left/Unary:del': 1, 'GenericList/Left:add': 1, 'Goto/GenericString:upd': 2}"
+5d0a654974c5cac03ce7c577bcfd6bca0f2b2c5a:0,"{'Program/Declaration:add': 1, 'Program/NotParsedCorrectly:del': 52, 'Program/NotParsedCorrectly:add': 52, 'Program/Declaration:del': 1}"
+3a7f8c34fefb109903af9a0fac6d0d05f93335c5:0,"{'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+0d08d54f8da9f54bd861f694a81208a8a0625b95:0,{'Ident/GenericString:upd': 2}
+7fa25937542358bfa01ef5c5a1e9a00bd164c000:0,"{'Compound/DeclList:del': 1, 'GenericList/Left:mv': 4, 'Compound/DeclList:add': 2, 'Compound/ExprStatement:del': 2, 'Compound/ExprStatement:add': 4}"
+090c65b694c362adb19ec9c27de216a808ee443c:0,{'Compound/ExprStatement:add': 2}
+eae79b4f3e82ca63a53478a161b190a0d38fe526:0,"{'Compound/DeclList:del': 1, 'GenericList/Left:mv': 2, 'GenericList/Left:del': 1, 'Compound/ExprStatement:del': 1}"
+4c229df0b19cda41a8ea93f26497374004299fda:0,"{'Compound/Label:add': 2, 'If/FunCall:mv': 2, 'Assignment/FunCall:mv': 2, 'If/Ident:add': 2, 'Compound/ExprStatement:add': 3, 'Goto/GenericString:upd': 4}"
+7d95983735889d8f97356fb875a490b55bfd744e:0,"{'ParenExpr/ArrayAccess:mv': 3, 'Left/ArrayAccess:mv': 3, 'InitExpr/FunCall:add': 8, 'InitExpr/Constant:del': 8, 'ParenExpr/FunCall:add': 3}"
+5297e0f0fe13305a1fc7f01986be0dccd063d57a:0,"{'Program/NotParsedCorrectly:add': 4, 'Program/NotParsedCorrectly:del': 4}"
+3a71fc5de56338076fe99f24f50bccfebabefe18:0,"{'Unary/FunCall:mv': 1, 'RecordPtAccess/Ident:add': 4, 'Binary/Binary:mv': 3, 'If/Compound:del': 10, 'Some/Assignment:mv': 9, 'Compound/ExprStatement:mv': 11, 'If/Binary:del': 3, 'Compound/ReturnExpr:mv': 1, 'Unary/ParenExpr:del': 2, 'If/IfToken:mv': 6, 'Binary/GenericString:mv': 2, 'Ident/GenericString:upd': 12, 'If/Compound:mv': 15, 'If/Ident:add': 1, 'Compound/DeclList:add': 4, 'Some/Assignment:del': 2, 'If/ExprStatement:mv': 4, 'Binary/GenericString:upd': 6, 'Binary/ParenExpr:del': 1, 'Unary/Ident:add': 1, 'Left/Constant:upd': 32, 'ParenExpr/Cast:mv': 4, 'For/Compound:del': 1, 'If/ExprStatement:add': 1, 'Assignment/Cast:del': 1, 'Assignment/ArrayAccess:mv': 4, 'If/If:mv': 1, 'If/ReturnExpr:mv': 1, 'For/Compound:mv': 1, 'If/ParenExpr:del': 1, 'If/ArrayAccess:mv': 2, 'Assignment/Binary:add': 1, 'Assignment/Binary:del': 1, 'Ident/GenericString:mv': 2, 'While/Compound:del': 1, 'Assignment/Assignment:mv': 2, 'If/Break:add': 1, 'If/Compound:add': 6, 'Compound/If:del': 2, 'Binary/Ident:add': 1, 'If/Binary:mv': 5, 'If/Unary:mv': 4, 'Assignment/FunCall:mv': 1, 'InitExpr/Cast:mv': 4, 'Assignment/Ident:add': 2, 'ParenExpr/Assignment:mv': 7, 'While/ExprStatement:mv': 1, 'Binary/FunCall:mv': 1, 'RecordPtAccess/Ident:mv': 8, 'Binary/Constant:mv': 2, 'Compound/ExprStatement:add': 3, 'RecordPtAccess/ParenExpr:del': 8, 'Cast/FunCall:mv': 1, 'Compound/If:mv': 3, 'If/IfToken:add': 3}"
+780e312175f688ab5ab6124c91d46fa2b9afe2d2:20,"{'ArrayAccess/Cast:del': 1, 'ArrayAccess/RecordPtAccess:mv': 1, 'Cast/RecordPtAccess:mv': 1}"
+bf5e84f69618f416e89a5a53434a8c865e70252e:0,"{'ReturnExpr/FunCall:add': 1, 'ReturnExpr/Unary:del': 1, 'If/Unary:del': 1, 'Ident/GenericString:upd': 2, 'If/FunCall:add': 1, 'Ident/GenericString:mv': 4}"
+661489adb6bade7bb452e6513daf52e607d1094e:3,"{'Assignment/FunCall:mv': 1, 'Ident/GenericString:upd': 2, 'Compound/DeclList:add': 1, 'Compound/If:add': 1, 'Some/Assignment:add': 1, 'Some/FunCall:mv': 1, 'GenericList/Left:add': 1}"
+661489adb6bade7bb452e6513daf52e607d1094e:0,"{'Assignment/FunCall:mv': 1, 'Ident/GenericString:upd': 4, 'Some/Assignment:add': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 1, 'Left/Ident:del': 1, 'Ident/GenericString:mv': 2, 'Some/FunCall:mv': 1, 'Left/SizeOfExpr:add': 1}"
+661489adb6bade7bb452e6513daf52e607d1094e:1,"{'Left/SizeOfExpr:add': 1, 'Compound/If:add': 1, 'Left/Ident:del': 1, 'Ident/GenericString:mv': 2, 'Ident/GenericString:upd': 4}"
+55229a56bb9e6f7f9dce36099b1045deb73409f1:0,"{'Compound/ExprStatement:mv': 1, 'If/Compound:del': 1, 'If/ExprStatement:mv': 1}"
+9bb24a7e49c33c16c4d9d7d3496f46626e573d02:0,"{'If/ReturnExpr:mv': 1, 'Compound/ExprStatement:add': 2, 'Compound/ReturnExpr:mv': 1, 'If/Compound:add': 1}"
+ee7619f2eb21304dcc846b8dc8f8c3d6cbe11792:1,"{'ReturnExpr/CondExpr:del': 1, 'Compound/DeclList:del': 1, 'ReturnExpr/FunCall:mv': 1, 'Compound/ExprStatement:del': 1, 'Assignment/FunCall:mv': 1}"
+db111e18ec19bbadbf44a60f73bf2ff5991dc915:0,"{'If/Binary:mv': 1, 'Left/CondExpr:del': 1, 'Left/Ident:add': 1, 'Ident/GenericString:upd': 4, 'Compound/If:add': 2, 'Compound/DeclList:add': 1, 'Binary/GenericString:upd': 2, 'CondExpr/RecordPtAccess:mv': 1, 'Ident/GenericString:mv': 2, 'Program/NotParsedCorrectly:add': 5, 'Assignment/RecordPtAccess:mv': 1, 'CondExpr/Binary:mv': 1, 'Program/NotParsedCorrectly:del': 5}"
+8a10da264663f97ad8b5c85343274ad903b32196:0,"{'Label/ExprStatement:mv': 1, 'Assignment/FunCall:mv': 3, 'Goto/GenericString:mv': 2, 'Ident/GenericString:upd': 2, 'Compound/If:add': 3, 'Some/Assignment:add': 3, 'Compound/Goto:add': 1, 'Compound/Goto:del': 1, 'Compound/ExprStatement:mv': 1, 'Label/ExprStatement:del': 1, 'Some/FunCall:mv': 3, 'Compound/If:mv': 2}"
+bf25c19979b2ee1019201b809e93b6bca9947cfd:0,{'Compound/ExprStatement:add': 1}
+d34138d057628211b1c835e13a64d0cc2423c969:0,"{'Compound/Label:add': 3, 'Assignment/FunCall:mv': 3, 'Compound/If:add': 3, 'Some/Assignment:add': 3, 'If/Compound:del': 1, 'If/Ident:del': 1, 'Compound/IfdefDirective:mv': 4, 'Compound/ReturnExpr:mv': 2, 'Compound/ExprStatement:mv': 1, 'If/Binary:add': 1, 'Compound/ExprStatement:add': 3, 'Ident/GenericString:mv': 4, 'Some/FunCall:mv': 3, 'Compound/DeclList:add': 3, 'If/Goto:add': 1, 'Compound/DeclList:del': 1, 'Label/ExprStatement:mv': 1, 'Compound/ReturnExpr:add': 2, 'Compound/IfdefDirective:add': 2}"
+953b19013a0dd313490db9bc625609a6936c5c98:0,"{'Binary/Constant:del': 1, 'DeclList/InitExpr:add': 1, 'Assignment/Ident:add': 4, 'InitExpr/Ident:add': 3, 'InitExpr/Constant:del': 3, 'Assignment/Constant:del': 4, 'Binary/Ident:add': 1}"
+29237756477d5e777e39257d94af449fc66026c2:0,{'Compound/ExprStatement:add': 1}
+b9d4b2da35d44117831c3382710f12a1f9965ed5:0,{'Compound/ExprStatement:add': 2}
+f54ba7f199d63cea08b8cc7114cb6c5cd9a042ab:0,"{'Compound/Label:add': 1, 'Goto/GenericString:upd': 2}"
+de5535f5f508466cd5796d4e14ad4f301ff86a26:0,{'Ident/GenericString:upd': 2}
+94e16e9c59312247de199b5f9bf141d1bd946dd0:0,"{'If/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'Compound/If:del': 1}"
+dbebe0da64d0738a21221a7f9d29510b9f29d908:0,{'Definition/Storage:del': 7}
+291600193e5c0c3f0a9af1f23a8076dd7417c02a:0,"{'Compound/ExprStatement:mv': 1, 'If/Goto:add': 1, 'If/ReturnExpr:del': 1, 'Label/ExprStatement:mv': 1, 'Compound/Label:add': 1}"
+e32b2c883bfe9b57c660b5db31a62cea96c0c046:0,{'Compound/If:mv': 2}
+86a574de4590ffe6fd3f3ca34cdcf655a78e36ec:0,"{'ReturnExpr/Constant:del': 2, 'Compound/ReturnExpr:add': 1, 'Compound/ExprStatement:del': 3, 'Ident/GenericString:upd': 2, 'Compound/If:add': 1, 'ReturnExpr/FunCall:mv': 2, 'Ident/GenericString:mv': 2, 'Some/FunCall:mv': 2, 'Unary/Ident:mv': 2, 'Unary/GenericString:mv': 2}"
+fb99f8741d03cde77ad200583eb747d729295a71:0,"{'Left/Constant:upd': 8, 'GenericList/Left:add': 1, 'Ident/GenericString:upd': 8}"
+daf9669bea30aa22d44671e0d9ce90234579e1db:0,{'Compound/ExprStatement:add': 1}
+849464d1ba97a13b388fee9a69fbbeee175b349c:0,"{'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+8e56aed0b0579b667489bcb1d94c223726f0eaa1:0,"{'If/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'Compound/If:del': 1}"
+9509f17851da294f8ecf0fc0bfe0fe609671352d:3,"{'Compound/ExprStatement:mv': 5, 'If/Return:del': 2, 'Goto/GenericString:mv': 2, 'If/ReturnExpr:add': 2, 'Some/Assignment:add': 7, 'Compound/If:add': 5, 'Compound/DeclList:add': 1, 'Compound/Goto:add': 1, 'Compound/Goto:del': 1, 'If/ExprStatement:mv': 1, 'If/IfToken:add': 1, 'Some/FunCall:mv': 7, 'Compound/DeclList:del': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:add': 2, 'If/IfToken:mv': 2, 'Assignment/FunCall:mv': 7}"
+9509f17851da294f8ecf0fc0bfe0fe609671352d:2,"{'Some/Assignment:add': 2, 'Compound/DeclList:add': 1, 'Assignment/FunCall:mv': 2, 'Some/FunCall:mv': 2, 'Compound/If:add': 2}"
+9509f17851da294f8ecf0fc0bfe0fe609671352d:1,"{'Some/Assignment:add': 1, 'Assignment/FunCall:mv': 1, 'Some/FunCall:mv': 1, 'Compound/If:add': 1}"
+9509f17851da294f8ecf0fc0bfe0fe609671352d:0,"{'Some/Assignment:add': 2, 'Assignment/FunCall:mv': 2, 'Some/FunCall:mv': 2, 'Compound/If:add': 2}"
+9509f17851da294f8ecf0fc0bfe0fe609671352d:4,"{'Assignment/FunCall:mv': 3, 'Compound/If:add': 3, 'Some/Assignment:add': 3, 'Compound/ExprStatement:mv': 4, 'Some/FunCall:mv': 3, 'Compound/If:mv': 4}"
+330b5e80efcace88663b93bdd5ee41013284cb52:0,"{'Compound/Label:add': 1, 'Assignment/FunCall:mv': 2, 'Compound/If:add': 2, 'Compound/DeclList:add': 1, 'Some/Assignment:add': 2, 'Some/FunCall:mv': 2, 'Compound/ReturnExpr:add': 1}"
+a739735c55a961d342652b38b27d3ef1c2d1ca1c:7,"{'Binary/RecordPtAccess:mv': 1, 'Binary/Binary:mv': 3, 'Binary/Binary:del': 1, 'Some/Assignment:add': 1, 'Compound/ExprStatement:mv': 4, 'If/Binary:del': 1, 'Compound/ReturnExpr:del': 1, 'If/IfToken:mv': 2, 'ReturnExpr/Unary:mv': 1, 'Binary/GenericString:mv': 2, 'Ident/GenericString:upd': 6, 'If/Compound:mv': 4, 'Binary/Unary:mv': 1, 'Binary/GenericString:del': 1, 'If/ExprStatement:mv': 2, 'Unary/RecordPtAccess:del': 1, 'DeclList/InitExpr:add': 1, 'If/Compound:del': 1, 'Compound/If:del': 1, 'If/ExprStatement:add': 1, 'If/FunCall:mv': 1, 'Unary/Ident:add': 1, 'Unary/RecordPtAccess:mv': 1, 'Assignment/Unary:mv': 1, 'Ident/GenericString:mv': 6, 'If/Binary:mv': 1, 'If/Unary:mv': 1, 'Assignment/FunCall:mv': 1, 'Compound/If:add': 3, 'If/RecordPtAccess:mv': 2, 'Compound/If:mv': 8, 'Some/FunCall:del': 1}"
+0715f9417ad3581e721d4b2ca6d11aa9fb0e598d:0,{'Compound/If:del': 1}
+e8684c88774c0ddfeefdbed0aa469b25b9962f3e:0,"{'Compound/DeclList:del': 1, 'Compound/ExprStatement:del': 2}"
+aff1924508e8808a3e9d6b41ce30ad4cbb4be582:1,{'Definition/GenericString:upd': 2}
+96cab4cdc6583d386696c1325a391c11391d6998:0,"{'NotParsedCorrectly/GenericString:del': 2, 'ParenExpr/RecordPtAccess:mv': 1, 'Unary/RecordPtAccess:mv': 1, 'Unary/ParenExpr:del': 1}"
+7adf4f312bb7e1f3bda90ed048d78a5a55099f10:0,"{'Left/SizeOfType:del': 1, 'Left/SizeOfExpr:add': 1}"
+86f4d0123b1fddb47d35b9a893f8c0b94bf89abe:0,{'Compound/ExprStatement:del': 1}
+ba346a4367a824a2c6337d4031fc9a82397a2abd:0,"{'Binary/Constant:del': 4, 'Left/Ident:add': 4, 'Left/Constant:del': 4, 'Assignment/Ident:add': 2, 'Assignment/Constant:del': 2, 'DeclList/InitExpr:del': 1, 'Binary/Ident:add': 4}"
+aff1924508e8808a3e9d6b41ce30ad4cbb4be582:2,{'DeclList/GenericString:upd': 2}
+47052577bcb941da36a991fea3dadc0d3b14c741:0,"{'Compound/ExprStatement:mv': 2, 'Label/ExprStatement:mv': 2, 'Label/GenericString:upd': 2, 'Goto/GenericString:upd': 2}"
+8f22ba61b5d730a870cd6b10d299d23280d060fa:0,"{'If/Compound:add': 1, 'Program/NotParsedCorrectly:add': 5, 'Program/NotParsedCorrectly:del': 5}"
+c60cfc8e3b43a7477d519f91ef8f7f5edf0adff4:0,"{'Left/Constant:upd': 16, 'GenericList/Left:add': 8, 'Ident/GenericString:upd': 16}"
+4d27b87785a743fdae653d395a3a4e763269c53c:0,"{'Binary/GenericString:upd': 2, 'Program/Declaration:add': 3, 'Program/NotParsedCorrectly:del': 16, 'Program/NotParsedCorrectly:add': 16, 'Program/Declaration:del': 3}"
+9d2b75f696d9a3988e0aab00fca8f931ece35d9c:0,"{'Compound/ExprStatement:mv': 2, 'If/ExprStatement:mv': 2, 'Program/NotParsedCorrectly:add': 2, 'Program/Declaration:del': 8, 'Program/Declaration:add': 8, 'If/Compound:add': 2, 'Program/NotParsedCorrectly:del': 2}"
+8fb78ad6e55d8456de9202279b8463f26b012088:0,"{'Left/SizeOfType:del': 1, 'Left/SizeOfExpr:add': 1}"
+1f906f8376c2d53dca347b15c0caef71d91087b4:0,"{'Assignment/FunCall:mv': 1, 'Assignment/FunCall:del': 1, 'Left/FunCall:mv': 1}"
+c622a3c21ede892e370b56e1ceb9eb28f8bbda6b:0,"{'Binary/Binary:mv': 1, 'If/Binary:add': 1, 'If/Binary:mv': 1}"
+1c795ebd00042b3a5c97e049fd1c08763714a7a8:0,"{'GenericList/Left:mv': 2, 'If/Unary:del': 1, 'Binary/RecordPtAccess:mv': 1, 'Ident/GenericString:upd': 2, 'If/Binary:add': 1, 'Compound/ExprStatement:add': 1, 'Unary/RecordPtAccess:mv': 1}"
+9968e459f1378a1c00301472cfe672497fe001d5:0,{'Compound/If:del': 1}
+dda094a312dbb2cd96e3e46fce7784aca999bcf1:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+690ea44ede52e3e45eeab3b0e9704d7c3b258ae5:0,{'NotParsedCorrectly/GenericString:del': 3}
+619837aea8fef3e3a08e4158f79b51118e552fec:0,"{'If/Unary:add': 3, 'If/Binary:del': 3, 'Ident/GenericString:mv': 2, 'Binary/RecordPtAccess:mv': 2, 'Unary/RecordPtAccess:mv': 2}"
+c30d6cb7fb587d3dda068f40c629855dfa141652:0,{'Left/Constant:upd': 60}
+6ea510c18910e88c3ae99c03aaaf1c62919cb8e6:4,"{'NotParsedCorrectly/GenericString:upd': 2, 'DeclList/GenericString:del': 1, 'DeclList/Storage:del': 1}"
+ad3d81ba8f2880dfa3ee518c779a7ea09a024520:0,"{'GenericList/Left:add': 2, 'GenericList/Left:mv': 4}"
+b4a1b4f5047e4f54e194681125c74c0aa64d637d:0,"{'Label/ExprStatement:mv': 2, 'If/Binary:mv': 2, 'Definition/Compound:mv': 1, 'Compound/Label:add': 1, 'If/Compound:mv': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 3, 'Compound/ExprStatement:mv': 9, 'Program/NotParsedCorrectly:add': 4, 'Definition/Compound:del': 1, 'Compound/Label:mv': 4, 'If/ExprStatement:mv': 1, 'Compound/If:mv': 8, 'Program/NotParsedCorrectly:del': 4}"
+0fa37b1ee936811c8aa8fcb72d189d02cf1575b9:0,"{'If/ExprStatement:mv': 1, 'Definition/Compound:mv': 1, 'Compound/If:add': 1, 'If/Compound:mv': 1, 'Compound/DeclList:mv': 2, 'Compound/ExprStatement:mv': 1, 'Definition/Compound:del': 1, 'If/RecordPtAccess:mv': 2}"
+8004cbb481494c166596b0d469a6c777415e18f6:0,{'Definition/Storage:del': 2}
+ae5ef67b9a71dba0dc4b045cca102c4ab3c0bd5f:1,"{'If/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'If/Compound:add': 1}"
+a1436579493a26608318cf0b18f2eed31cd89dd0:0,"{'Binary/RecordPtAccess:mv': 1, 'If/Unary:add': 9, 'If/Ident:add': 1, 'If/Binary:del': 10, 'Ident/GenericString:mv': 18, 'Unary/RecordPtAccess:mv': 1}"
+a7823c797b4d29727499f0a75ddf3ed07af8ad0a:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+5ed12f12825c6c0451d703bfe918a7fc190e2738:0,"{'Program/CppTop:add': 1, 'Compound/ExprStatement:add': 1}"
+bc78c57388e7f447f58e30d60b1505ddaaaf3a7d:0,"{'GenericList/Left:mv': 2, 'InitExpr/RecordPtAccess:del': 1, 'InitExpr/FunCall:add': 1, 'Ident/GenericString:upd': 2, 'RecordPtAccess/Ident:mv': 2, 'RecordPtAccess/GenericString:mv': 2, 'FunCall/GenericList:add': 1, 'GenericList/Left:add': 1, 'FunCall/GenericList:mv': 2}"
+b00663124c76f69e71d118d778842471e85c6f11:0,"{'Compound/ExprStatement:mv': 1, 'Compound/Label:add': 2, 'Label/ExprStatement:mv': 1, 'Compound/If:add': 3}"
+59e89f3a091d5cf93f4b176aedcfded61ece5252:0,{'Compound/ExprStatement:add': 2}
+8c2dd54485ccee7fc4086611e188478584758c8d:0,"{'Compound/Label:add': 1, 'Goto/GenericString:upd': 4, 'Ident/GenericString:upd': 2, 'If/Ident:add': 1, 'Label/GenericString:upd': 2, 'Ident/GenericString:mv': 2, 'If/Binary:del': 1, 'Compound/ExprStatement:add': 1}"
+d91e892825ae6f0ed4f8b07ae5d348eff86ab2ea:0,"{'Compound/Goto:add': 1, 'Compound/Return:del': 1}"
+225f597c60da646a6df1f7ac4152577a0c5fd56c:5,{'DeclList/InitExpr:del': 1}
+225f597c60da646a6df1f7ac4152577a0c5fd56c:4,{'DeclList/InitExpr:del': 1}
+225f597c60da646a6df1f7ac4152577a0c5fd56c:7,{'DeclList/InitExpr:del': 1}
+225f597c60da646a6df1f7ac4152577a0c5fd56c:6,{'DeclList/InitExpr:del': 1}
+225f597c60da646a6df1f7ac4152577a0c5fd56c:1,{'DeclList/InitExpr:del': 1}
+225f597c60da646a6df1f7ac4152577a0c5fd56c:0,{'DeclList/InitExpr:del': 1}
+225f597c60da646a6df1f7ac4152577a0c5fd56c:3,{'DeclList/InitExpr:del': 1}
+225f597c60da646a6df1f7ac4152577a0c5fd56c:2,{'DeclList/InitExpr:del': 1}
+b1209983d2c012be8d253ed118f9281ed9f46af6:0,"{'ReturnExpr/Constant:del': 1, 'Compound/ReturnExpr:add': 5, 'Definition/Compound:mv': 1, 'If/Compound:del': 1, 'Some/Assignment:add': 1, 'ReturnExpr/FunCall:mv': 2, 'Compound/ExprStatement:mv': 6, 'If/Binary:del': 1, 'If/IfToken:add': 1, 'Definition/Compound:del': 1, 'If/IfToken:mv': 2, 'Compound/ExprStatement:del': 2, 'If/Compound:mv': 3, 'Compound/DeclList:add': 2, 'Some/FunCall:mv': 3, 'Compound/For:mv': 6, 'Compound/Goto:add': 1, 'If/Compound:add': 1, 'Compound/IfdefDirective:add': 1, 'Compound/Label:add': 2, 'If/Unary:mv': 2, 'Assignment/FunCall:mv': 2, 'Compound/If:add': 1, 'Binary/FunCall:mv': 1, 'Compound/Return:del': 1}"
+225f597c60da646a6df1f7ac4152577a0c5fd56c:9,{'DeclList/InitExpr:del': 1}
+225f597c60da646a6df1f7ac4152577a0c5fd56c:8,{'DeclList/InitExpr:del': 1}
+576f7d34871f64ac3064f5fc3892c67a90cd1677:0,"{'ParenExpr/Binary:mv': 2, 'DefineExpr/ParenExpr:add': 2, 'DefineExpr/Binary:mv': 2}"
+acb868d3d710b09a356d848e0cd44d9713a9e274:1,"{'Compound/ExprStatement:mv': 2, 'DeclList/GenericString:upd': 2, 'Ident/GenericString:upd': 4, 'If/Compound:del': 1, 'Compound/DeclList:add': 1, 'If/Ident:add': 1, 'ParameterType/GenericString:upd': 2, 'If/Binary:del': 1, 'Ident/GenericString:mv': 4, 'Compound/If:mv': 4, 'If/ExprStatement:add': 1}"
+49f2a47d913184b97ef84b2e4fd438dbee341487:0,"{'If/Unary:del': 2, 'If/FunCall:add': 2, 'Left/RecordPtAccess:mv': 1, 'Unary/RecordPtAccess:mv': 1, 'Unary/RecordAccess:mv': 1, 'Left/RecordAccess:mv': 1}"
+d0490cfdf440fded2c292cfb8bb9272fc9ef6943:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+cb6c1ee3057ebb717fd4439711b3cb5354d5085f:0,"{'Binary/FunCall:add': 2, 'Left/RecordPtAccess:mv': 2, 'Binary/RecordPtAccess:mv': 2}"
+74e77eb30d0ecbb12964d005b439c8b84a505b84:0,"{'RecordPtAccess/GenericString:mv': 2, 'Binary/FunCall:add': 1, 'RecordPtAccess/Ident:mv': 2, 'Binary/RecordPtAccess:del': 1}"
+e996f9de8534522a4ab0472e19f214cf3c7ca863:0,"{'Ident/GenericString:mv': 2, 'SizeOfExpr/ParenExpr:add': 1, 'SizeOfExpr/Ident:del': 1}"
+773fe724ab7ca9c32e2411eb2d85ea455e82714e:0,"{'Compound/ExprStatement:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/If:add': 1, 'Ident/GenericString:upd': 4, 'Label/ExprStatement:mv': 1, 'Compound/ExprStatement:add': 1}"
+2a7089dbd1e8a9bec3d39efcb11c2eda6d5a95c0:0,{'Compound/Break:del': 1}
+98e1e0f07c3f1820b8ac424569ee9e9916d3665b:0,{'Compound/If:add': 1}
+2fbd967973ae6ae1a989f5638da8bbed93cad2c5:0,{'Definition/Storage:del': 1}
+4a55c18e2023096c8684fae5fa1cfa96a03172ff:0,"{'Assignment/FunCall:mv': 4, 'Compound/ExprStatement:add': 3, 'Cast/FunCall:mv': 7, 'Assignment/Cast:add': 4, 'DeclList/InitExpr:del': 3, 'InitExpr/FunCall:mv': 3}"
+7cc24e12bd0ee011caa840c1324f613f00d3fc27:0,"{'Left/Constant:upd': 2, 'Ident/GenericString:upd': 2, 'Program/CppTop:mv': 2, 'DeclList/InitExpr:del': 1, 'Include/GenericString:upd': 6}"
+b6d3b4577e49fa8d9a37912ea36ae8449d630b0b:0,{'NotParsedCorrectly/GenericString:add': 8}
+b76ed59f75d646466eaf60cd73aa4d935ff7dbef:0,"{'Compound/Label:add': 2, 'Goto/GenericString:upd': 4, 'Ident/GenericString:upd': 2, 'Compound/ExprStatement:mv': 1, 'Label/ExprStatement:mv': 1, 'Compound/ExprStatement:del': 1}"
+063f96c2230052356d8653381912e618a8ae951c:0,"{'Label/ReturnExpr:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/ReturnExpr:mv': 1}"
+032016a56a1e9c83646435b32e4416d499e1f1ce:0,"{'Left/Ident:add': 1, 'Ident/GenericString:mv': 2, 'Left/RecordPtAccess:del': 1, 'Ident/GenericString:upd': 2}"
+353471a6bd906e3d4674b143be31ad51c2de134e:1,"{'Compound/DeclList:del': 1, 'Compound/ExprStatement:del': 1}"
+26f57364d7cdef9d7ebe27c931fff5e4f21ffb1c:9,"{'If/ExprStatement:mv': 9, 'If/Unary:mv': 2, 'Compound/If:add': 1, 'If/Compound:mv': 2, 'If/Compound:del': 7, 'If/Ident:del': 1, 'Compound/ExprStatement:mv': 9}"
+353471a6bd906e3d4674b143be31ad51c2de134e:0,{'Compound/ExprStatement:add': 1}
+26f57364d7cdef9d7ebe27c931fff5e4f21ffb1c:4,"{'If/Compound:del': 1, 'If/ReturnExpr:mv': 1, 'Compound/ReturnExpr:mv': 1}"
+26f57364d7cdef9d7ebe27c931fff5e4f21ffb1c:6,"{'Compound/ExprStatement:mv': 9, 'If/Compound:del': 2, 'If/ExprStatement:mv': 7, 'Compound/If:del': 5}"
+26f57364d7cdef9d7ebe27c931fff5e4f21ffb1c:7,"{'Sequence/Constant:upd': 2, 'If/Compound:del': 1, 'If/ReturnExpr:add': 1, 'ReturnExpr/Constant:mv': 2}"
+26f57364d7cdef9d7ebe27c931fff5e4f21ffb1c:0,"{'Sequence/Constant:upd': 2, 'If/Compound:del': 1, 'If/ReturnExpr:add': 1, 'ReturnExpr/Constant:mv': 2}"
+26f57364d7cdef9d7ebe27c931fff5e4f21ffb1c:1,"{'MacroIteration/Left:mv': 6, 'If/ExprStatement:mv': 5, 'Definition/Compound:mv': 1, 'Ident/GenericString:upd': 2, 'If/Compound:mv': 1, 'If/Compound:del': 4, 'Compound/If:add': 1, 'Compound/MacroIteration:add': 1, 'Compound/DeclList:add': 2, 'Compound/DeclList:mv': 2, 'Compound/ExprStatement:mv': 11, 'ParenExpr/Constant:upd': 2, 'Ident/GenericString:mv': 2, 'Definition/Compound:del': 1, 'MacroIteration/Compound:mv': 2, 'Compound/If:del': 1}"
+26f57364d7cdef9d7ebe27c931fff5e4f21ffb1c:3,{'Sequence/Constant:upd': 2}
+24f3c59e1781435835083eab587399c8bdc235b4:0,{'Compound/DeclList:del': 1}
+7364e445f62825758fa61195d237a5b8ecdd06ec:0,"{'Assignment/Ident:add': 1, 'Unary/RecordPtAccess:mv': 1, 'Ident/GenericString:upd': 2, 'Assignment/RecordPtAccess:del': 1, 'Compound/DeclList:add': 1, 'Assignment/RecordPtAccess:mv': 1, 'Compound/ExprStatement:add': 1, 'Ident/GenericString:mv': 2, 'Program/NotParsedCorrectly:add': 18, 'Unary/Ident:add': 1, 'Program/Declaration:del': 1, 'Program/Declaration:add': 1, 'Program/NotParsedCorrectly:del': 18}"
+57401d5e36d2966247e9c06b94f5133609c8da21:0,"{'If/Unary:del': 1, 'Ident/GenericString:upd': 2, 'Program/CppTop:add': 1, 'If/FunCall:add': 1, 'Ident/GenericString:mv': 4, 'Assignment/FunCall:add': 1, 'Assignment/Unary:del': 1}"
+e5baa9e99cc3f5bbca84d8894aed4b39692c41e6:2,{'DeclList/GenericString:upd': 2}
+e5baa9e99cc3f5bbca84d8894aed4b39692c41e6:1,{'Definition/GenericString:upd': 2}
+e5baa9e99cc3f5bbca84d8894aed4b39692c41e6:0,{'Ident/GenericString:upd': 2}
+5bd9d99d107c56ff7b35a29e930d85f91a07b2fd:3,"{'Assignment/FunCall:mv': 2, 'Compound/If:add': 2, 'Some/Assignment:add': 2, 'Compound/ExprStatement:mv': 4, 'Some/FunCall:mv': 2, 'Compound/If:mv': 2}"
+37e080787925a972b1eb866d2cd2d75badfb7a24:0,{'DeclList/InitExpr:del': 1}
+5bd9d99d107c56ff7b35a29e930d85f91a07b2fd:1,"{'Assignment/FunCall:mv': 3, 'Compound/If:add': 3, 'Compound/If:mv': 4, 'Some/Assignment:add': 3, 'Compound/ExprStatement:mv': 4, 'Some/FunCall:mv': 3, 'DeclList/InitExpr:del': 1}"
+5bd9d99d107c56ff7b35a29e930d85f91a07b2fd:0,"{'Assignment/FunCall:mv': 1, 'Compound/If:add': 1, 'Some/Assignment:add': 1, 'Compound/ExprStatement:mv': 4, 'Some/FunCall:mv': 1, 'Compound/If:mv': 2}"
+bc501c551ca28dcac01627b6c390e2ee6bbb1179:0,"{'Assignment/Constant:del': 5, 'DeclList/InitExpr:del': 3, 'Left/Ident:add': 4, 'Left/Constant:del': 4, 'Assignment/Ident:add': 5}"
+49c9e7c21af4743f8413cfdce78b551b9d5caad9:0,{'Ident/GenericString:upd': 2}
+5738a09d58d5ad2871f1f9a42bf6a3aa9ece5b3c:0,"{'Compound/ReturnExpr:add': 1, 'Binary/RecordPtAccess:mv': 1, 'If/Unary:add': 1, 'If/Ident:del': 1, 'Compound/ExprStatement:mv': 5, 'RecordPtAccess/RecordPtAccess:del': 1, 'Left/RecordPtAccess:mv': 1, 'Compound/ExprStatement:del': 2, 'Ident/GenericString:upd': 6, 'Compound/DeclList:add': 1, 'Label/ExprStatement:mv': 1, 'Some/FunCall:mv': 1, 'If/FunCall:mv': 1, 'Assignment/RecordPtAccess:del': 2, 'Ident/GenericString:mv': 6, 'Compound/IfdefDirective:add': 2, 'Compound/Label:add': 1, 'Assignment/Ident:add': 2, 'Compound/If:add': 8, 'Compound/IfdefDirective:del': 2, 'RecordPtAccess/Ident:mv': 2, 'Compound/ExprStatement:add': 2}"
+5bd9d99d107c56ff7b35a29e930d85f91a07b2fd:4,"{'Compound/ExprStatement:del': 1, 'Unary/FunCall:mv': 1, 'Compound/If:add': 4, 'Some/Assignment:add': 3, 'Compound/ExprStatement:mv': 8, 'Some/FunCall:mv': 4, 'Compound/DeclList:del': 1, 'Assignment/FunCall:mv': 3}"
+ae5624fc36f7b9113df56c2e9b3069fefbb7117e:0,"{'Program/CppTop:del': 1, 'Program/CppTop:add': 1, 'Program/NotParsedCorrectly:add': 2, 'Program/Declaration:del': 1, 'Program/Declaration:add': 1, 'Program/NotParsedCorrectly:del': 2}"
+cd19f7d3e39b3160595d56bb3e3a2bf4f7f4669c:0,"{'Compound/Label:add': 2, 'Label/ExprStatement:add': 1, 'Goto/GenericString:upd': 2, 'Compound/ExprStatement:mv': 1, 'Compound/If:add': 1, 'Label/ExprStatement:mv': 1}"
+bde4301d9a647a3b2efb1a9f429c1d3ede075fa4:0,{'DeclList/InitExpr:del': 1}
+f294526279cda8934b0313ebd02184a16ba888c9:0,"{'ReturnExpr/Constant:del': 1, 'ReturnExpr/Ident:add': 2, 'Compound/DeclList:add': 1, 'ReturnExpr/FunCall:mv': 1, 'InitExpr/FunCall:mv': 1}"
+a0f104644ec27ce5bbb36e950eb426dba9a3ad44:1,{'Compound/ExprStatement:add': 4}
+43b4f4061cf54aa225a1e94a969450ccf5305cd9:0,"{'Program/NotParsedCorrectly:add': 2, 'Program/Definition:del': 2}"
+f6c1c8ff439ccadc333b3920c7073e0792bcb9af:0,"{'Assignment/FunCall:mv': 1, 'Ident/GenericString:upd': 4, 'Some/Assignment:add': 1, 'Compound/DeclList:add': 1, 'If/FunCall:add': 1, 'If/Binary:del': 1, 'Ident/GenericString:mv': 4, 'Some/FunCall:mv': 1, 'Compound/If:mv': 2}"
+5a5a1d614287a647b36dff3f40c2b0ceabbc83ec:0,{'Ident/GenericString:upd': 2}
+0f783c9db61e0016942d7f9b0bb8c2dcb053e613:0,"{'Compound/ExprStatement:mv': 1, 'If/Compound:del': 1, 'If/ExprStatement:mv': 1}"
+816764859a5347315cb2f1578cf0252ee129c128:0,{'Compound/ExprStatement:add': 1}
+50591c60a93ad3a8d13833cb8048b02d3c2c4bd4:0,"{'ReturnExpr/Constant:del': 2, 'Compound/Label:add': 2, 'If/FunCall:mv': 3, 'Goto/GenericString:upd': 2, 'Compound/If:add': 2, 'ReturnExpr/Ident:add': 1, 'Assignment/FunCall:mv': 5, 'Compound/DeclList:add': 1, 'Binary/FunCall:mv': 2, 'If/Ident:add': 5, 'Compound/ExprStatement:mv': 1, 'Label/GenericString:upd': 2, 'If/Binary:del': 2, 'ReturnExpr/Unary:add': 1, 'Label/ExprStatement:mv': 1, 'Compound/ExprStatement:add': 6}"
+ce31c1b0dc4038a1dec64585d892adb73d9c45f4:1,"{'Some/Assignment:add': 4, 'Assignment/FunCall:mv': 4, 'Some/FunCall:mv': 4, 'Compound/If:add': 4}"
+ce31c1b0dc4038a1dec64585d892adb73d9c45f4:0,"{'Some/Assignment:add': 1, 'Assignment/FunCall:mv': 1, 'Some/FunCall:mv': 1, 'Compound/If:add': 1}"
+f37d49ad6e3d351fcf3cd042953ff273b6cd47e0:0,"{'Compound/If:mv': 2, 'Program/NotParsedCorrectly:add': 4, 'Program/NotParsedCorrectly:del': 4}"
+af31cb5a57084146aae5c01df6b85f54067528aa:0,"{'Ident/GenericString:upd': 8, 'Program/CppTop:del': 1, 'Compound/DeclList:add': 1, 'If/Ident:add': 4, 'If/Binary:del': 4, 'Ident/GenericString:mv': 8}"
+8d2135592d2ab5c8d7764a4f534afac64e563691:0,"{'Compound/Case:add': 1, 'Compound/ExprStatement:del': 1, 'Compound/Case:del': 1, 'Ident/GenericString:upd': 2, 'Left/Ident:del': 1, 'Left/RecordPtAccess:add': 1, 'Case/Ident:mv': 2, 'Left/Constant:upd': 2, 'Ident/GenericString:mv': 12, 'Left/Unary:del': 5, 'DeclList/GenericString:del': 1, 'ExprStatement/Some:mv': 2, 'Compound/If:del': 1, 'Left/Ident:add': 5}"
+decc286c7dac701fc545d4a23cb2f9cf19a09a2c:0,{'Compound/ExprStatement:mv': 2}
+3220712d3aa4f5df12b7305ce340f6d216a84477:0,{'Compound/ExprStatement:add': 2}
+e78641c19de7a3b77b5d840aff239c6648983099:0,{'Compound/ExprStatement:add': 1}
+f3cb4cc120177090b0ccc9fb20a12010de39ac8a:0,"{'Compound/ExprStatement:mv': 1, 'Compound/Label:add': 1, 'Label/GenericString:upd': 2, 'Goto/GenericString:upd': 2, 'Label/ExprStatement:mv': 1}"
+de6687313df421296533de085dee76ec779d7332:2,{'DeclList/GenericString:upd': 2}
+8f38eaca55d0fab7499b33adb1dec33e16de5abb:0,"{'Binary/Cast:add': 6, 'Ident/GenericString:mv': 12, 'Binary/Ident:del': 6}"
+28ad960e7a4d102202b3e136404699243259cac2:0,{'DeclList/InitExpr:del': 1}
+6970791fd5683a893bc11bb4722b82d899013465:1,"{'If/Unary:add': 1, 'If/Binary:del': 1, 'Ident/GenericString:mv': 2}"
+6970791fd5683a893bc11bb4722b82d899013465:0,"{'If/Unary:add': 1, 'If/Binary:del': 1, 'Ident/GenericString:mv': 2}"
+49f2a47d913184b97ef84b2e4fd438dbee341487:2,"{'Left/Binary:del': 1, 'Ident/GenericString:upd': 6, 'Left/RecordPtAccess:add': 1, 'Unary/ArrayAccess:mv': 1, 'Left/ArrayAccess:mv': 1, 'Ident/GenericString:mv': 2, 'Left/Unary:del': 1, 'GenericList/Left:add': 2}"
+49f2a47d913184b97ef84b2e4fd438dbee341487:1,"{'Unary/ArrayAccess:mv': 1, 'Left/ArrayAccess:mv': 1, 'If/FunCall:add': 1, 'Compound/ExprStatement:add': 1, 'If/Unary:del': 1}"
+9bea3f29fc626e190f012c4ad5f8a9e9a2f26cf6:0,{'Compound/ExprStatement:add': 1}
+b3bac8e57c82e8d3e05f4abcb18c4f0a40656655:0,"{'Compound/ExprStatement:mv': 2, 'If/Unary:add': 1, 'If/Unary:mv': 2, 'Compound/If:add': 1}"
+09318c47b6121c8d18cee50ca7e270a8b7dfd274:0,"{'Compound/ExprStatement:mv': 1, 'If/ExprStatement:mv': 1, 'Compound/If:add': 1}"
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:0,"{'Binary/ArrayAccess:del': 1, 'Assignment/Cast:mv': 1, 'Case/If:mv': 1, 'If/Compound:del': 6, 'RecordPtAccess/ArrayAccess:del': 1, 'Some/Assignment:mv': 1, 'Binary/FunCall:del': 1, 'Compound/ExprStatement:mv': 5, 'Left/ArrayAccess:del': 1, 'Assignment/GenericString:del': 1, 'Assignment/GenericString:upd': 2, 'Unary/GenericString:del': 1, 'Unary/RecordAccess:del': 1, 'If/IfToken:mv': 10, 'Assignment/Binary:mv': 1, 'Unary/ArrayAccess:mv': 6, 'RecordAccess/ArrayAccess:mv': 6, 'Left/Ident:add': 1, 'Compound/Case:del': 5, 'Ident/GenericString:upd': 58, 'If/Compound:mv': 8, 'Compound/DeclList:add': 7, 'Assignment/RecordPtAccess:add': 11, 'If/ExprStatement:mv': 6, 'Compound/ExprStatement:add': 2, 'Sequence/Postfix:mv': 2, 'Left/Constant:upd': 8, 'Binary/Ident:add': 5, 'Some/GenericString:add': 1, 'ParenExpr/Cast:mv': 1, 'Assignment/GenericString:add': 1, 'Assignment/ArrayAccess:mv': 2, 'Assignment/RecordPtAccess:del': 1, 'If/If:mv': 2, 'Case/ExprStatement:add': 1, 'Assignment/RecordAccess:del': 11, 'For/ExprStatement:mv': 1, 'Assignment/Binary:del': 1, 'Ident/GenericString:mv': 40, 'Binary/RecordPtAccess:add': 5, 'Cast/Ident:add': 3, 'Case/Ident:mv': 10, 'Cast/Unary:del': 3, 'InitExpr/FunCall:mv': 3, 'Compound/Case:add': 5, 'If/Binary:mv': 8, 'If/Unary:mv': 1, 'Assignment/FunCall:mv': 2, 'Assignment/Ident:add': 4, 'Unary/GenericString:add': 1, 'Compound/If:add': 5, 'Assignment/RecordAccess:mv': 2, 'Binary/FunCall:mv': 3, 'RecordPtAccess/Ident:mv': 16, 'ParenExpr/Binary:mv': 1, 'Sequence/Assignment:mv': 1, 'RecordPtAccess/RecordAccess:del': 6, 'Some/Sequence:del': 1, 'Binary/RecordAccess:del': 7, 'For/ExprStatement:add': 1, 'RecordPtAccess/ParenExpr:del': 1, 'Compound/If:mv': 3, 'Assignment/Unary:mv': 1}"
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:1,"{'If/ExprStatement:mv': 3, 'Unary/FunCall:mv': 1, 'ReturnExpr/Constant:mv': 12, 'If/Compound:del': 10, 'If/ReturnExpr:mv': 1, 'ParenExpr/FunCall:mv': 1, 'Compound/ExprStatement:mv': 3, 'If/ReturnExpr:add': 6, 'Compound/ReturnExpr:mv': 1, 'Unary/ParenExpr:del': 1}"
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:3,"{'Binary/RecordPtAccess:mv': 1, 'If/Compound:del': 3, 'Unary/ParenExpr:del': 2, 'Some/Assignment:mv': 4, 'Compound/ExprStatement:mv': 3, 'Binary/RecordPtAccess:del': 4, 'If/IfToken:mv': 4, 'Unary/RecordPtAccess:add': 2, 'Ident/GenericString:upd': 8, 'Compound/DeclList:add': 1, 'If/ExprStatement:mv': 3, 'If/If:del': 2, 'RecordPtAccess/Ident:add': 2, 'If/ReturnExpr:mv': 8, 'Ident/GenericString:mv': 8, 'If/Compound:add': 2, 'Binary/Ident:add': 5, 'Assignment/Binary:mv': 1, 'If/Binary:mv': 4, 'Assignment/ParenExpr:del': 1, 'ParenExpr/Assignment:mv': 4, 'ParenExpr/Binary:mv': 1, 'Compound/ExprStatement:add': 2, 'InitExpr/RecordPtAccess:mv': 1, 'RecordPtAccess/ParenExpr:del': 2}"
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:4,"{'For/If:mv': 2, 'Binary/RecordPtAccess:mv': 10, 'If/Compound:del': 17, 'Unary/ParenExpr:del': 5, 'Some/Assignment:mv': 10, 'Compound/ExprStatement:mv': 12, 'If/Binary:del': 1, 'Binary/RecordPtAccess:del': 24, 'Unary/RecordPtAccess:mv': 1, 'Assignment/RecordPtAccess:add': 7, 'Binary/ParenExpr:del': 3, 'Unary/ArrayAccess:mv': 2, 'GenericList/Left:mv': 2, 'Left/Ident:add': 1, 'Binary/GenericString:mv': 4, 'Ident/GenericString:upd': 136, 'If/Compound:mv': 2, 'Compound/DeclList:add': 9, 'Compound/ReturnExpr:mv': 3, 'Ident/GenericString:add': 3, 'If/ExprStatement:mv': 12, 'Case/If:del': 2, 'RecordAccess/RecordAccess:del': 8, 'Unary/Ident:add': 3, 'Binary/ParenExpr:mv': 8, 'Left/Constant:upd': 8, 'For/Compound:del': 2, 'RecordAccess/RecordPtAccess:add': 8, 'Unary/RecordAccess:add': 1, 'Assignment/FunCall:del': 1, 'If/ReturnExpr:mv': 7, 'Left/RecordAccess:del': 2, 'Case/ExprStatement:add': 2, 'Assignment/RecordAccess:del': 7, 'If/Binary:add': 1, 'Ident/GenericString:mv': 136, 'Binary/RecordPtAccess:add': 25, 'If/Break:add': 1, 'RecordAccess/ArrayAccess:mv': 2, 'Binary/Ident:add': 33, 'Assignment/Binary:mv': 1, 'Assignment/FunCall:mv': 1, 'Assignment/ParenExpr:del': 1, 'Assignment/Ident:add': 1, 'Left/FunCall:del': 1, 'ParenExpr/Assignment:mv': 10, 'Compound/If:add': 2, 'Left/RecordPtAccess:add': 2, 'ParenExpr/Binary:mv': 1, 'Compound/ExprStatement:add': 9, 'InitExpr/RecordPtAccess:mv': 6, 'Binary/RecordAccess:del': 25, 'Assignment/RecordPtAccess:mv': 1, 'Left/FunCall:mv': 1, 'Compound/If:mv': 2}"
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:5,"{'If/Compound:del': 18, 'Some/Assignment:mv': 14, 'Compound/ExprStatement:mv': 16, 'If/IfToken:add': 1, 'Unary/ParenExpr:del': 12, 'DeclList/GenericString:del': 2, 'Binary/ParenExpr:del': 1, 'If/Compound:add': 1, 'Unary/RecordPtAccess:add': 3, 'If/Compound:mv': 10, 'Compound/DeclList:add': 1, 'Compound/ReturnExpr:mv': 1, 'If/ExprStatement:mv': 16, 'If/IfToken:mv': 2, 'Unary/Ident:add': 8, 'Compound/If:del': 3, 'If/ExprStatement:add': 1, 'If/FunCall:mv': 1, 'Unary/RecordAccess:add': 1, 'Cast/RecordPtAccess:add': 1, 'If/ReturnExpr:mv': 1, 'If/Ident:add': 1, 'RecordPtAccess/GenericString:mv': 2, 'If/Binary:add': 1, 'ExprStatement/Some:mv': 2, 'Binary/Ident:add': 1, 'If/Unary:mv': 2, 'Assignment/FunCall:mv': 2, 'Compound/If:add': 1, 'ParenExpr/Assignment:mv': 14, 'Binary/FunCall:mv': 1, 'RecordPtAccess/Ident:mv': 2, 'Compound/ExprStatement:add': 14, 'Cast/ParenExpr:del': 1, 'Assignment/Ident:mv': 2, 'Compound/If:mv': 6, 'Assignment/GenericString:mv': 2}"
+4f463855c7d5a0ed0faa62497f3006336e74ee16:0,{'Compound/ExprStatement:add': 1}
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:7,"{'Compound/While:add': 1, 'ReturnExpr/Constant:mv': 2, 'If/Compound:del': 12, 'Some/Assignment:mv': 2, 'Compound/ExprStatement:mv': 2, 'Left/RecordPtAccess:del': 1, 'Unary/ParenExpr:del': 1, 'RecordPtAccess/ArrayAccess:mv': 1, 'Compound/DeclList:del': 1, 'Label/ExprStatement:mv': 1, 'RecordAccess/ArrayAccess:mv': 1, 'Ident/GenericString:upd': 6, 'Compound/DeclList:add': 2, 'Compound/ReturnExpr:mv': 7, 'If/ExprStatement:mv': 2, 'Left/RecordAccess:add': 1, 'If/ExprStatement:add': 1, 'Unary/RecordAccess:add': 1, 'If/ReturnExpr:add': 2, 'If/ReturnExpr:mv': 7, 'Compound/Label:del': 1, 'If/ParenExpr:del': 1, 'If/Ident:add': 1, 'For/ExprStatement:mv': 1, 'Ident/GenericString:mv': 10, 'Some/Binary:mv': 1, 'Assignment/ParenExpr:mv': 2, 'ExprStatement/Some:mv': 2, 'Compound/Label:add': 1, 'Assignment/FunCall:mv': 1, 'Assignment/ParenExpr:del': 3, 'While/Binary:mv': 1, 'ParenExpr/Assignment:mv': 2, 'Assignment/Ident:add': 5, 'Compound/ExprStatement:add': 2, 'ReturnExpr/FunCall:mv': 1, 'Label/GenericString:mv': 2, 'InitExpr/ParenExpr:mv': 2}"
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:8,"{'Left/SizeOfType:del': 1, 'If/Binary:mv': 2, 'Left/Ident:add': 1, 'Ident/GenericString:upd': 2, 'Some/Assignment:add': 1, 'Compound/If:add': 1, 'Compound/DeclList:add': 1, 'If/ExprStatement:mv': 2, 'Compound/ExprStatement:add': 1, 'Ident/GenericString:mv': 4, 'ExprStatement/Some:mv': 2, 'Compound/If:del': 1, 'If/IfToken:mv': 2, 'Some/FunCall:del': 1}"
+4b11111aba6c80cc2969fd1806d2a869bfc9f357:9,"{'For/If:mv': 1, 'Some/Binary:del': 1, 'Compound/ReturnExpr:add': 1, 'Binary/Binary:mv': 2, 'If/Compound:del': 3, 'RecordPtAccess/ArrayAccess:del': 1, 'ArrayAccess/RecordPtAccess:add': 2, 'Some/Assignment:mv': 1, 'Binary/FunCall:del': 6, 'Binary/SizeOfType:mv': 2, 'Compound/ExprStatement:mv': 11, 'Compound/For:del': 1, 'Left/ArrayAccess:del': 2, 'Unary/ParenExpr:del': 1, 'Left/RecordPtAccess:add': 6, 'Assignment/RecordPtAccess:add': 1, 'If/IfToken:mv': 2, 'If/Continue:add': 1, 'GenericList/Left:mv': 2, 'Left/Ident:add': 2, 'Binary/GenericString:mv': 6, 'Ident/GenericString:upd': 48, 'If/Compound:mv': 3, 'Compound/DeclList:add': 11, 'Unary/ArrayAccess:mv': 3, 'ArrayAccess/RecordPtAccess:mv': 2, 'Assignment/RecordAccess:del': 1, 'RecordAccess/RecordAccess:mv': 1, 'For/Compound:mv': 1, 'Unary/Ident:add': 1, 'Left/Constant:upd': 4, 'Compound/If:mv': 1, 'Compound/If:del': 3, 'FunCall/GenericList:mv': 4, 'Compound/For:mv': 2, 'Assignment/ArrayAccess:mv': 2, 'For/ExprStatement:add': 2, 'Compound/For:add': 1, 'If/If:mv': 4, 'Some/Assignment:add': 2, 'Left/RecordAccess:del': 6, 'If/ArrayAccess:mv': 2, 'FunCall/Ident:mv': 4, 'RecordPtAccess/GenericString:mv': 22, 'If/Binary:add': 1, 'Ident/GenericString:mv': 22, 'Binary/RecordPtAccess:add': 5, 'ReturnExpr/Binary:mv': 2, 'If/Break:add': 2, 'RecordAccess/ArrayAccess:mv': 3, 'Binary/Ident:add': 6, 'If/ReturnExpr:add': 1, 'Assignment/FunCall:mv': 1, 'Compound/If:add': 4, 'ParenExpr/Assignment:mv': 1, 'Binary/FunCall:mv': 1, 'RecordPtAccess/Ident:mv': 28, 'Binary/Constant:mv': 4, 'For/ExprStatement:mv': 11, 'Compound/ExprStatement:add': 6, 'Binary/RecordAccess:del': 5, 'For/Compound:del': 1, 'RecordPtAccess/GenericString:upd': 22, 'Unary/RecordAccess:mv': 1, 'ArrayAccess/RecordAccess:del': 3, 'Some/FunCall:del': 1}"
+a15522c0a4208ce076f093668e9658a7b08c20b1:0,"{'Unary/FunCall:mv': 1, 'If/Compound:del': 1, 'If/Unary:add': 1, 'Compound/ExprStatement:mv': 26, 'If/Binary:del': 1, 'Compound/For:del': 1, 'Definition/Compound:del': 1, 'If/IfToken:mv': 2, 'Definition/Compound:mv': 1, 'Binary/GenericString:mv': 2, 'Ident/GenericString:upd': 2, 'If/Compound:mv': 3, 'Compound/DeclList:add': 3, 'Compound/ReturnExpr:mv': 2, 'Ident/GenericString:add': 1, 'For/Compound:mv': 2, 'Compound/If:del': 1, 'For/ExprStatement:mv': 6, 'Ident/GenericString:mv': 2, 'If/Binary:mv': 2, 'Compound/If:add': 2, 'Compound/DoWhile:add': 1, 'Binary/FunCall:mv': 1, 'DoWhile/Compound:mv': 2, 'Compound/For:add': 1, 'If/Break:mv': 2, 'Compound/If:mv': 22}"
+525d12f27bb05c4255857849a8d28c0c086bd28e:0,{'Ident/GenericString:upd': 4}
+0e37579506b9e0c11a4a95c8df6b156b2d6ccf9b:0,"{'Program/NotParsedCorrectly:add': 1, 'Compound/DeclList:del': 1, 'Compound/ExprStatement:del': 1, 'Program/NotParsedCorrectly:del': 1}"
+17a8b6b03717fda28be73bc0d24a608a8339d646:0,{'Binary/Constant:upd': 2}
+b101426aae371b91ad10c7553e54725cc5844e4a:0,"{'Program/Declaration:del': 1, 'MacroDecl/GenericString:upd': 2, 'Ident/GenericString:upd': 2, 'Program/Definition:del': 2}"
+33e1afc3d82697599ccc8dc8f2fa44ffff5ae329:0,"{'Compound/Label:add': 1, 'Assignment/FunCall:mv': 1, 'ReturnExpr/Constant:add': 1, 'Compound/If:add': 1, 'ReturnExpr/FunCall:mv': 1, 'Compound/ExprStatement:add': 2, 'Compound/ReturnExpr:add': 1}"
+68edbce4fb4b173d3b9880967cfcce0fc3abc8d5:0,"{'Binary/Constant:del': 1, 'Assignment/Binary:mv': 1, 'Binary/ArrayAccess:mv': 2, 'Compound/ExprStatement:del': 1, 'Assignment/ParenExpr:del': 1, 'Binary/GenericString:upd': 4, 'If/Ident:add': 1, 'ParenExpr/Binary:mv': 1, 'If/Binary:del': 1, 'Ident/GenericString:mv': 2}"
+6417267f17c72f3d4224be3e76399475748e1e17:2,{'DeclList/GenericString:upd': 2}
+6417267f17c72f3d4224be3e76399475748e1e17:1,{'Definition/GenericString:upd': 2}
+6417267f17c72f3d4224be3e76399475748e1e17:0,"{'Left/Constant:upd': 2, 'Ident/GenericString:upd': 2}"
+a6224c369cdff4a856484898be5148dddcfc60c8:0,"{'Program/Declaration:add': 8, 'Program/Declaration:del': 8, 'Program/NotParsedCorrectly:add': 22, 'Program/NotParsedCorrectly:del': 22}"
+62fcd58943654b0474f8d97309185dca1addd5a7:0,{'Compound/Return:del': 1}
+bc2955ddf48d2da94019680fa46deae88d39b40e:0,"{'ReturnExpr/Ident:mv': 2, 'If/ReturnExpr:add': 1, 'If/Compound:del': 6, 'If/ReturnExpr:mv': 1, 'Compound/ReturnExpr:mv': 1, 'Compound/ExprStatement:mv': 4, 'If/ExprStatement:mv': 4}"
+2a953cfd42c00bab00e792422f7c2064c5f0b410:3,"{'Compound/Label:add': 1, 'If/Goto:add': 1, 'DeclList/GenericString:upd': 10, 'Left/Ident:add': 4, 'Program/Declaration:mv': 4, 'Left/Cast:del': 4, 'Definition/Storage:add': 8, 'Compound/If:add': 1, 'If/ReturnExpr:mv': 1, 'Ident/GenericString:upd': 24, 'Compound/ReturnExpr:mv': 1, 'Compound/ReturnExpr:del': 1, 'Compound/ExprStatement:mv': 12, 'Compound/ExprStatement:add': 1, 'Storage/GenericString:upd': 6, 'DeclList/InitExpr:add': 1, 'Program/Declaration:del': 11, 'Ident/GenericString:mv': 10, 'Program/CppTop:mv': 2}"
+09ae6345721afbb7cf3e0920209b140cbe7bff0d:0,{'Compound/ExprStatement:del': 1}
+2a953cfd42c00bab00e792422f7c2064c5f0b410:2,"{'DeclList/Storage:add': 1, 'Program/Declaration:del': 13}"
+cdeb860252e66bdaf1ab70420274df879f243d3d:4,{'Left/Constant:upd': 4}
+cdeb860252e66bdaf1ab70420274df879f243d3d:1,{'Left/Constant:upd': 4}
+1efc4564624070561c1a562f2001ca357895cc99:2,{'DeclList/GenericString:upd': 2}
+1efc4564624070561c1a562f2001ca357895cc99:1,{'Ident/GenericString:upd': 60}
+8947312987e3d8b3457452c27d3bdacde9984f47:0,"{'Compound/Label:add': 1, 'If/Compound:add': 1, 'Goto/GenericString:upd': 2, 'ReturnExpr/Constant:mv': 2, 'Compound/ExprStatement:add': 1, 'If/ReturnExpr:del': 1}"
+6a938a8cef9abad2ae13e6a48329f5119930b0d6:0,{'Compound/If:add': 1}
+17f9b896b06d314da890174584278dea8da7e0ce:0,"{'Compound/ExprStatement:mv': 1, 'If/ExprStatement:mv': 1, 'Compound/ExprStatement:add': 1, 'Compound/If:mv': 2, 'Compound/If:add': 1}"
+c52011c91dda0ddcdc62d272318072fe00fa3c73:0,{'NotParsedCorrectly/GenericString:upd': 28}
+9c4e936abfadf5fc64481f06f7ba351b007af1ff:0,"{'If/Compound:del': 2, 'If/ReturnExpr:mv': 2, 'Compound/ReturnExpr:mv': 2}"
+a34c72b348703da43d605441b86a61688ec19a0d:0,"{'If/ReturnExpr:add': 1, 'Goto/GenericString:upd': 6, 'Ident/GenericString:upd': 8, 'If/Compound:del': 1, 'Compound/Label:add': 2, 'Label/GenericString:add': 1, 'Label/GenericString:del': 1, 'Compound/ExprStatement:mv': 3, 'Unary/Constant:del': 1, 'Unary/Ident:add': 1, 'Unary/Ident:mv': 2, 'Unary/GenericString:mv': 2, 'Compound/Label:mv': 2, 'Label/ExprStatement:mv': 3, 'Compound/ReturnExpr:add': 1, 'Label/If:del': 1, 'Compound/ExprStatement:del': 2}"
+45af55006c2c8f49bddc6296224e70d752a1372c:0,{'Compound/If:add': 2}
+0c07aec31a98a63ee83f2bbad4a2fab0e0f58d33:0,"{'ReturnExpr/Unary:del': 2, 'Assignment/FunCall:mv': 2, 'Ident/GenericString:upd': 4, 'Compound/DeclList:add': 2, 'Binary/FunCall:mv': 2, 'Compound/ExprStatement:add': 2, 'Ident/GenericString:mv': 4, 'ReturnExpr/Ident:add': 2, 'Compound/If:mv': 4, 'Binary/Ident:add': 2}"
+f1383176c928016e6b7c85bb8c646fe829600db0:0,{'Ident/GenericString:upd': 2}
+8dfaafd6398ec49797566ecb6992117434376588:3,"{'Program/Declaration:add': 2, 'Program/NotParsedCorrectly:del': 5, 'Program/NotParsedCorrectly:add': 5, 'Program/Declaration:del': 2}"
+9f6d20ff848c23506c2ec55431479cb350179886:0,"{'If/FunCall:mv': 1, 'Assignment/FunCall:mv': 1, 'Goto/GenericString:mv': 2, 'Compound/If:add': 1, 'Compound/ExprStatement:mv': 2, 'Assignment/FunCall:add': 1, 'Compound/If:del': 1}"
+8dfaafd6398ec49797566ecb6992117434376588:6,{'NotParsedCorrectly/GenericString:add': 2}
+be31cc0bc9e6d24d7bd069a4eae81aa9fcf5d2cd:0,{'Compound/ExprStatement:add': 1}
+5a6b2b36a8249ec9dfb2a714acadad86d9cc0aee:0,"{'Binary/Cast:add': 1, 'Ident/GenericString:mv': 2, 'Binary/Ident:del': 1}"
+dfb117b3e50c52c7b3416db4a4569224b8db80bb:0,"{'Assignment/FunCall:mv': 1, 'Compound/If:add': 1, 'Some/Assignment:add': 1, 'Compound/ExprStatement:mv': 2, 'Some/FunCall:mv': 1, 'Compound/If:mv': 2}"
+67ebd8140dc8923c65451fa0f6a8eee003c4dcd3:0,{'Binary/GenericString:upd': 2}
+070c0b17f6a1ba39dff9be112218127e7e8fd456:0,"{'Compound/ExprStatement:mv': 1, 'Label/Label:mv': 1, 'Goto/GenericString:mv': 2, 'If/Goto:del': 1, 'Label/ExprStatement:mv': 1, 'Compound/Label:mv': 1, 'If/Compound:add': 1}"
+780e312175f688ab5ab6124c91d46fa2b9afe2d2:33,{'InitExpr/Constant:upd': 4}
+a5e4b81e274d7b455531a5e33ce1523caaf31a84:0,"{'If/ExprStatement:mv': 2, 'If/FunCall:mv': 2, 'Compound/If:add': 1, 'If/Compound:mv': 2, 'If/Compound:del': 4, 'If/ReturnExpr:mv': 1, 'Compound/ReturnExpr:mv': 1, 'Compound/ExprStatement:mv': 2, 'If/Break:add': 1, 'If/IfToken:mv': 2, 'If/IfToken:del': 1}"
+064b32f822afd9a578a4ec6bf754cd61cbe0c324:0,"{'Compound/ExprStatement:del': 1, 'Compound/Goto:del': 1}"
+231ded903f2f30b2bcdbf6672c7197187e3bb1ee:0,"{'If/ExprStatement:mv': 1, 'ReturnExpr/Constant:mv': 2, 'If/Compound:del': 5, 'If/ReturnExpr:mv': 3, 'Compound/ReturnExpr:mv': 3, 'Compound/ExprStatement:mv': 1, 'If/ReturnExpr:add': 1, 'Left/Constant:upd': 2}"
+933d594313a5928ffc5325d7bbb6e2383d79622e:1,{'NotParsedCorrectly/GenericString:upd': 2}
+933d594313a5928ffc5325d7bbb6e2383d79622e:6,"{'DeclList/GenericString:del': 1, 'DeclList/Storage:del': 1}"
+3959d0cb7e6e1a00cf815278901929534709e72a:0,"{'Compound/ExprStatement:mv': 2, 'Compound/ExprStatement:add': 1}"
+933d594313a5928ffc5325d7bbb6e2383d79622e:8,{'NotParsedCorrectly/GenericString:del': 1}
+fdc84d11a278d468052afc8e17523545fafe6c5f:0,"{'GenericList/Left:add': 1, 'Ident/GenericString:upd': 2}"
+d5e27e8b83b1da0cd64a6a090e273a199c2805fc:1,"{'Compound/ExprStatement:mv': 1, 'For/Compound:del': 1, 'For/ExprStatement:mv': 1}"
+7c5a54fb869d980c2a3c0972fe1e22816dd5b7b2:0,{'Compound/ExprStatement:add': 1}
+50c88544d225baadd6de1c4365d4ed16cc942a37:0,"{'Compound/ExprStatement:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/Goto:add': 1, 'Compound/ReturnExpr:del': 1, 'Label/ExprStatement:mv': 1, 'Compound/ExprStatement:add': 1}"
+6c0f36954b9bcfedb87d785aa453132146645abc:0,{'Ident/GenericString:upd': 2}
+efda0ad4aa92439d9244d77a13339e23df5e1dc1:0,"{'Compound/Label:add': 1, 'Assignment/FunCall:mv': 1, 'ReturnExpr/Constant:add': 1, 'Compound/If:add': 1, 'ReturnExpr/FunCall:mv': 1, 'Compound/ExprStatement:add': 2, 'Compound/ReturnExpr:add': 1}"
+d1e9aef604da38a4963998922ed0ffff675e3ede:0,"{'Assignment/Binary:mv': 1, 'Assignment/Ident:del': 1, 'ParenExpr/Binary:mv': 1, 'Ident/GenericString:mv': 2, 'Assignment/GenericString:upd': 2, 'Assignment/Cast:add': 2}"
+e049ca5e854263c821a15c0e25fe2ae202c365e1:0,"{'Compound/Case:add': 1, 'Compound/ExprStatement:mv': 1, 'Goto/GenericString:upd': 2, 'Ident/GenericString:upd': 2, 'Compound/Label:del': 1, 'Some/Assignment:add': 1, 'Label/ExprStatement:mv': 1, 'Ident/GenericString:mv': 2, 'Some/FunCall:del': 1}"
+e9419669faacf90e7a4e648d38f61c067a47c0ff:0,{'Definition/Storage:del': 1}
+da82ee99eef9817416ea9b8a23973da062d5c8fe:0,"{'Compound/ReturnExpr:add': 1, 'Compound/Goto:del': 1, 'ReturnExpr/FunCall:mv': 1, 'Compound/ExprStatement:del': 1, 'Assignment/FunCall:mv': 1}"
+2e923a0527ac439e135b9961e58d3acd876bba10:0,"{'Compound/ExprStatement:mv': 4, 'Goto/GenericString:upd': 2}"
+af3d305ca71fea5dfdeba4bcecf2f91fa16dfa9d:0,"{'InitExpr/Ident:add': 1, 'InitExpr/Constant:del': 1}"
+53e20f2eb161fbe9eea28b54dccc870cec94eca2:0,"{'Program/NotParsedCorrectly:add': 3, 'Program/NotParsedCorrectly:del': 3}"
+7debf7806e0e984ea7e43cc271dc9400b0dffc14:0,"{'Left/Binary:del': 1, 'Compound/ExprStatement:mv': 4, 'Some/GenericString:mv': 2, 'Left/Ident:add': 1, 'Compound/DeclList:del': 4, 'DeclList/GenericString:del': 1, 'Binary/ParenExpr:del': 1, 'GenericList/Left:mv': 8, 'Compound/ExprStatement:del': 7, 'Ident/GenericString:upd': 16, 'Compound/DeclList:add': 4, 'GenericList/Left:del': 1, 'InitList/InitExpr:del': 34, 'InitList/InitDesignators:add': 26, 'Left/Constant:upd': 2, 'InitExpr/FunCall:mv': 3, 'FunCall/GenericList:mv': 4, 'Program/CppTop:del': 1, 'FunCall/Ident:mv': 4, 'Ident/GenericString:mv': 74, 'GenericList/Left:add': 5, 'ExprStatement/Some:mv': 2, 'Program/NotParsedCorrectly:del': 1, 'Assignment/FunCall:mv': 4, 'Compound/If:add': 2, 'InitExpr/RecordAccess:mv': 1, 'Assignment/RecordAccess:mv': 1, 'Binary/FunCall:mv': 1, 'InitList/InitList:add': 8, 'ParameterType/GenericString:add': 1, 'ParamList/ParameterType:add': 1}"
+267a4c76bbdb950688d3aeb020976c2918064584:0,"{'Binary/GenericString:mv': 2, 'Goto/GenericString:upd': 4, 'Goto/GenericString:mv': 2, 'Compound/If:add': 1, 'Binary/Binary:del': 1, 'If/Ident:mv': 2, 'Compound/Label:del': 1, 'Compound/Goto:add': 1, 'Binary/GenericString:del': 1, 'Compound/ExprStatement:mv': 14, 'Label/ExprStatement:del': 1, 'Binary/RecordAccess:mv': 2, 'Label/If:mv': 1, 'Compound/If:mv': 1, 'Compound/If:del': 1, 'If/IfToken:mv': 2, 'Compound/ExprStatement:del': 2}"
+d0fd64c1de437bdf91c32d4f84a53fa4b2150348:0,"{'If/ReturnExpr:mv': 1, 'Compound/ReturnExpr:mv': 1, 'Program/NotParsedCorrectly:add': 5, 'Program/Declaration:del': 9, 'Program/Declaration:add': 9, 'If/Compound:add': 1, 'Program/NotParsedCorrectly:del': 5}"
+b59958ee900c81692da131873c0fc0b1599f164f:0,"{'If/Unary:add': 1, 'If/Binary:del': 1, 'Ident/GenericString:mv': 2}"
+4bac39f6c9b00c9cfc3e418ea1d0afcd1c113c2f:0,"{'Program/NotParsedCorrectly:add': 12, 'Program/NotParsedCorrectly:del': 12}"
+7e1389a9e622a421e85e8611c76bd9142bf4bff1:0,"{'Some/Assignment:add': 1, 'Compound/DeclList:add': 1, 'Assignment/FunCall:mv': 1, 'Some/FunCall:mv': 1, 'Compound/If:add': 1}"
+73454eaf2032c64f1d863ac7e91304e4bf903bfb:0,{'Definition/Storage:add': 1}
+dacae5a19b4cbe1b5e3a86de23ea74cbe9ec9652:0,{'Ident/GenericString:upd': 2}
+b30edfcd04b5ffdb6b36a5b36a37d911222b9d37:0,{'DeclList/InitExpr:del': 3}
+efbd50d2f62fc1f69a3dcd153e63ba28cc8eb27f:0,{'Compound/ExprStatement:add': 1}
+19be9e9a7ac7e6050eab426283d2a87593cf6e82:0,"{'InitExpr/Ident:add': 1, 'Ident/GenericString:mv': 2, 'InitExpr/RecordPtAccess:del': 1, 'Ident/GenericString:upd': 2}"
+a069e9cee1dba2f847839d325f46ce6976ed1b76:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+a5e4d891a3968ded645a1c556f021097b2faa514:0,{'Ident/GenericString:upd': 2}
+a5e4d891a3968ded645a1c556f021097b2faa514:1,{'Definition/GenericString:upd': 2}
+a5e4d891a3968ded645a1c556f021097b2faa514:2,{'DeclList/GenericString:upd': 2}
+bb9c2e7a9d04f74746256f033fd78cff2df0a5db:0,{'NotParsedCorrectly/GenericString:del': 8}
+10e5efb7b51f30b696a2cde366b783d8ecd0f465:0,{'Ident/GenericString:upd': 2}
+10e5efb7b51f30b696a2cde366b783d8ecd0f465:1,{'Definition/GenericString:upd': 2}
+213972e9faf8a16b27fee01ae7c7071de5080268:0,"{'If/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'DeclList/GenericString:del': 2, 'Compound/DeclList:add': 1, 'Compound/If:del': 1}"
+8558ace8b7cf629b7d499e00462e4a8bf212e0e4:0,"{'Assignment/Assignment:mv': 1, 'Compound/ExprStatement:add': 1, 'Some/Assignment:mv': 3, 'Assignment/Ident:add': 1}"
+c904ffdaf3e3ab679e43b9a87df02ff502dbd70c:1,{'Definition/GenericString:upd': 2}
+c904ffdaf3e3ab679e43b9a87df02ff502dbd70c:0,{'Ident/GenericString:upd': 2}
+c904ffdaf3e3ab679e43b9a87df02ff502dbd70c:2,{'DeclList/GenericString:upd': 2}
+05aab177a9a231455d8dfcb71c7179da0985e7f8:2,{'Ident/GenericString:upd': 4}
+aec6f90d412fe30b88fdea3d1880734c837e15d4:0,{'Compound/ExprStatement:del': 1}
+8231152f74dd9bd6f76036cfd7fbbf94ad0073d8:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+3a5f5b2e3b4ba165e342c4e969c7fa8d85be0d94:0,"{'Compound/ExprStatement:mv': 4, 'If/Compound:del': 4, 'If/ExprStatement:mv': 4}"
+1c05b4bc22cd640d3a534bd2851a8413d5df3709:1,"{'Assignment/FunCall:mv': 1, 'Ident/GenericString:upd': 2, 'DeclList/GenericString:mv': 4, 'Compound/DeclList:add': 2, 'Left/FunCall:mv': 1, 'Assignment/FunCall:add': 1, 'Compound/DeclList:del': 1}"
+4f2e639af4bd5e152fc79256e333643d3dd6c10f:0,"{'Assignment/Unary:mv': 1, 'Assignment/Ident:del': 2, 'Binary/FunCall:add': 1, 'Ident/GenericString:mv': 6, 'Assignment/RecordPtAccess:mv': 1, 'Assignment/FunCall:add': 4, 'Left/RecordPtAccess:mv': 1, 'Left/Unary:mv': 1, 'Binary/Ident:del': 1}"
+e352506e8a871890278ba66a2d77167193ffbfa9:0,"{'Compound/ExprStatement:mv': 2, 'Left/RecordPtAccess:mv': 1, 'If/Unary:add': 1, 'If/RecordPtAccess:mv': 1, 'Compound/If:add': 2}"
+597a1e7cccc9a5a0c47629267ac4b23bf8654578:2,"{'Binary/Constant:del': 2, 'Binary/Ident:add': 2}"
+45d95bcd7ac961eef26374a0ad6100cda55bcea1:0,{'Compound/ExprStatement:mv': 4}
+597a1e7cccc9a5a0c47629267ac4b23bf8654578:0,"{'Binary/Constant:del': 1, 'Binary/Ident:add': 1}"
+4958cf32f66df854b932b601eef2da3f95973339:0,{'Compound/ExprStatement:add': 2}
+4c18442e536ec24cc5ca23c5bbaa80bd53020b95:0,{'Compound/ExprStatement:add': 1}
+dfc6a736d452a8c308190b618b065c2257d370ff:0,"{'Program/NotParsedCorrectly:add': 31, 'Program/NotParsedCorrectly:del': 31}"
+bfa49cfc526201119623de6593d284c96563bede:0,"{'Compound/ExprStatement:mv': 1, 'Compound/Label:add': 1, 'Label/GenericString:upd': 2, 'Goto/GenericString:upd': 4, 'Label/ExprStatement:mv': 1}"
+050a1952c3f9304eccddc4f084e2401b5205ff55:0,"{'Program/Declaration:add': 1, 'Program/NotParsedCorrectly:del': 52, 'Program/NotParsedCorrectly:add': 52, 'Program/Declaration:del': 1}"
+c36aeba8c072d20a08e8546483494ab0f6458963:0,{'Compound/ExprStatement:add': 1}
+c1147280d2a336ac6723a8dc8b74f809fd6db02c:0,"{'Compound/ReturnExpr:add': 1, 'Some/Assignment:add': 1, 'Assignment/FunCall:mv': 1, 'Some/FunCall:mv': 1, 'Compound/If:add': 2}"
+dda16b23e32cf2351aa03590f43cc8a2873dc6a9:0,"{'Binary/Constant:del': 2, 'Left/Ident:add': 1, 'Left/Constant:del': 1, 'Assignment/Ident:add': 10, 'InitExpr/Ident:add': 6, 'InitExpr/Constant:del': 6, 'Assignment/Constant:del': 10, 'Binary/Ident:add': 2}"
+f72cfd859b0e436d9f680790cb665ad1390187ae:1,"{'InitExpr/Ident:add': 8, 'InitExpr/Constant:del': 8}"
+f72cfd859b0e436d9f680790cb665ad1390187ae:0,"{'Binary/Constant:del': 2, 'Binary/Ident:add': 2}"
+459ca8b4ed1889b0a69bbe21888e6af136d495f3:0,"{'Program/Declaration:add': 1, 'Program/NotParsedCorrectly:del': 1, 'Program/NotParsedCorrectly:add': 1, 'Program/Declaration:del': 1}"
+256d013a9bcc9a39b2e4b34ab19219bd054cf270:0,"{'Compound/ReturnExpr:add': 1, 'Some/Assignment:del': 1, 'If/Compound:del': 1, 'If/Ident:del': 1, 'Some/Assignment:add': 2, 'Compound/Goto:add': 4, 'Compound/ExprStatement:mv': 40, 'If/Binary:del': 3, 'Left/RecordPtAccess:del': 3, 'Left/Ident:add': 4, 'Compound/DeclList:del': 1, 'If/IfToken:mv': 4, 'If/Compound:add': 1, 'ReturnExpr/Unary:mv': 6, 'Ident/GenericString:upd': 52, 'If/Ident:add': 3, 'Compound/ReturnExpr:mv': 4, 'Compound/ReturnExpr:del': 4, 'Label/ExprStatement:mv': 4, 'GenericList/Left:del': 3, 'Left/RecordAccess:add': 3, 'Left/Unary:del': 3, 'Compound/If:del': 5, 'Some/FunCall:add': 1, 'If/Ident:mv': 2, 'Assignment/Ident:del': 4, 'Left/Ident:del': 1, 'RecordPtAccess/GenericString:mv': 4, 'Ident/GenericString:mv': 26, 'ExprStatement/Some:mv': 10, 'Compound/ExprStatement:del': 4, 'Compound/Label:add': 9, 'If/Binary:mv': 8, 'Compound/If:add': 5, 'RecordPtAccess/Ident:mv': 4, 'RecordPtAccess/GenericString:upd': 4, 'Compound/If:mv': 2, 'Assignment/Unary:mv': 6, 'Some/FunCall:del': 2}"
+27bf0bc906e80fdb531524dab22a7851a4c21698:0,"{'Left/Constant:upd': 26, 'GenericList/Left:add': 1}"
+5d57eeb52ae71a03c8e083a9b0a818a9b63ca440:0,"{'ReturnExpr/FunCall:add': 1, 'ReturnExpr/Unary:del': 1, 'If/Unary:del': 1, 'Ident/GenericString:upd': 2, 'If/FunCall:add': 1, 'Ident/GenericString:mv': 4}"
+f16feb5119a87f5e683be7e8916c060abfb0e8d6:0,{'Compound/If:add': 1}
+8ae757d09c45102b347a1bc2867f54ffc1ab8fda:0,"{'Compound/ReturnExpr:add': 1, 'Compound/Goto:del': 1}"
+1ac34072bda53e889ac1c5a73ea59f42a769485a:0,"{'Left/Constant:upd': 2, 'NotParsedCorrectly/GenericString:upd': 4, 'DeclList/FullType:add': 1}"
+7fbd764881a5f9dc81a378293b7a74227fcc04ed:0,"{'Compound/ExprStatement:mv': 1, 'Compound/Label:add': 1, 'Label/ExprStatement:mv': 1, 'Goto/GenericString:upd': 2}"
+ffcba5a510af99e9d443b7e577a9cb0515c919e1:0,"{'Ident/GenericString:upd': 4, 'Program/NotParsedCorrectly:add': 5, 'Program/NotParsedCorrectly:del': 5}"
+4c08202547111e503eca4031ae9443159a79e2b2:0,{'Definition/Storage:add': 1}
+86f2d7dd72e1ff4656107e42a12c999a7b9c26d4:0,"{'Binary/Binary:mv': 1, 'If/Binary:mv': 1, 'If/Binary:del': 1}"
+906836f6e3ebed0e6a51b8f3aff0a5b2885c9ca9:0,"{'Program/NotParsedCorrectly:add': 1, 'Program/Declaration:del': 1}"
+acb868d3d710b09a356d848e0cd44d9713a9e274:0,"{'ParamList/ParameterType:del': 1, 'Compound/ReturnExpr:add': 1, 'If/Compound:del': 5, 'Left/Unary:add': 2, 'ReturnExpr/FunCall:mv': 2, 'Compound/ExprStatement:mv': 6, 'If/Binary:del': 1, 'Unary/RecordPtAccess:mv': 2, 'Compound/DeclList:del': 4, 'Compound/ExprStatement:del': 8, 'Ident/GenericString:upd': 2, 'Compound/ReturnExpr:mv': 2, 'Compound/ReturnExpr:del': 1, 'GenericList/Left:del': 3, 'ReturnExpr/Ident:del': 1, 'Program/Declaration:del': 4, 'Compound/If:del': 5, 'Program/NotParsedCorrectly:add': 13, 'If/ReturnExpr:add': 5, 'Compound/Label:del': 1, 'If/Ident:add': 1, 'Left/Ident:del': 2, 'Ident/GenericString:mv': 4, 'Program/Declaration:add': 4, 'Program/NotParsedCorrectly:del': 13, 'ReturnExpr/Ident:mv': 8, 'Assignment/FunCall:mv': 2, 'Assignment/RecordPtAccess:mv': 2, 'Compound/If:mv': 2}"
+3ff67445750a84de67faaf52c6e1895cb09f2c56:0,"{'Compound/Label:add': 2, 'Ident/GenericString:upd': 4, 'Compound/Goto:add': 2, 'Compound/ReturnExpr:mv': 2, 'Compound/ReturnExpr:del': 1, 'Compound/ExprStatement:mv': 9, 'Compound/DeclList:del': 1, 'Label/ExprStatement:mv': 1}"
+ef813c412c0cf254ddce7d922289e2d6a69960f0:0,"{'Compound/ExprStatement:add': 1, 'DeclList/GenericString:add': 1, 'Ident/GenericString:upd': 4}"
+94713bab649736177a1c33a39b7bb33cbd5af3a5:0,"{'ReturnExpr/FunCall:add': 1, 'ReturnExpr/Unary:del': 1, 'If/Unary:del': 1, 'Ident/GenericString:upd': 2, 'If/FunCall:add': 1, 'Ident/GenericString:mv': 4}"
+1e27138bae529a219f5213fdf60900fae7fec1b9:0,"{'DeclList/GenericString:del': 1, 'DeclList/Storage:del': 1}"
+0e03fd3e335d272bee88fe733d5fd13f5c5b7140:0,"{'Goto/GenericString:upd': 2, 'Ident/GenericString:upd': 4, 'Compound/Label:del': 1, 'Assignment/Unary:mv': 1, 'Compound/ReturnExpr:del': 1, 'Compound/ExprStatement:add': 1, 'ReturnExpr/Unary:mv': 1, 'Compound/Goto:add': 1, 'Compound/ExprStatement:del': 5}"
+cb35484231e0b7edf23e192867e5fba955e584cb:0,"{'If/ExprStatement:mv': 2, 'Compound/ExprStatement:mv': 2, 'Compound/If:del': 2}"
+cdeb860252e66bdaf1ab70420274df879f243d3d:0,{'Left/Constant:upd': 30}
+49908e739e23e2672d3efb9b1a35f877f8e86342:0,"{'If/ReturnExpr:del': 1, 'ReturnExpr/FunCall:mv': 1, 'If/Compound:add': 1, 'Assignment/FunCall:mv': 1}"
+e302ca47b59f024e90c26367fca6448af5198dc7:1,{'Definition/GenericString:upd': 2}
+cdeb860252e66bdaf1ab70420274df879f243d3d:3,{'Left/Constant:upd': 4}
+00cc7a5faf25b3ba5cf30fcffc62249bdd152006:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Compound/ReturnExpr:mv': 1}"
+1efc4564624070561c1a562f2001ca357895cc99:0,{'Definition/GenericString:upd': 2}
+9bf10920a094d71cec1076d3fa941aa6f31b09eb:0,"{'DefineExpr/ParenExpr:add': 1, 'DefineExpr/Binary:del': 1, 'Binary/GenericString:mv': 2, 'Binary/Constant:mv': 4}"
+1c8272bd18cf284de5cb43fb6b0e0457041a17b2:0,"{'If/Binary:mv': 3, 'Binary/GenericString:mv': 4, 'Binary/Binary:add': 1, 'Binary/Binary:mv': 5, 'Binary/Binary:del': 1, 'Compound/If:add': 1, 'Binary/GenericString:del': 1, 'Binary/GenericString:add': 1}"
+238b1eaa59e6a8e2993af0db9ec2255bfa53927b:0,{'Compound/If:add': 1}
+a3eb7fbb41eb8d6e22d491741b8c5d5aa6cb069a:0,"{'Case/ExprStatement:mv': 2, 'Program/EmptyDef:del': 2, 'Compound/ExprStatement:mv': 4, 'Program/EmptyDef:add': 2, 'Program/NotParsedCorrectly:add': 10, 'Program/Declaration:del': 2, 'Program/Declaration:add': 2, 'Program/NotParsedCorrectly:del': 10}"
+bb59a4c539140592723e806e852ee171da0eb3eb:0,{'Binary/Constant:upd': 2}
+b91cc5738f89ee0d551a1cd90d794c537b8f1dea:1,{'NotParsedCorrectly/GenericString:add': 1}
+bf17c1c7cc9250d7c3c01b0ae898aefa1853535a:0,{'Compound/ExprStatement:add': 1}
+07d86ca93db7e5cdf4743564d98292042ec21af7:0,{'Compound/ExprStatement:del': 1}
+7bbe9f838e17a1abcfc74c874739e2b0418899b0:0,"{'Some/Assignment:add': 1, 'Compound/DeclList:add': 1, 'Assignment/FunCall:mv': 1, 'Some/FunCall:mv': 1, 'Compound/If:add': 1}"
+1f80c0cc39e587edd06a36b43ba3a3b09d4ac428:0,{'Ident/GenericString:upd': 2}
+5ac43d1fbbfd1b89f83c1a907c58d558d262e441:0,"{'Compound/DeclList:del': 1, 'Compound/ExprStatement:del': 1}"
+ebdae6507b00c77f51b0c3ef70d25f65699f5644:0,"{'Label/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/ExprStatement:add': 1}"
+ffa5c41c81503b6f48fddb5d39f18af526ded8d3:0,{'Compound/ExprStatement:add': 1}
+847c6c422aa0ae81a5517a9558ec2737806dca48:0,"{'Binary/RecordPtAccess:mv': 3, 'Some/FunCall:add': 2, 'Some/Assignment:del': 2, 'Binary/FunCall:add': 3, 'Left/RecordPtAccess:mv': 5, 'Assignment/RecordPtAccess:mv': 4, 'Unary/RecordPtAccess:mv': 2, 'Assignment/FunCall:add': 2, 'Ident/GenericString:mv': 4}"
+fc3109a2cb294335bcf3c5db5e16ae5fe68849f2:0,"{'Ident/GenericString:mv': 4, 'Left/Ident:add': 2, 'Left/Cast:del': 2}"
+673cdf5c72ff9551df08a71f2ac1a8fe02888e8d:0,"{'GenericList/ParameterType:add': 1, 'Assignment/FunCall:mv': 1, 'Ident/GenericString:upd': 2, 'FunCall/Ident:add': 1, 'FunCall/ParenExpr:del': 1, 'Ident/GenericString:mv': 2, 'Assignment/FunCall:del': 1, 'Left/FunCall:mv': 1, 'GenericList/Left:add': 1}"
+22f88fcf407933321d08c45520fbeffca70b05d1:0,"{'If/ReturnExpr:mv': 1, 'If/Compound:add': 1, 'Program/NotParsedCorrectly:add': 1, 'Compound/ReturnExpr:mv': 1, 'Program/NotParsedCorrectly:del': 1}"
+e7d40c37215b2048685e72a0bb0101578c2b0a62:0,"{'Label/ExprStatement:mv': 1, 'Compound/ExprStatement:mv': 1, 'Label/ExprStatement:add': 1, 'Compound/ExprStatement:add': 1}"

@@ -1,0 +1,13 @@
+# data description 
+# name of the axis separated by tab followed by the data in [] which are separeted with comma , 
+#  x	[v1,v2,v3]
+# y1	[v1,v2,v3...]
+# y2 	[v1,v2,v3...]
+# y3 	[v1,v2,v3...]
+
+#Top10 mutations
+
+x	['If/ExprStatement:mv', 'GenericList/Left:mv', 'Compound/ExprStatement:del', 'Ident/GenericString:upd', 'Compound/If:add', 'Some/Assignment:add', 'RecordPtAccess/Ident:mv', 'Compound/ExprStatement:mv', 'Program/Declaration:del', 'Compound/ExprStatement:add', 'GenericList/Left:del', 'Program/NotParsedCorrectly:add', 'NotParsedCorrectly/GenericString:mv', 'Program/Declaration:add', 'Left/Constant:upd', 'Ident/GenericString:mv', 'GenericList/Left:add', 'Program/CppTop:mv', 'MacroDecl/GenericString:upd']
+y1	[ 2073 , 4852 , 2235 , 30464 , 0 , 1869 , 2038 , 5347 , 0 , 0 , 2011 , 0 , 0 , 0 , 0 , 12712 , 2078 , 0 , 0]
+y2	[ 0 , 492 , 197 , 1216 , 235 , 0 , 0 , 670 , 0 , 282 , 0 , 0 , 0 , 196 , 502 , 886 , 0 , 0 , 216]
+y3	[ 0 , 0 , 0 , 18764 , 3108 , 0 , 0 , 8349 , 5812 , 4159 , 0 , 2847 , 2881 , 6813 , 0 , 8996 , 0 , 24870 , 0]

@@ -1,0 +1,27 @@
+# data description 
+# name of the axis separated by tab followed by the data in [] which are separeted with comma , 
+#  x	[v1,v2,v3]
+# y1	[v1,v2,v3...]
+# y2 	[v1,v2,v3...]
+# y3 	[v1,v2,v3...]
+
+#Top10Scope
+
+x	['Binary', 'Left', 'Ident', 'MacroDecl', 'Assignment', 'Some', 'Program', 'Compound', 'GenericList', 'NotParsedCorrectly', 'RecordPtAccess', 'If']
+y1	[ 3332 , 7048 , 43322 , 0 , 6760 , 5743 , 6648 , 17241 , 9104 , 0 , 5455 , 10054]
+y2	[ 671 , 911 , 2119 , 302 , 587 , 435 , 577 , 2292 , 839 , 0 , 0 , 1242]
+y3	[ 6402 , 4880 , 27857 , 0 , 4724 , 0 , 52822 , 29218 , 4344 , 6550 , 5599 , 9364]
+
+#Top10Mutation
+
+x	['Binary', 'Ident', 'Constant', 'NotParsedCorrectly', 'Assignment', 'Compound', 'GenericString', 'If', 'Unary', 'CppTop', 'ExprStatement', 'FunCall', 'RecordPtAccess', 'Declaration', 'Left']
+y1	[ 3898 , 7424 , 0 , 0 , 3669 , 0 , 50485 , 4123 , 3274 , 0 , 11867 , 8594 , 4627 , 0 , 9821]
+y2	[ 337 , 721 , 934 , 0 , 0 , 390 , 3099 , 473 , 0 , 0 , 1481 , 595 , 455 , 0 , 745]
+y3	[ 4360 , 6631 , 4546 , 5654 , 0 , 0 , 45428 , 7540 , 0 , 27505 , 17138 , 0 , 0 , 14347 , 4530]
+
+#TopAction
+
+x	['add', 'mv', 'del', 'upd']
+y1	[24147 , 52984 , 24904 , 34776]
+y2	[2731 , 4862 , 2238 , 2402]
+y3	[38960 , 81449 , 25458 , 29518]

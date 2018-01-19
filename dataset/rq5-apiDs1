@@ -1,0 +1,51 @@
+15c50ccc3c4377ad02ff6da7792c1d54633d3122,"['ptlrpc_queue_wait', 'ptl_send_rpc']"
+5a406b0cdfa948c7d949b270374737b17ee1679f,['nf_nat_snmp_hook']
+19d8ceddda8b3a806a0960106ae6aa4dcc21df3b,"['usb_bind_phy', 'usb_remove_phy']"
+353471a6bd906e3d4674b143be31ad51c2de134e,"['_debug_req', 'lustre_msg_get_flags', 'lustre_msg_get_status']"
+89f534905ad6e7f18d89759efcbfc8225f254de1,['lowpan_header_compress']
+fc9f75ef2fdf46fc859b991dbf473a583edfb0e2,['cxl_update_properties']
+661489adb6bade7bb452e6513daf52e607d1094e,['lnet_ipif_query']
+9968e459f1378a1c00301472cfe672497fe001d5,['acpi_bus_generate_netlink_event']
+2b5f2e44a0687987d04eaa2fc9b1da7857a15c79,"['lnet_iov_nob', 'lnet_extract_iov', 'lnet_kiov_nob', 'lnet_extract_kiov']"
+e459933967aef650c25b3cbe1ff88c8047cac543,['usb_enable_intel_xhci_ports']
+4833d7f0a86fd9a44f98bedf0c639e1da070d3a0,"['arch_spin_unlock_wait', 'arch_read_trylock']"
+7a444d1f0b557c68f847050b33713ae7b56f25e7,['ttm_agp_tt_create']
+809a3bf9f34cb6d0c0383b31b3495fa1ed3508a6,['pcix_set_mmrbc']
+8dfaafd6398ec49797566ecb6992117434376588,['chip_wakeup']
+225f597c60da646a6df1f7ac4152577a0c5fd56c,"['lustre_msg_early_size', 'lprocfs_write_frac_helper', 'ptlrpcd_wake']"
+a71a6d96a4d663c4e0a28128bba1b2febf0fe10c,['fsl_mc_bus_type']
+28ab58bd6a80408af79999492c8a28c8910ef62e,['ath9k_hw_process_rxdesc_edma']
+bc26d4d06e337ade069f33d3f4377593b24e6e36,['seq_copy_to_input']
+7fc4cfda757d5d8f31ba2ebb07b3fb31ae6986bc,['lowpan_header_compress']
+b52377475ae9dca21bcb1ae8ec0936fbae8595b2,['vp3054_i2c_probe']
+d552b233f692416d63bb93eb35bf24e5c95c7e0b,['str2eaddr']
+a3ed22eabde3d7db5dbb1eced9f83ad0079d257b,['rtllib_wx_set_encode']
+213972e9faf8a16b27fee01ae7c7071de5080268,['pmac_i2c_close']
+524edf3877775c46e8b3ba56f9dd75d07914392c,"['fb_set_suspend', 'fb_class']"
+6531084c3eeaf302d6e3817776da6dab15603929,['qeth_send_control_data']
+e9419669faacf90e7a4e648d38f61c067a47c0ff,['ps3_get_spe_id']
+ac4898a0f81d3b3c218cb4d17bac1750ef82e456,['comedi_driver_unregister']
+6869a11bff1df102dc73296129d63b9187a22f3a,['alloc_rtllib']
+2fbd967973ae6ae1a989f5638da8bbed93cad2c5,['ip_send_check']
+6da6eabe1038cb438460a8295a37270a8adebb19,"['ldlm_put_ref', 'class_manual_cleanup', 'ldlm_dump_all_namespaces', 'lu_object_unhash', 'class_new_export']"
+dbebe0da64d0738a21221a7f9d29510b9f29d908,"['prom_getchild', 'prom_getsibling', 'prom_getproplen', 'prom_getproperty', 'prom_getint', 'prom_firstprop', 'prom_nextprop']"
+5ecf85f082e2e0f4bfd967b9c7ae9d0b89552153,['dvma_map_align']
+d009f0d7ae38bf1fdc0ff1a914a6dee538059869,['rtllib_rx']
+b21629da120dd6145d14dbd6d028e1bba680a92b,"['__x86_set_memory_region', 'x86_set_memory_region']"
+8cc7b4b9f1ccf33e3174314c4095e019eafeb31a,['the_lnet']
+8d771ea8bf27ae02bf185bd32c67f4d314865945,"['fbtft_write_gpio8_wr', 'fbtft_write_gpio16_wr']"
+d34898de9a43bf79b274c8c6a43bf2f6f76dac05,"['class_create_file_ns', 'show_class_attr_string']"
+65fc7668006b537f7ae8451990c0ed9ec882544e,"['security_secctx_to_secid', 'security_release_secctx', 'security_sk_clone', 'security_sk_classify_flow']"
+ee45ddc1e03afc221afad273503b6c2fc0683008,['drxd_attach']
+0715f9417ad3581e721d4b2ca6d11aa9fb0e598d,['ldlm_flock_completion_ast']
+ffa5c41c81503b6f48fddb5d39f18af526ded8d3,['uwb_rc_cmd_async']
+3adc4aae0e597a7cdcb9ed3f99d0933bf9a4aaa6,"['synth_printf', 'speakup_info']"
+1f70ef96b176bdb3b75230ec68850d83736b387b,['nfs_alloc_client']
+c60cfc8e3b43a7477d519f91ef8f7f5edf0adff4,"['rtllib_wx_set_encode', 'rtllib_wx_set_encode_ext', 'rtllib_wx_set_mlme']"
+6ea510c18910e88c3ae99c03aaaf1c62919cb8e6,"['ldlm_namespace_new', 'ldlm_resource_get', 'ldlm_resource_putref', 'ldlm_dump_all_namespaces', 'lu_object_put', 'lu_object_unhash', 'lu_site_purge', 'lu_site_init']"
+98e1e0f07c3f1820b8ac424569ee9e9916d3665b,['osd_finalize_request']
+166b8639f52ebeec1bfbe966239530a83040c428,['usb_hub_clear_tt_buffer']
+a739735c55a961d342652b38b27d3ef1c2d1ca1c,"['ldlm_cli_enqueue', 'lnet_iov_nob', 'lnet_kiov_nob', 'lprocfs_write_frac_u64_helper']"
+705a421238964e26f13a87d01cefa229eb8a458d,['nvec_msg_free']
+1e358f94c00570f88a590cabe718daf835440cc9,['pcie_bus_configure_settings']
+cfec0e75f5e9489ec2bf582101b023c845a0a9a5,"['kvm_mips_host_tlb_write', 'kvm_mips_dump_host_tlbs']"

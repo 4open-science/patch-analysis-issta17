@@ -1,0 +1,1497 @@
+Amitoj Kaur Chawla count:268 diff: 500
+Andrzej Hajda count:360 diff: 2616
+Christophe Jaillet count:37 diff: 3038
+Wu Fengguang count:374 diff: 3816
+Markus Elfring count:323 diff: 635
+Wei Yongjun count:1251 diff: 3783
+Edward O'Callaghan count:11 diff: 186
+Nicholas Mc Guire count:191 diff: 631
+Julia Lawall count:1726 diff: 3139
+Jeff Mahoney count:326 diff: 4102
+kbuild test robot count:127 diff: 1010
+Fengguang Wu count:223 diff: 3353
+Chris Wilson count:1837 diff: 2764
+Fabio Estevam count:1404 diff: 2835
+Javier Martinez Canillas count:702 diff: 2305
+Matt Roper count:148 diff: 869
+Vaishali Thakkar count:143 diff: 618
+Cihangir Akturk count:9 diff: 622
+Alison Schofield count:86 diff: 295
+Felipe Balbi count:1299 diff: 3316
+Bruce Allan count:458 diff: 3809
+Kirill A. Shutemov count:498 diff: 3147
+Bhaktipriya Shridhar count:133 diff: 261
+Sandhya Bankar count:62 diff: 101
+Tvrtko Ursulin count:153 diff: 2181
+Harish Chegondi count:41 diff: 268
+Faisal Latif count:73 diff: 3036
+G Pooja Shamili count:3 diff: 5
+Bhumika Goyal count:76 diff: 71
+Eva Rachel Retuya count:49 diff: 147
+Luis R. Rodriguez count:941 diff: 3316
+Richard Alpe count:54 diff: 1529
+Mathieu OTHACEHE count:14 diff: 618
+Janani Ravichandran count:71 diff: 16
+Thaissa Falbo count:6 diff: 3
+Lucas Tanure count:8 diff: 580
+Linus Walleij count:1952 diff: 3801
+Joseph Bisch count:1 diff: 0
+Aya Mahfouz count:138 diff: 429
+Saurabh Sengar count:24 diff: 107
+Geyslan G. Bem count:74 diff: 890
+Mauro Carvalho Chehab count:4290 diff: 4051
+Valentin Rothberg count:56 diff: 1717
+Yash Shah count:3 diff: 127
+Fabian Frederick count:736 diff: 935
+Ville Syrjälä count:1620 diff: 3024
+David Sterba count:376 diff: 3355
+Krzysztof Kozlowski count:815 diff: 1177
+Shraddha Barke count:215 diff: 220
+Ioana Ciornei count:46 diff: 238
+Cristina Moraru count:38 diff: 233
+Himangi Saraogi count:240 diff: 215
+Ksenija Stanojevic count:63 diff: 416
+Vincent Stehlé count:34 diff: 2150
+Kris Borer count:10 diff: 73
+Peter Senna Tschudin count:228 diff: 1315
+Thomas Gleixner count:3273 diff: 4210
+Sean O. Stalley count:8 diff: 807
+SF Markus Elfring count:4 diff: 633
+Stephen Boyd count:900 diff: 2470
+Dave Jiang count:163 diff: 3962
+Dan Williams count:1199 diff: 3980
+Maninder Singh count:19 diff: 84
+Wolfram Sang count:1282 diff: 3110
+Lars-Peter Clausen count:2189 diff: 2590
+Prasanna Karthik count:30 diff: 181
+Cristina Opriceana count:69 diff: 224
+Jiang Liu count:656 diff: 1427
+Axel Lin count:2609 diff: 2346
+Quentin Lambert count:30 diff: 330
+Johan Hedberg count:1170 diff: 2666
+Harisangam Sharvari count:2 diff: 2
+Chaitanya Dhere count:3 diff: 0
+Hari Prasath Gujulan Elango count:45 diff: 247
+Aleksey Makarov count:20 diff: 3815
+Emmanuel Grumbach count:1005 diff: 3205
+Greg Kroah-Hartman count:3048 diff: 4078
+Rasmus Villemoes count:349 diff: 1172
+Martin Peres count:102 diff: 1975
+Tapasweni Pathak count:104 diff: 151
+Joe Perches count:2792 diff: 3884
+Niranjan Dighe count:7 diff: 327
+Haneen Mohammed count:60 diff: 359
+Ravindran, Madhusudhanan (M.) count:3 diff: 1
+Madhusudhanan Ravindran count:5 diff: 91
+Abdul Hussain S count:1 diff: 0
+Somya Anand count:29 diff: 151
+Supriya Karanth count:13 diff: 1119
+Navya Sri Nizamkari count:34 diff: 239
+Peter Chen count:374 diff: 2150
+Hariprasad Shenai count:284 diff: 1022
+Tina Johnson count:28 diff: 210
+Vatika Harlalka count:41 diff: 197
+Melike Yurtoglu count:47 diff: 152
+aybuke ozdemir count:17 diff: 7
+David Howells count:1605 diff: 4064
+Andreea-Cristina Bernat count:35 diff: 312
+Emil Medve count:43 diff: 2743
+Ander Conselvan de Oliveira count:170 diff: 1407
+Christophe Ricard count:297 diff: 785
+Alexander Aring count:581 diff: 1706
+Dave Chinner count:1000 diff: 2998
+Nicolas Ferre count:453 diff: 3367
+Gregory CLEMENT count:274 diff: 3169
+Gulsah Kose count:88 diff: 348
+Ebru Akagunduz count:90 diff: 1080
+Jiayi Ye count:11 diff: 5
+Roberta Dobrescu count:58 diff: 214
+Sarah Khan count:11 diff: 38
+Aybuke Ozdemir count:82 diff: 702
+Heena Sirwani count:36 diff: 726
+Daniel Borkmann count:562 diff: 2388
+Mahati Chamarthy count:36 diff: 20
+Rajbinder Brar count:3 diff: 6
+Ankita Patil count:1 diff: 0
+Nishanth Menon count:333 diff: 2772
+Vladimir Kondratiev count:308 diff: 1462
+Florian Fainelli count:991 diff: 3512
+Chase Southwood count:94 diff: 379
+Benoit Taine count:20 diff: 74
+Arend van Spriel count:901 diff: 2022
+Neil Zhang count:50 diff: 1633
+HIMANGI SARAOGI count:2 diff: -11
+John Stultz count:369 diff: 3476
+Tom Gundersen count:15 diff: 768
+Chi Pham count:12 diff: 117
+Oscar Mateo count:58 diff: 188
+Dan Carpenter count:2617 diff: 3522
+Duan Jiong count:65 diff: 1339
+NeilBrown count:1590 diff: 4061
+Vitaly Osipov count:14 diff: 56
+Emil Goode count:55 diff: 1410
+Daniel Vetter count:2368 diff: 2691
+Wilfried Klaebe count:5 diff: 2763
+Oder Chiou count:89 diff: 813
+Shruti Kanetkar count:5 diff: 311
+Damien Lespiau count:466 diff: 1174
+Minchan Kim count:189 diff: 3288
+Yann Droneaud count:60 diff: 4003
+Silvio F count:13 diff: 282
+Kristina Martšenko count:32 diff: 328
+Iulia Manda count:19 diff: 403
+James Hogan count:598 diff: 2378
+Nenghua Cao count:8 diff: 38
+Kalle Valo count:504 diff: 3888
+stephen hemminger count:470 diff: 2347
+Andrew Morton count:1688 diff: 4096
+Mitch Williams count:271 diff: 4015
+Jason Gunthorpe count:112 diff: 3752
+Peng Tao count:251 diff: 2338
+Teodora Baluta count:64 diff: 744
+Valentina Manea count:40 diff: 528
+Alexandru Juncu count:6 diff: 40
+Rashika Kheria count:241 diff: 330
+Thomas Meyer count:132 diff: 3335
+Stefan Behrens count:105 diff: 1081
+Bradley Grove count:14 diff: 320
+Laurent Navet count:35 diff: 925
+Vladimir count:913 diff: 3833
+Dmitry Kravkov count:187 diff: 1629
+Eli Cohen count:217 diff: 3821
+Alexandru Gheorghiu count:27 diff: 116
+Nicolas Palix count:58 diff: 1674
+Yuval Mintz count:300 diff: 1701
+Jiri Kosina count:500 diff: 3541
+Herbert Xu count:1541 diff: 4113
+Cyril Roelandt count:32 diff: 768
+Andrei Epure count:9 diff: 31
+Silviu-Mihai Popescu count:21 diff: 249
+Jan Kiszka count:337 diff: 3647
+Sasha Levin count:221 diff: 1814
+Peter Huewe count:302 diff: 2239
+Lee, Chun-Yi count:67 diff: 2379
+Ezequiel Garcia count:479 diff: 1523
+Saurav Kashyap count:84 diff: 1796
+Lars Ellenberg count:473 diff: 3441
+Yuanhan Liu count:42 diff: 1673
+YAMANE Toshiaki count:129 diff: 71
+Roland Dreier count:794 diff: 4052
+Hauke Mehrtens count:436 diff: 2593
+Jim Cromie count:131 diff: 2413
+Srinivas Kandagatla count:311 diff: 1801
+Artem Bityutskiy count:918 diff: 2959
+Guenter Roeck count:1206 diff: 2419
+Greg Dietsche count:41 diff: 256
+Rusty Russell count:1082 diff: 4024
+Jonathan Cameron count:825 diff: 2958
+Henry Ptasinski count:56 diff: 357
+Mathias Krause count:257 diff: 2112
+Shan Wei count:95 diff: 2330
+Alexander Beregalov count:230 diff: 1957
+Marcin Slusarz count:248 diff: 1995
+Nicolas Pitre count:698 diff: 4191
+Ralph Loader count:2 diff: 850
+Arnd Bergmann count:2365 diff: 4141
+Vasiliy Kulikov count:156 diff: 968
+Kulikov Vasiliy count:177 diff: 120
+Grant Likely count:661 diff: 3587
+Márton Németh count:99 diff: 1860
+Németh Márton count:22 diff: 954
+André Goddard Rosa count:32 diff: 346
+Daniel Walker count:182 diff: 3752
+Stoyan Gaydarov count:21 diff: 835
+Karsten Keil count:96 diff: 3689
+Diego Liziero count:2 diff: 0
+Hans Verkuil count:3240 diff: 3966
+Eric Sesterhenn count:202 diff: 1295
+Julien Brunel count:14 diff: 104
+Vegard Nossum count:159 diff: 3212
+Matthew Wilcox count:648 diff: 4143
+Sandhya Bankar count:62 diff: 101
+han tai count:1 diff: 0
+Kalle Valo count:504 diff: 3888
+Roger H. Newell count:5 diff: 37
+Ben Marsh count:22 diff: 66
+Tony Cho count:121 diff: 216
+Chaehyun Lim count:551 diff: 385
+Shaun Ren count:8 diff: 0
+Eva Rachel Retuya count:49 diff: 147
+Bhumika Goyal count:76 diff: 71
+Ksenija Stanojevic count:63 diff: 416
+Ira Weiny count:108 diff: 3686
+Joseph Marrero count:2 diff: 1
+Alison Schofield count:86 diff: 295
+Christian Gromm count:97 diff: 151
+Ivan Safonov count:59 diff: 162
+Aybuke Ozdemir count:82 diff: 702
+Chase Metzger count:5 diff: 257
+Arjun Krishna Babu count:2 diff: 102
+Geliang Tang count:226 diff: 435
+Cristian Ardelean count:1 diff: 0
+Luis de Bethencourt count:183 diff: 2318
+Lukasz Janyst count:1 diff: 0
+Perry Hooker count:1 diff: 0
+Ana Calinov count:2 diff: 0
+Andrzej Pietrasiewicz count:293 diff: 1835
+Jaime Arrocha count:2 diff: 20
+Andreas Theodosiou count:1 diff: 0
+Ana Nedelcu count:1 diff: 0
+Cosmin Tomulescu count:1 diff: 0
+Benjamin Romer count:425 diff: 3297
+Cristina Opriceana count:69 diff: 224
+Sven Dziadek count:1 diff: 0
+Haneen Mohammed count:60 diff: 359
+Supriya Karanth count:13 diff: 1119
+Darshana Padmadas count:33 diff: 193
+Yeliz Taneroglu count:31 diff: 157
+Hatice ERTÜRK count:20 diff: 27
+aybuke ozdemir count:17 diff: 7
+Ken Depro count:14 diff: 78
+jitendra kumar khasdev count:1 diff: 0
+Mohammad Jamal count:9 diff: 28
+Piotr Kubus count:1 diff: 0
+Jonas Lundqvist count:2 diff: 1763
+Aya Mahfouz count:138 diff: 429
+Serguey Parkhomovsky count:2 diff: 84
+Melike Yurtoglu count:47 diff: 152
+Ilja Sidoroff count:1 diff: 0
+Chaitanya Hazarey count:20 diff: 91
+Ramesh Basukala count:1 diff: 0
+Marcel Holtmann count:1071 diff: 3998
+Levente Kurusa count:24 diff: 713
+Raghavendra Ganiga count:9 diff: 127
+Carolyn Wyborny count:129 diff: 2217
+ileana@telecom-paristech.fr count:2 diff: 6
+Joshua Baldock count:4 diff: 20
+Ana Rey count:99 diff: 361
+Chase Southwood count:94 diff: 379
+Gokulnath A count:7 diff: 50
+Masanari Iida count:530 diff: 2377
+Gokulnath Avanashilingam count:4 diff: 0
+Michael Hoefler count:3 diff: 0
+Conrad Gomes count:7 diff: 0
+Johannes Löthberg count:2 diff: 3
+Lisa Nguyen count:48 diff: 209
+Dulshani Gunawardhana count:33 diff: 174
+Jon Bernard count:8 diff: 497
+Valentina Manea count:40 diff: 528
+Damien Lespiau count:466 diff: 1174
+Tülin İzer count:34 diff: 5
+Dylan Socolobsky count:2 diff: 0
+Garrick He count:1 diff: 0
+Sunhee Hwang count:2 diff: 0
+Jugwan Eom count:3 diff: 0
+Jeffrin Jose count:15 diff: 573
+Hitoshi NAKAMORI count:2 diff: 34
+Marco Navarra count:3 diff: 7
+Kevin McKinney count:301 diff: 1052
+Pavel Roskin count:200 diff: 2610
+Roberto Sassu count:57 diff: 1773
+Jean-François Moine count:277 diff: 1027
+Gorskin Ilya count:9 diff: 136
+Joe Eloff count:3 diff: 19
+Mark count:7695 diff: 4172
+Scott Kidder count:3 diff: 0
+Lars Lindley count:25 diff: 70
+Farid Hammane count:3 diff: 0
+Greg Kroah-Hartman count:3048 diff: 4078
+sai count:1099 diff: 4015
+sai gopal count:1 diff: 0
+Zachary Richey count:2 diff: 15
+Wouter Van Rooy count:1 diff: 0
+Jaakko Niemelä count:1 diff: 0
+Graham M Howe count:5 diff: 18
+Chris Nicholson count:1 diff: 0
+C. Bartlett count:1 diff: 0
+Michael Krufky count:988 diff: 3142
+Bartlomiej Zolnierkiewicz count:2286 diff: 3821
+Marcin Slusarz count:248 diff: 1995
+Steve French count:751 diff: 3966
+Linus Walleij count:1952 diff: 3801
+Maninder Singh count:19 diff: 84
+Colin Ian King count:232 diff: 3020
+Vince Bridgers count:49 diff: 487
+Rickard Strandqvist count:225 diff: 491
+Toralf Förster count:14 diff: 3018
+Daniel Borkmann count:562 diff: 2388
+Stefan Weil count:27 diff: 1671
+d binderman count:6 diff: 1529
+Alexander Beregalov count:230 diff: 1957
+Darrick J. Wong count:311 diff: 3905
+Sebastien Buisson count:17 diff: 1011
+stephen hemminger count:470 diff: 2347
+Oleg Drokin count:454 diff: 3887
+Bob Copeland count:244 diff: 3816
+Joern Engel count:107 diff: 3802
+Bjorn Helgaas count:1224 diff: 4098
+Michael Opdenacker count:160 diff: 3297
+Peter Huewe count:302 diff: 2239
+Thierry Reding count:1216 diff: 2663
+Christoph Paasch count:36 diff: 2285
+Kees Cook count:632 diff: 3900
+Jesse Brandeburg count:424 diff: 3808
+Tim Deegan count:2 diff: 945
+Eric Sandeen count:476 diff: 4047
+Mikulas Patocka count:424 diff: 3204
+Itai Garbi count:1 diff: 0
+Chris Wilson count:1837 diff: 2764
+Konrad Rzeszutek Wilk count:512 diff: 2367
+Anton Altaparmakov count:146 diff: 3548
+Stephen M. Cameron count:340 diff: 2747
+Jani Nikula count:629 diff: 2766
+Jesper Juhl count:734 diff: 3157
+David Brownell count:874 diff: 2070
+Florin Malita count:34 diff: 757
+Oliver Neukum count:526 diff: 4136
+Eric Sesterhenn count:202 diff: 1295
+Kylene Jo Hall count:44 diff: 385
+Roland Dreier count:794 diff: 4052
+Joel Schopp count:6 diff: 3490
+Alexey Khoroshilov count:202 diff: 2122
+Alexandre Courbot count:300 diff: 1966
+Nicholas Bellinger count:595 diff: 2107
+Svetlana Mavrina count:1 diff: 0
+Denis Efremov count:18 diff: 293
+Marina Makienko count:4 diff: 196
+Ilya Shchepetkov count:1 diff: 0
+Stephen Hemminger count:1696 diff: 3952
+Pavel Shved count:3 diff: 0
+Alan Cox count:1931 diff: 4086
+Alexander Strakh count:7 diff: 511
+Dmitry V. Levin count:15 diff: 1972
+Vladimir Zapolskiy count:217 diff: 2412
+Andrew Donnellan count:34 diff: 377
+Ravindran, Madhusudhanan (M.) count:3 diff: 1
+Vladimir Kondratiev count:308 diff: 1462
+Phoebe Buckheister count:46 diff: 121
+Mathias Krause count:257 diff: 2112
+Boaz Harrosh count:307 diff: 3053
+Dan Carpenter count:2617 diff: 3522
+Niranjan Dighe count:7 diff: 327
+Tom Herbert count:346 diff: 2282
+Rocco Folino count:2 diff: 548
+Shivani Bhardwaj count:76 diff: 254
+Ronit Halder count:5 diff: 98
+Adrian Remonda count:11 diff: 375
+Michal Simek count:833 diff: 2425
+Eddie Kovsky count:7 diff: 717
+Yannis Damigos count:2 diff: 123
+Koray Gulcu count:2 diff: 0
+Ebru Akagunduz count:90 diff: 1080
+Rafael J. Wysocki count:1801 diff: 4039
+Marc Fite count:2 diff: 45
+Anish Bhatt count:68 diff: 505
+Tobias Klauser count:339 diff: 3918
+Zheng Liu count:70 diff: 1456
+Olof Johansson count:462 diff: 4075
+Xenia Ragiadakou count:195 diff: 191
+Fabio Estevam count:1404 diff: 2835
+Marek Belisko count:218 diff: 2183
+Will Deacon count:857 diff: 2420
+Arnd Bergmann count:2365 diff: 4141
+Luca Barbieri count:25 diff: 218
+H Hartley Sweeten count:5910 diff: 2626
+Tao Ma count:327 diff: 2060
+Christoph Hellwig count:2770 diff: 4149
+Harvey Harrison count:678 diff: 1203
+Randy Dunlap count:1739 diff: 4081
+James Morris count:141 diff: 3283
+Ingo Molnar count:2878 diff: 4047
+Florian Westphal count:422 diff: 3337
+NeilBrown count:1590 diff: 4061
+Nathan Scott count:224 diff: 3586
+Theodore Ts'o count:804 diff: 3783
+Paolo Bonzini count:385 diff: 2578
+Oleg Nesterov count:1378 diff: 4073
+David Howells count:1605 diff: 4064
+Hugh Dickins count:685 diff: 4112
+Andrey Konovalov count:9 diff: 195
+Lorenzo Stoakes count:12 diff: 596
+Ville Syrjälä count:1620 diff: 3024
+Kees Cook count:632 diff: 3900
+Chris Wilson count:1837 diff: 2764
+Giedrius Statkevičius count:32 diff: 699
+Bjorn Helgaas count:1224 diff: 4098
+Michael Ellerman count:957 diff: 4100
+Arik Nemtsov count:417 diff: 2121
+Alex Deucher count:2406 diff: 3115
+Maarten Lankhorst count:452 diff: 3127
+Arnaldo Carvalho de Melo count:2218 diff: 4078
+Christian König count:739 diff: 2326
+Artur Paszkiewicz count:2 diff: 242
+Takashi Iwai count:4730 diff: 4177
+Vittorio Gambaletta (VittGam) count:4 diff: 148
+Dave Carroll count:4 diff: 1875
+Mario Kleiner count:70 diff: 2152
+Miklos Szeredi count:726 diff: 4077
+Ian Wienand count:6 diff: 4038
+Lv Zheng count:395 diff: 1420
+Laura Abbott count:94 diff: 1943
+Ilia Mirkin count:122 diff: 2029
+Peter Wu count:25 diff: 1500
+Josh Poimboeuf count:121 diff: 2904
+Rodrigo Vivi count:190 diff: 2543
+Steve Dickson count:28 diff: 3969
+Tejun Heo count:3855 diff: 4170
+Amitkumar Karwar count:367 diff: 2479
+Rafał Miłecki count:1011 diff: 2480
+Rafael J. Wysocki count:1801 diff: 4039
+Stefan PÃ¶schel count:1 diff: 0
+Lukas Wunner count:95 diff: 513
+Jonathan McDowell count:27 diff: 3669
+Vinod Koul count:443 diff: 2197
+Martin KaFai Lau count:58 diff: 639
+Colin Pitrat count:1 diff: 0
+Dan Williams count:1199 diff: 3980
+Alex Hung count:20 diff: 1542
+Frank Rowand count:19 diff: 4006
+Jaroslav Kysela count:228 diff: 4099
+Dmitrii Tcvetkov count:1 diff: 0
+Pali Rohár count:130 diff: 2038
+Imre Deak count:501 diff: 3733
+Lyude count:38 diff: 258
+Mika Kahola count:19 diff: 418
+Michał Winiarski count:9 diff: 503
+Rui Zhang count:3 diff: 3464
+Feng Tang count:144 diff: 3179
+Rajkumar Manoharan count:415 diff: 2151
+Mika Westerberg count:369 diff: 2445
+Aaron Sierra count:38 diff: 1646
+Gabriele Mazzotta count:23 diff: 735
+Daniel Vetter count:2368 diff: 2691
+Dave Airlie count:985 diff: 4005
+Tomas Bzatek count:1 diff: 0
+Adrian Hunter count:759 diff: 3521
+Rasmus Villemoes count:349 diff: 1172
+Chuck Lever count:1088 diff: 4089
+Stefan Metzmacher count:13 diff: 2103
+Lucas Stach count:217 diff: 2145
+Steven Rostedt (Red Hat) count:551 diff: 1334
+Matt Roper count:148 diff: 869
+Florian Westphal count:422 diff: 3337
+Chen Yu count:34 diff: 792
+Monk Liu count:39 diff: 140
+Arnd Bergmann count:2365 diff: 4141
+Yura Pakhuchiy count:1 diff: 0
+Luis de Bethencourt count:183 diff: 2318
+Mathias Krause count:257 diff: 2112
+Nicolai Stange count:49 diff: 393
+Bob Moore count:802 diff: 3916
+Prarit Bhargava count:147 diff: 4140
+Jani Nikula count:629 diff: 2766
+Brian Bloniarz count:3 diff: 1915
+Ashutosh Dixit count:27 diff: 1017
+Shaohua Li count:421 diff: 4093
+Jiri Olsa count:1085 diff: 3228
+Dave Gordon count:63 diff: 659
+Mika Kuoppala count:246 diff: 2418
+Kumar, Mahesh count:8 diff: 259
+Denys Vlasenko count:260 diff: 3237
+Hans de Goede count:1266 diff: 3749
+Sara Sharon count:112 diff: 462
+Dongwon Kim count:3 diff: 210
+Nicolas Pitre count:698 diff: 4191
+Miaoqing Pan count:47 diff: 637
+Alistair Leslie-Hughes count:1 diff: 0
+Tvrtko Ursulin count:153 diff: 2181
+Rob Clark count:375 diff: 2422
+Vladis Dronov count:9 diff: 121
+Mauro Carvalho Chehab count:4290 diff: 4051
+Filipe Manana count:282 diff: 923
+Wolfram Sang count:1282 diff: 3110
+Benjamin Tissoires count:332 diff: 2054
+Len Brown count:558 diff: 4109
+Bobi Mihalca count:3 diff: 0
+Zhang Rui count:269 diff: 3389
+Subhransu S. Prusty count:97 diff: 698
+DingXiang count:2 diff: 298
+Babu Moger count:5 diff: 2778
+NeilBrown count:1590 diff: 4061
+Christian Lamparter count:376 diff: 3511
+Konstantin Khlebnikov count:213 diff: 2225
+Rui Wang count:5 diff: 913
+Manuel Lauss count:275 diff: 3782
+Kelly Zytaruk count:1 diff: 0
+Chun-Hao Lin count:27 diff: 713
+Diego Viola count:10 diff: 363
+Jozsef Kadlecsik count:162 diff: 3772
+Emmanuel Grumbach count:1005 diff: 3205
+Luca Coelho count:34 diff: 280
+Eric Dumazet count:2684 diff: 4111
+Larry Finger count:1130 diff: 3833
+Andy Shevchenko count:1004 diff: 3704
+Andrew Goodbody count:5 diff: 119
+Rusty Russell count:1082 diff: 4024
+Josh Boyer count:213 diff: 4135
+Hubert Tarasiuk count:1 diff: 0
+Lev Lybin count:1 diff: 0
+Matt Fleming count:361 diff: 2882
+Francisco Jerez count:210 diff: 2356
+Wang Nan count:286 diff: 891
+David Sterba count:376 diff: 3355
+Thorsten Leemhuis count:1 diff: 0
+Weng Xuetian count:1 diff: 0
+João Paulo Rechi Vita count:34 diff: 2235
+Michel Dänzer count:168 diff: 3651
+Jean Delvare count:1768 diff: 4177
+Jarod Wilson count:269 diff: 3412
+Aurélien Francillon count:1 diff: 0
+Aaron Lu count:124 diff: 1858
+Trond Myklebust count:2365 diff: 4099
+Paolo Bonzini count:385 diff: 2578
+Alexis Dambricourt count:2 diff: 203
+Chaya Rachel Ivgi count:15 diff: 459
+stephen hemminger count:470 diff: 2347
+Mikulas Patocka count:424 diff: 3204
+Martin Peres count:102 diff: 1975
+Johannes Berg count:3728 diff: 3911
+Colin Ian King count:232 diff: 3020
+Ursula Braun count:177 diff: 4003
+Seth Jennings count:70 diff: 1573
+Joonas Lahtinen count:28 diff: 403
+Sasha Levin count:221 diff: 1814
+Nicolai Hähnle count:15 diff: 198
+Tom St Denis count:57 diff: 241
+Ken Xue count:8 diff: 306
+Martin K. Petersen count:238 diff: 3362
+David Turner count:1 diff: 0
+Damien Lespiau count:466 diff: 1174
+Alec Leamas count:1 diff: 0
+Chris Bainbridge count:13 diff: 780
+Maxim Sheviakov count:2 diff: 48
+Ravishankar N count:2 diff: 922
+Anthony Lineham count:1 diff: 0
+Borislav Petkov count:1168 diff: 3994
+David Ahern count:344 diff: 2077
+sumit.saxena@avagotech.com count:41 diff: 150
+Émeric MASCHINO count:2 diff: 487
+John Linville count:11 diff: 3667
+Dāvis Mosāns count:1 diff: 0
+Antti Palosaari count:1134 diff: 3447
+Andrey Ryabinin count:114 diff: 938
+Jarkko Sakkinen count:84 diff: 2095
+Paulo Zanoni count:602 diff: 1643
+Manjeet Pawar count:1 diff: 0
+Hannes Frederic Sowa count:214 diff: 1313
+Yousong Zhou count:4 diff: 6
+John Flatness count:1 diff: 0
+Mel Gorman count:616 diff: 3627
+Fabiano Fidêncio count:1 diff: 0
+Aaron Conole count:7 diff: 257
+Jesse Barnes count:669 diff: 3984
+Oleg Nesterov count:1378 diff: 4073
+Jeff Mahoney count:326 diff: 4102
+Mike Snitzer count:363 diff: 3067
+Pranay Kr. Srivastava count:2 diff: 299
+Hin-Tak Leung count:20 diff: 2619
+Corinna Vinschen count:4 diff: 157
+Ard Biesheuvel count:387 diff: 1217
+Ander Conselvan de Oliveira count:170 diff: 1407
+Gary Wang count:5 diff: 117
+Andy Grover count:266 diff: 2557
+Jiang Liu count:656 diff: 1427
+Thomas Gleixner count:3273 diff: 4210
+David Ward count:30 diff: 2209
+Alan Stern count:1173 diff: 4151
+Theodore Ts'o count:804 diff: 3783
+Omar Sandoval count:45 diff: 678
+Arun Siluvery count:54 diff: 587
+Luis Felipe Dominguez Vega count:1 diff: 0
+Николай Кудрявцев count:1 diff: 0
+Kamil Dudka count:3 diff: 1080
+Sabrina Dubroca count:57 diff: 967
+Jaegeuk Kim count:744 diff: 1371
+Peter Hurley count:678 diff: 2202
+Goldwyn Rodrigues count:82 diff: 3682
+Andy Lutomirski count:578 diff: 2710
+Shirley Ma count:19 diff: 3677
+Mateusz Sylwestrzak count:1 diff: 0
+Andrew Duggan count:45 diff: 1363
+Patrik Jakobsson count:118 diff: 1819
+Dmitry Torokhov count:1189 diff: 4131
+Ralf Baechle count:2098 diff: 4104
+Grigori Goronzy count:5 diff: 2262
+Sascha Wildner count:2 diff: 336
+Davidlohr Bueso count:269 diff: 2517
+Hui Wang count:80 diff: 1807
+Ingo Molnar count:2878 diff: 4047
+Alexander Usyskin count:114 diff: 980
+Ryan Underwood count:2 diff: 2972
+Anton Blanchard count:865 diff: 4072
+Stephen Smalley count:99 diff: 4021
+Peter Hutterer count:20 diff: 2694
+Sudip Mukherjee count:478 diff: 789
+Yinghai Lu count:1267 diff: 3577
+Yijing Wang count:199 diff: 1441
+Alan count:3424 diff: 4151
+Vittorio G (VittGam) count:1 diff: 0
+Chandra Konduru count:19 diff: 61
+Eric Work count:1 diff: 0
+Nakajima Akira count:4 diff: 111
+Deepak S count:170 diff: 3779
+Mirek Kratochvil count:1 diff: 0
+Thomas Reitmayr count:9 diff: 2908
+John Stultz count:369 diff: 3476
+Peter Antoine count:8 diff: 416
+Sonika Jindal count:51 diff: 441
+Naveen N. Rao count:42 diff: 1601
+Daniel Borkmann count:562 diff: 2388
+Thomas D count:21 diff: 3194
+Jan Vesely count:3 diff: 616
+Adam Honse count:1 diff: 0
+Alexey Dobriyan count:1022 diff: 4061
+Lan Tianyu count:116 diff: 1718
+Radim Krčmář count:103 diff: 1069
+Bruno Prémont count:63 diff: 2636
+Xi Ruoyao count:1 diff: 0
+Simon Farnsworth count:22 diff: 2861
+Daniel Martin count:7 diff: 192
+Tyler Hicks count:111 diff: 2871
+Nick Hoath count:36 diff: 477
+Thomas Daniel count:15 diff: 456
+Jakub Sitnicki count:28 diff: 807
+Valdis Kletnieks count:20 diff: 3757
+Jens Reyer count:1 diff: 0
+Frank C Guenther count:1 diff: 0
+Minh Duc Tran count:1 diff: 0
+Julijonas Kikutis count:1 diff: 0
+Myron Stowe count:87 diff: 2801
+Ilija Hadzic count:63 diff: 1414
+Charlotte Richardson count:1 diff: 0
+Luca Bonissi count:1 diff: 0
+Roopa Prabhu count:84 diff: 2080
+Alan Cox count:1931 diff: 4086
+Christian Borntraeger count:354 diff: 4058
+Thomas Hellstrom count:378 diff: 3614
+Willem de Bruijn count:92 diff: 1803
+Srihari Vijayaraghavan count:1 diff: 0
+John W. Linville count:508 diff: 3779
+Kevin count:1303 diff: 3977
+David Drysdale count:8 diff: 335
+Andreas Müller count:1 diff: 0
+Sachin Prabhu count:58 diff: 2332
+John Harrison count:88 diff: 369
+Dominique Leuenberger count:1 diff: 0
+Andrew Morton count:1688 diff: 4096
+Egbert Eich count:46 diff: 3115
+Rabin Vincent count:356 diff: 3168
+Pablo Neira count:573 diff: 4048
+Greg Kroah-Hartman count:3048 diff: 4078
+Lu Baolu count:26 diff: 779
+Tetsuo Handa count:249 diff: 3653
+Andi Kleen count:1561 diff: 3985
+Frank Praznik count:59 diff: 664
+Ben Sagal count:1 diff: 0
+Jan Kara count:1045 diff: 4105
+Kailang Yang count:154 diff: 3837
+Stanislaw Gruszka count:607 diff: 3799
+Hauke Mehrtens count:436 diff: 2593
+Gu Zheng count:96 diff: 786
+Eric Rannaud count:2 diff: 2770
+jens stein count:1 diff: 0
+Eric Paris count:638 diff: 3402
+Dirk Brandewie count:88 diff: 2004
+Marc-André Lureau count:10 diff: 756
+Lubomir Rintel count:51 diff: 2693
+Andreas Bosch count:1 diff: 0
+Dmitry Monakhov count:181 diff: 3124
+George Spelvin count:55 diff: 2478
+Josh Triplett count:164 diff: 3287
+Marti Raudsepp count:6 diff: 1938
+David Rientjes count:428 diff: 3629
+Brad Volkin count:28 diff: 296
+Andrey Utkin count:35 diff: 734
+Gustavo Padovan count:302 diff: 1538
+James Hogan count:598 diff: 2378
+Johannes Stezenbach count:55 diff: 3367
+Steve French count:751 diff: 3966
+Fu Zhonghui count:3 diff: -22
+Chuansheng Liu count:34 diff: 723
+Wanpeng Li count:184 diff: 1573
+Scot Doyle count:15 diff: 463
+Jonas Jensen count:25 diff: 433
+Brian Norris count:519 diff: 2245
+Thomas Wood count:11 diff: 397
+Mark Einon count:244 diff: 2212
+Jiri Kosina count:500 diff: 3541
+Rik van Riel count:181 diff: 3880
+Dexuan Cui count:45 diff: 2311
+Paul S McSpadden count:1 diff: 0
+Milan Broz count:129 diff: 3245
+Michal Hocko count:271 diff: 2550
+Janusz Dziemidowicz count:1 diff: 0
+Linus Torvalds count:1673 diff: 4124
+Bradley Grove count:14 diff: 320
+Pratyush Anand count:68 diff: 1897
+Ulf Winkelvos count:1 diff: 0
+Vidya Sagar count:2 diff: 677
+Alexey Asemov count:1 diff: 0
+Terry Chia count:1 diff: 0
+Chao Yu count:371 diff: 1047
+Shobhit Kumar count:53 diff: 1317
+David E. Box count:21 diff: 879
+zhangdianfang count:2 diff: 0
+Pierre Ossman count:275 diff: 3274
+Jérôme Carretero count:2 diff: 0
+huizhang count:1 diff: 0
+Joel Stanley count:29 diff: 825
+Alex Williamson count:312 diff: 4022
+Bart Van Assche count:356 diff: 3467
+Randy Wright count:2 diff: 310
+Ben Widawsky count:533 diff: 1787
+Dave Hansen count:315 diff: 4066
+Stefan Richter count:807 diff: 3658
+William Burrow count:1 diff: 0
+Thomee Wright count:1 diff: 0
+Denis Turischev count:18 diff: 2318
+Jin Yao count:11 diff: 333
+Suravee Suthikulpanit count:58 diff: 2800
+Jeff Layton count:1200 diff: 3386
+Marcel Apfelbaum count:12 diff: 953
+Hans Verkuil count:3240 diff: 3966
+Guenter Roeck count:1206 diff: 2419
+Will Woods count:1 diff: 0
+Kieran Clancy count:2 diff: 60
+David Binderman count:3 diff: 2975
+Jiri Slaby count:1279 diff: 4009
+Michele Baldessari count:7 diff: 698
+Jay Foad count:1 diff: 0
+Marcelo Tosatti count:310 diff: 4012
+Thomas Petazzoni count:728 diff: 3560
+Mathieu Desnoyers count:234 diff: 3662
+Anssi Hannula count:101 diff: 3810
+John Hubbard count:1 diff: 0
+Giacomo Comes count:1 diff: 0
+Christopher Friedt count:1 diff: 0
+Marc van der Wal count:1 diff: 0
+Joonsoo Kim count:290 diff: 1657
+Pravin B Shelar count:157 diff: 1504
+Aaro Koskinen count:820 diff: 2763
+Maurizio Lombardi count:28 diff: 934
+Markos Chandras count:313 diff: 1058
+Artem Fetishev count:7 diff: 62
+Mike Christie count:495 diff: 4063
+Joe Thornber count:229 diff: 1705
+Marios Andreopoulos count:1 diff: 0
+Xin Long count:61 diff: 940
+Srivatsa S. Bhat count:159 diff: 978
+Levente Kurusa count:24 diff: 713
+Emil Velikov count:63 diff: 2020
+Emil Goode count:55 diff: 1410
+Mark Asselstine count:11 diff: 2125
+Steven Noonan count:15 diff: 2272
+Rajat Jain count:15 diff: 209
+Patrick McHardy count:1411 diff: 3810
+Rudolf Marek count:39 diff: 3098
+Reyad Attiyat count:12 diff: 517
+Akash Goel count:34 diff: 932
+Gao feng count:129 diff: 1498
+Dave Jones count:544 diff: 4087
+Cyrill Gorcunov count:379 diff: 2899
+Todd Previte count:13 diff: 1255
+Martin Koegler count:3 diff: 2835
+Alexander Mezin count:6 diff: 150
+Olof Johansson count:462 diff: 4075
+Shirish Pargaonkar count:55 diff: 2438
+Martin Andersson count:2 diff: 2812
+Filipe David Borba Manana count:81 diff: 34
+Nishanth Menon count:333 diff: 2772
+Khalid Aziz count:16 diff: 3865
+Jiri Pirko count:671 diff: 2979
+Balaji T K count:79 diff: 2055
+françois romieu count:88 diff: 2600
+Alexander Duyck count:1066 diff: 2976
+Alexandre Demers count:7 diff: 934
+Randy Dunlap count:1739 diff: 4081
+David Herrmann count:371 diff: 2051
+hahnjo count:3 diff: 134
+Tomoki Sekiyama count:13 diff: 1656
+Konrad Rzeszutek Wilk count:512 diff: 2367
+Tomasz Nowicki count:29 diff: 1129
+Kirill Tkhai count:91 diff: 1627
+Brennan Shacklett count:1 diff: 0
+Yuchung Cheng count:98 diff: 2189
+Bastien Nocera count:32 diff: 3065
+Lennart Poettering count:11 diff: 2582
+Alexey Neyman count:2 diff: 28
+Felipe Contreras count:100 diff: 1759
+wojciech kapuscinski count:1 diff: 0
+Oussama Ghorbel count:6 diff: 397
+Neil Horman count:264 diff: 3983
+Ben Whitten count:1 diff: 0
+Bing Zhao count:120 diff: 2001
+Iker Pedrosa count:15 diff: 45
+Florian Wolter count:1 diff: 0
+Gleb Natapov count:367 diff: 2958
+Olaf Hering count:243 diff: 3825
+Phil Oester count:22 diff: 3071
+Jiri Bohac count:21 diff: 2840
+Ilya Dryomov count:401 diff: 2356
+Christoffer Dall count:150 diff: 1623
+Lespiau, Damien count:46 diff: 322
+Andrey Moiseev count:2 diff: 21
+Sujith Manoharan count:741 diff: 1582
+Terry Suereth count:1 diff: 0
+Saurav Kashyap count:84 diff: 1796
+John Greene count:6 diff: 463
+Kamal Mostafa count:16 diff: 2102
+Andre Heider count:9 diff: 1083
+AceLan Kao count:43 diff: 2531
+Xiong Zhang count:7 diff: 903
+Balazs Peter Odor count:1 diff: 0
+Masami Hiramatsu count:644 diff: 3786
+Igor Mammedov count:53 diff: 3167
+Tobias Polzer count:4 diff: 88
+Chao Guan count:2 diff: 171
+Fenghua Yu count:121 diff: 3734
+Josef Bacik count:776 diff: 3437
+Arend van Spriel count:901 diff: 2022
+Adis Hamzić count:1 diff: 0
+Ash Willis count:3 diff: 2620
+lan,Tianyu count:6 diff: 524
+Christian Ohm count:2 diff: 0
+Helmut Schaa count:260 diff: 3094
+braggle@free.fr count:1 diff: 0
+Gabriel de Perthuis count:10 diff: 1146
+Hans Schillstrom count:57 diff: 2137
+Naoya Horiguchi count:164 diff: 2417
+Aaron Tomlin count:13 diff: 925
+Anurup m count:1 diff: 0
+Andy Leiserson count:2 diff: 907
+Bruce Allan count:458 diff: 3809
+Anisse Astier count:45 diff: 2787
+Jerome Glisse count:210 diff: 2172
+Matthew Garrett count:290 diff: 3762
+Sarah Sharp count:382 diff: 2409
+Samu Kallio count:1 diff: 0
+Sean Young count:85 diff: 4045
+Robert Shade count:2 diff: -6
+Lauri Kasanen count:10 diff: 1324
+Fabio Valentini count:1 diff: 0
+Namhyung Kim count:1157 diff: 2186
+Bjørn Mork count:327 diff: 2685
+Zhouyi Zhou count:9 diff: 1182
+Takahisa Tanaka count:5 diff: 91
+Mattia Dongili count:84 diff: 3800
+Thomas Renninger count:210 diff: 4242
+Lee, Chun-Yi count:67 diff: 2379
+David Henningsson count:291 diff: 2328
+YOSHIFUJI Hideaki / 吉藤英明 count:124 diff: 2623
+Stefan de Konink count:1 diff: 0
+Satoru Takeuchi count:42 diff: 3641
+Huang, Xiong count:44 diff: 308
+Viresh Kumar count:1090 diff: 2096
+Mikko Tiihonen count:1 diff: 0
+Tormod Volden count:15 diff: 1377
+Daniel Lezcano count:450 diff: 3274
+Zach Brown count:93 diff: 3716
+Shane Huang count:28 diff: 2336
+Nitin Gupta count:44 diff: 3301
+Aleksi Torhamo count:2 diff: 5
+Marcin Slusarz count:248 diff: 1995
+Amerigo Wang count:152 diff: 1507
+Weston Andros Adamson count:157 diff: 1912
+Frank Schaefer count:200 diff: 1868
+Scott Wolchok count:1 diff: 0
+Krzysztof Mazur count:20 diff: 1095
+Nadav Amit count:147 diff: 2276
+Ondrej Zary count:340 diff: 3760
+Lamarque V. Souza count:1 diff: 0
+Johannes Weiner count:471 diff: 3480
+Huang Ying count:168 diff: 2924
+Greg KH count:37 diff: 3569
+James Smart count:696 diff: 3774
+Marco Biscaro count:1 diff: 0
+Kamil Iskra count:1 diff: 0
+Zhao Yakui count:162 diff: 2428
+Lukas Czerner count:156 diff: 1816
+Igor Murzov count:9 diff: 277
+Julian Anastasov count:197 diff: 4016
+Will Deacon count:857 diff: 2420
+Michael Shigorin count:1 diff: 0
+Stanislav Yakovlev count:18 diff: 387
+Tatyana Nikolova count:44 diff: 1795
+David Howells count:1605 diff: 4064
+Thomas Wagner count:1 diff: 0
+Jason Gerecke count:102 diff: 1700
+Seth Forshee count:109 diff: 2869
+Markus Trippelsdorf count:21 diff: 2539
+Herton Ronaldo Krzesinski count:104 diff: 1918
+Lekensteyn count:6 diff: 594
+Tai-hwa Liang count:12 diff: 1227
+Corentin Chary count:230 diff: 2134
+Paul Menzel count:12 diff: 1213
+David Flater count:4 diff: 866
+Xu, Anhua count:3 diff: 8
+Jesse Brandeburg count:424 diff: 3808
+Bruce W Allan count:1 diff: 0
+David Lamparter count:8 diff: 3188
+Mike Frysinger count:1197 diff: 3394
+Hunt Xu count:1 diff: 0
+Eric Anholt count:298 diff: 3646
+Justin Lecher count:3 diff: 219
+Filipe Brandenburger count:9 diff: 763
+Tony Breeds count:88 diff: 2894
+Thomas Richter count:22 diff: 1520
+HighPoint Linux Team count:12 diff: 2354
+Karsten Keil count:96 diff: 3689
+Jeff Moyer count:69 diff: 4003
+Jonathan Nieder count:34 diff: 938
+Kay Sievers count:349 diff: 2807
+Martlin Ettl count:1 diff: 0
+Stuart Hayes count:6 diff: 2576
+Panayiotis Karabassis count:1 diff: 0
+Chris Metcalf count:438 diff: 2268
+Jan Kiszka count:337 diff: 3647
+Don Zickus count:135 diff: 3447
+Amos Kong count:17 diff: 1278
+Mohammed Shafi Shajakhan count:239 diff: 2149
+Adam Jackson count:149 diff: 2736
+Eugeni Dodonov count:90 diff: 908
+Pavel Vasilyev count:5 diff: 1329
+Tushar Dave count:16 diff: 1617
+Avi Kivity count:1097 diff: 2837
+Robert Love count:125 diff: 3261
+Paul E. McKenney count:1436 diff: 3958
+H. Peter Anvin count:754 diff: 4003
+Kenneth Graunke count:24 diff: 2064
+Stuart Menefy count:50 diff: 2409
+Tony Luck count:229 diff: 4078
+Daniel Kurtz count:104 diff: 1625
+Prasad Joshi count:15 diff: 885
+Sathisha Nanjappa count:1 diff: 0
+Don Morris count:1 diff: 0
+Earl Chew count:2 diff: 884
+Jason Baron count:114 diff: 3981
+Liz Clark count:1 diff: 0
+Felix Fietkau count:964 diff: 3248
+Jingjun Wu count:1 diff: 0
+Philipp Grete count:1 diff: 0
+Oliver Neukum count:526 diff: 4136
+Alban Browaeys count:15 diff: 2666
+Pavel Roskin count:200 diff: 2610
+Andreas Herrmann count:214 diff: 4060
+Keith Packard count:179 diff: 3186
+Preston Fick count:6 diff: 1075
+Lin Ming count:176 diff: 1850
+Alexander Müller count:2 diff: 1591
+Wim Van Sebroeck count:199 diff: 2739
+Maxim Levitsky count:120 diff: 2381
+Sean Hefty count:173 diff: 3001
+Gertjan van Wingerde count:187 diff: 2253
+Mark Kamichoff count:2 diff: 93
+Vasily Averin count:50 diff: 3730
+Michal Schmidt count:86 diff: 3998
+Clemens Buchacher count:4 diff: 2233
+Jayachandran C count:176 diff: 3893
+Srinivas Kandagatla count:311 diff: 1801
+Paul Moore count:247 diff: 3638
+Bogdan Radulescu count:1 diff: 0
+Dan McGee count:12 diff: 1274
+Ming Lei count:392 diff: 3053
+Nicholas Miell count:1 diff: 0
+Lasse Collin count:24 diff: 2590
+Suresh Siddha count:304 diff: 3148
+Jon Mason count:256 diff: 3805
+Wey-Yi Guy count:678 diff: 1201
+Bernd Schubert count:16 diff: 1949
+Clemens Ladisch count:824 diff: 3882
+Daniel Mack count:596 diff: 3577
+Roberto Sassu count:57 diff: 1773
+Sergey Senozhatsky count:149 diff: 2709
+Thomas Reim count:5 diff: 19
+Michel Alexandre Salim count:1 diff: 0
+Lennart Sorensen count:18 diff: 2744
+Klement Fish count:1 diff: 0
+Manfred Spraul count:75 diff: 3704
+Stefan Berger count:38 diff: 1947
+Guo-Fu Tseng count:42 diff: 2728
+David S. Miller count:3733 diff: 4120
+Wu Fengguang count:374 diff: 3816
+Roland Vossen count:391 diff: 324
+Werner Fink count:5 diff: 2162
+Daniel J Blueman count:68 diff: 2754
+KAMEZAWA Hiroyuki count:332 diff: 2478
+Marek Olšák count:72 diff: 2324
+Srinivas KANDAGATLA count:3 diff: 749
+Jens Axboe count:1076 diff: 4077
+Tiger Yang count:41 diff: 2538
+Robert Richter count:432 diff: 3037
+Andreas Gruenbacher count:454 diff: 4079
+Mikko Vinni count:1 diff: 0
+Hugh Dickins count:685 diff: 4112
+Roedel, Joerg count:6 diff: 378
+Sean Finney count:6 diff: 0
+Anders Kaseorg count:11 diff: 1374
+Florian Mickler count:35 diff: 1072
+Laszlo Ersek count:16 diff: 1805
+Steinar H. Gunderson count:5 diff: 1845
+Lifeng Sun count:1 diff: 0
+Richard Weinberger count:452 diff: 2182
+Andrea Arcangeli count:214 diff: 4080
+Bob Peterson count:215 diff: 3312
+Joerg Roedel count:1148 diff: 3591
+Darren Hart count:93 diff: 3831
+Chris Lalancette count:14 diff: 2010
+Sitsofe Wheeler count:4 diff: 938
+Mathew McKernan count:2 diff: 0
+OGAWA Hirofumi count:151 diff: 3827
+Xin Zhong count:2 diff: 118
+Luis R. Rodriguez count:941 diff: 3316
+Tao Ma count:327 diff: 2060
+Jussi Kivilinna count:372 diff: 2541
+John Lindgren count:1 diff: 0
+Ike Panhc count:32 diff: 1177
+Chen Liu count:1 diff: 0
+Yuanhan Liu count:42 diff: 1673
+Andrey Vagin count:50 diff: 2911
+Stuart Swales count:4 diff: 1154
+Phillip Lougher count:110 diff: 2912
+Eric Sandeen count:476 diff: 4047
+Eric W. Biederman count:1630 diff: 4046
+Scott Rixner count:1 diff: 0
+Ram Pai count:31 diff: 2190
+Petr Uzel count:6 diff: 358
+Olivier Grenie count:39 diff: 1562
+Neil Brown count:86 diff: 3772
+Manish Katiyar count:21 diff: 1171
+Stephen Hemminger count:1696 diff: 3952
+Zhang, Fengzhe count:1 diff: 0
+Indan Zupancic count:3 diff: 36
+Nick Kossifidis count:124 diff: 2617
+Kashyap, Desai count:206 diff: 925
+Michael Karcher count:17 diff: 3008
+Stephen Kitt count:3 diff: 537
+Francesco Antonacci count:1 diff: 0
+Timo Teräs count:43 diff: 2411
+Jan Engelhardt count:456 diff: 3505
+Lukáš Turek count:7 diff: 412
+Maciej Sosnowski count:25 diff: 1553
+Márton Németh count:99 diff: 1860
+David Dillow count:38 diff: 2192
+Tomas Winkler count:812 diff: 3244
+J. Bruce Fields count:1147 diff: 4047
+Andrej Ota count:2 diff: 1767
+Alexey Starikovskiy count:277 diff: 2092
+David Kilroy count:135 diff: 1161
+Sergey Vlasov count:21 diff: 2927
+Ian Kent count:132 diff: 4107
+Frederic Weisbecker count:945 diff: 2869
+Maximiliano David Bustos count:1 diff: 0
+Tyson Whitehead count:1 diff: 0
+Steven Rostedt count:2040 diff: 4079
+Dick Streefland count:5 diff: 1934
+Jarek Poplawski count:155 diff: 1571
+Brian Behlendorf count:3 diff: 1279
+Ben Hutchings count:1347 diff: 2935
+Suresh Jayaraman count:56 diff: 1811
+Damian Lukowski count:9 diff: 398
+Hette Visser count:1 diff: 0
+Luke Macken count:1 diff: 0
+Minchan Kim count:189 diff: 3288
+Matt Helsley count:29 diff: 1771
+Signed-off-by: Jan Kara count:1 diff: 0
+Tristan Ye count:41 diff: 526
+Chien Tung count:51 diff: 990
+Sunil Mushran count:188 diff: 2751
+Mimi Zohar count:172 diff: 2702
+Maxim Osipov count:3 diff: 259
+Ivo van Doorn count:455 diff: 2130
+Yevgeny Petrilin count:147 diff: 2983
+Niels de Vos count:19 diff: 2346
+Michal Marek count:211 diff: 3254
+Yuri Kululin count:2 diff: -21
+Luca Barbieri count:25 diff: 218
+Chris Wright count:85 diff: 3008
+Jiaju Zhang count:3 diff: 723
+Andrej Gelenberg count:5 diff: 146
+Thomas Bächler count:5 diff: 2624
+Tim Gardner count:91 diff: 3143
+Dave Chinner count:1000 diff: 2998
+Rajiv Andrade count:27 diff: 1390
+Michael S. Tsirkin count:746 diff: 4037
+Mikael Pettersson count:90 diff: 2793
+Catalin Marinas count:647 diff: 3455
+Alex Chiang count:162 diff: 1072
+Nik A. Melchior count:1 diff: 0
+Reinette Chatre count:149 diff: 1567
+Martin Ettl count:1 diff: 0
+Dan Carpenter count:2617 diff: 3522
+Roland Scheidegger count:10 diff: 2621
+Cedric Godin count:1 diff: 0
+Martin Wilck count:9 diff: 3770
+Thomas Backlund count:4 diff: 1168
+Tom Hughes count:4 diff: 3519
+Li Peng count:17 diff: 2625
+Venkatesh Pallipadi count:137 diff: 2416
+Dominik Brodowski count:434 diff: 3639
+Daniel Halperin count:22 diff: 1333
+Abhijeet Kolekar count:101 diff: 790
+Carl Worth count:4 diff: 423
+Al Viro count:5378 diff: 4185
+Jacob Pan count:88 diff: 2748
+Lalit Chandivade count:41 diff: 2489
+Simon Arlott count:101 diff: 3196
+Stijn Tintel count:1 diff: 0
+Li Dongyang count:20 diff: 2376
+Andreas Hartmann count:2 diff: 720
+Ian Dall count:4 diff: 1745
+Karsten Wiese count:47 diff: 3472
+Justin P. Mattock count:170 diff: 1326
+Quintin Pitts count:1 diff: 0
+Zhu Yi count:270 diff: 1802
+Ben Skeggs count:2287 diff: 2689
+John Hughes count:4 diff: 587
+Florian Fainelli count:991 diff: 3512
+Matthew Wilcox count:648 diff: 4143
+Alexandra Kossovsky count:2 diff: 1580
+Jan Beulich count:651 diff: 4077
+Michal Pecio count:4 diff: 1130
+Zhenyu Wang count:146 diff: 2408
+Antoine Jacquet count:17 diff: 975
+Henrique de Moraes Holschuh count:339 diff: 2784
+Robert Hancock count:47 diff: 2551
+David Härdeman count:76 diff: 2129
+Tomas Henzl count:46 diff: 2181
+Carlos Corbacho count:51 diff: 1345
+Arjan van de Ven count:415 diff: 2711
+Shanyu Zhao count:32 diff: 391
+Johnathon Harris count:1 diff: 0
+Bob Copeland count:244 diff: 3816
+George Kadianakis count:5 diff: 202
+Tamas Vincze count:1 diff: 0
+Xiaotian Feng count:64 diff: 1611
+Krzysztof Halasa count:67 diff: 3977
+Krzysztof Helt count:396 diff: 1429
+Surbhi Palande count:3 diff: 1585
+FUJITA Tomonori count:767 diff: 1997
+Eduardo Habkost count:43 diff: 633
+Helge Deller count:328 diff: 3874
+Jerone Young count:20 diff: 1008
+Jan Rekorajski count:1 diff: 0
+Avi Cohen Stuart count:1 diff: 0
+Vaibhav Verma count:1 diff: 0
+Gustavo Maciel Dias Vieira count:6 diff: 1232
+Stefan Assmann count:40 diff: 2938
+Ananth N Mavinakayanahalli count:51 diff: 3958
+Mark McLoughlin count:62 diff: 1117
+Christoph Hellwig count:2770 diff: 4149
+Darren Salt count:12 diff: 2924
+David J. Wilder count:3 diff: 488
+Josh Stone count:11 diff: 2264
+Dave Young count:119 diff: 3194
+Moni Shoua count:79 diff: 3251
+Pete Zaitcev count:125 diff: 2050
+Joe Peterson count:11 diff: 581
+Kurt Roeckx count:1 diff: 0
+Ed L. Cashin count:44 diff: 871
+Andrzej Hajda count:360 diff: 2616
+Roland Dreier count:794 diff: 4052
+Vladimir Serbinenko count:3 diff: 1132
+Jeremy Fitzhardinge count:906 diff: 2994
+Frans Pop count:80 diff: 916
+Costantino Leandro count:4 diff: 560
+Ma Ling count:21 diff: 1309
+Kyle McMartin count:291 diff: 3344
+Oliver Hartkopp count:125 diff: 3313
+Benjamin Herrenschmidt count:1219 diff: 4116
+Alan Jenkins count:78 diff: 338
+Bartlomiej Zolnierkiewicz count:2286 diff: 3821
+Alexey Fisher count:17 diff: 1092
+maximilian attems count:39 diff: 2428
+Peter Chubb count:30 diff: 3610
+Wolfgang Illmeyer count:1 diff: 0
+Pekka Enberg count:410 diff: 3701
+Brandon Philips count:50 diff: 1567
+Rainer Weikusat count:15 diff: 3333
+Jouni Malinen count:358 diff: 4035
+Laurent Pinchart count:2430 diff: 3597
+Jesper Nilsson count:324 diff: 2878
+sg.tweak@gmail.com count:1 diff: 0
+Glauber Costa count:327 diff: 2020
+David Heidelberger count:2 diff: 31
+Riccardo Ghetta count:5 diff: 255
+yakui_zhao count:9 diff: 61
+Ed Swierk count:13 diff: 3032
+Adam Williamson count:1 diff: 0
+Jack Morgenstein count:262 diff: 4003
+Michael Chan count:709 diff: 4106
+Nick Piggin count:533 diff: 2532
+Michael K. Johnson count:2 diff: 26
+Yossi Etigin count:11 diff: 355
+Daniel T Chen count:68 diff: 2069
+Hans J. Koch count:42 diff: 2234
+Brian Haley count:55 diff: 3533
+Krzysztof Kosiński count:1 diff: 0
+Leubner, Achim count:2 diff: 1027
+Luca Tettamanti count:36 diff: 2386
+Michal Januszewski count:27 diff: 1379
+Pascal de Bruijn count:2 diff: 525
+Ivan Kokshaysky count:71 diff: 2025
+Pallipadi, Venkatesh count:26 diff: 1447
+Pantelis Koukousoulas count:12 diff: 2973
+Tim Blechmann count:27 diff: 1496
+Matthias-Christian Ott count:2 diff: 1902
+Josef Drexler count:1 diff: 0
+Richard Hughes count:3 diff: 173
+Peter Zijlstra count:2083 diff: 3717
+Tobias Diedrich count:8 diff: 274
+Duane Griffin count:40 diff: 562
+David Woodhouse count:1144 diff: 4016
+Aneesh Kumar K.V count:631 diff: 3563
+Paul Clements count:14 diff: 2465
+Ayaz Abdulla count:115 diff: 1631
+Holger Macht count:11 diff: 2075
+Daniel Marjamäki count:1 diff: 0
+Abbas, Mohamed count:7 diff: 50
+Samuel Ortiz count:434 diff: 3542
+Zhu, Yi count:11 diff: 80
+Carmelo AMOROSO count:4 diff: 789
+Jos-Vicente Gilabert count:1 diff: 0
+Daniele Venzano count:6 diff: 1203
+Giuseppe Bilotta count:4 diff: 1238
+Sergey Ovcharenko count:1 diff: 0
+Daniel Drake count:280 diff: 3730
+Geert Uytterhoeven count:2593 diff: 4046
+Jean-Francois Moine count:470 diff: 2938
+Peter Staubach count:17 diff: 1559
+Dmitry Adamushko count:47 diff: 1903
+Stuart Hopkins count:2 diff: 974
+Benoit PAPILLAULT count:7 diff: 393
+James Bottomley count:565 diff: 3961
+Sakari Ailus count:313 diff: 2898
+Jeff Kirsher count:308 diff: 3795
+dann frazier count:36 diff: 3666
+Martin Xu count:1 diff: 0
+Cheng Renquan count:24 diff: 1013
+Petr Tesarik count:25 diff: 3986
+Mohamed Abbas count:52 diff: 603
+Matt Ranostay count:67 diff: 600
+Nadia Derbey count:33 diff: 397
+Zoltan Devai count:5 diff: 1602
+Nuno Lucas count:1 diff: 0
+Zhang, Yanmin count:42 diff: 1771
+Geoff Levand count:222 diff: 3947
+Paul Ready count:1 diff: 0
+Stuart MENEFY count:3 diff: 236
+Matthias Schwarzott count:77 diff: 3235
+Peter Gruber count:3 diff: 982
+Michael Reed count:29 diff: 2000
+Andrew Vasquez count:405 diff: 3638
+Yasunori Goto count:60 diff: 2281
+Sami Liedes count:2 diff: 1554
+Fabrice Bellet count:1 diff: 0
+Peter Volkov count:1 diff: 0
+Davide Libenzi count:65 diff: 2024
+Jay Fenlason count:24 diff: 2155
+Fiodor Suietov count:4 diff: 518
+Dennis Noordsij count:1 diff: 0
+Phil Dibowitz count:33 diff: 1854
+Diego Calleja count:16 diff: 2621
+Francois Romieu count:339 diff: 3737
+Torsten Krah count:1 diff: 0
+Dan Nicholson count:3 diff: 125
+David Brownell count:874 diff: 2070
+Benjamin Marzinski count:59 diff: 3595
+Denis V. Lunev count:309 diff: 2899
+Pascal Terjan count:15 diff: 629
+Yannick Cote count:1 diff: 0
+Andy Fleming count:87 diff: 3883
+born.into.silence@gmail.com count:1 diff: 0
+Steven Whitehouse count:779 diff: 3239
+Michael Brooks count:1 diff: 0
+David Miller count:180 diff: 3650
+Alex Nixon count:24 diff: 596
+Michael Kerrisk count:29 diff: 3840
+Chuck Ebbert count:109 diff: 3731
+Stephen Rothwell count:932 diff: 4033
+Nicolai Haehnle count:2 diff: 0
+Clement Calmels count:2 diff: 2671
+Robin Holt count:79 diff: 3518
+Ming Ling count:1 diff: 0
+Alistair John Strachan count:15 diff: 1008
+Sam Ravnborg count:938 diff: 3943
+Tomas Janousek count:6 diff: 1972
+Roland Kletzing count:2 diff: 507
+Jan Kratochvil count:8 diff: 440
+Yi Yang count:11 diff: 948
+Alok N Kataria count:6 diff: 2680
+Eric Van Hensbergen count:100 diff: 3059
+Grant Grundler count:95 diff: 3918
+Jie Luo count:1 diff: 0
+Andrew G. Morgan count:10 diff: 671
+Joe Korty count:16 diff: 987
+CHIKAMA masaki count:1 diff: 0
+Gregory Haskins count:55 diff: 753
+Jaroslav Franek count:1 diff: 0
+Ilpo Järvinen count:346 diff: 2376
+Kenji Kaneshige count:308 diff: 2384
+Dave Olson count:45 diff: 2846
+Matti Linnanvuori count:16 diff: 256
+Jay Vosburgh count:98 diff: 4015
+Björn Krombholz count:1 diff: 0
+Eric Sesterhenn count:202 diff: 1295
+J.H.M. Dassen (Ray) count:1 diff: 0
+Scott Wood count:389 diff: 3579
+Bruce Robson count:1 diff: 0
+David Simner count:1 diff: 0
+Ben count:9952 diff: 4245
+Paul Mackerras count:830 diff: 4131
+Graeme Gregory count:64 diff: 3274
+Hannes Reinecke count:418 diff: 4065
+Damián Viano count:1 diff: 0
+Björn Steinbrink count:11 diff: 549
+yakui.zhao@intel.com count:174 diff: 2428
+Paul Bolle count:535 diff: 3097
+Venki Pallipadi count:55 diff: 603
+Johann Felix Soden count:21 diff: 1535
+Brad Sawatzky count:1 diff: 0
+Alasdair G Kergon count:115 diff: 2924
+SDiZ count:1 diff: 0
+Krzysztof Oledzki count:7 diff: 1781
+Ming Lin count:29 diff: 3053
+Joonwoo Park count:34 diff: 3210
+Pradeep Satyanarayana count:3 diff: 18
+Dmitri Vorobiev count:100 diff: 737
+Douglas Schilling Landgraf count:53 diff: 985
+Auke Kok count:188 diff: 832
+Rizzo Davide count:1 diff: 0
+Nathaniel Filardo count:1 diff: 0
+Li Yang count:110 diff: 3625
+Mingming Cao count:77 diff: 2075
+Marcin Juszkiewicz count:12 diff: 2328
+Michal Piotrowski count:38 diff: 873
+Bruce Duncan count:1 diff: 0
+Abhijith Das count:32 diff: 2536
+Alex count:11665 diff: 4116
+Salyzyn, Mark count:68 diff: 913
+Samuel Thibault count:52 diff: 3840
+Frank Seidel count:21 diff: 560
+Peter Schwenke count:3 diff: 48
+Maciej W. Rozycki count:371 diff: 3993
+Danny Baumann count:4 diff: 1964
+Truxton Fulton count:3 diff: 799
+Evgeniy Polyakov count:144 diff: 2488
+Serge E. Hallyn count:99 diff: 3713
+Roland McGrath count:342 diff: 1952
+Fernando Luis Vázquez Cao count:26 diff: 2414
+bugme-daemon@bugzilla.kernel.org count:1 diff: 0
+Satyam Sharma count:59 diff: 166
+Antonino Daplas count:5 diff: 799
+Antonino A. Daplas count:303 diff: 809
+James Courtier-Dutton count:99 diff: 1882
+Ortwin Glück count:3 diff: 1908
+Wendy Cheng count:19 diff: 860
+Jeff Norden count:1 diff: 0
+Christian Heim count:2 diff: 0
+Daniel Gollub count:2 diff: 211
+Herbert Xu count:1541 diff: 4113
+Steffen Klassert count:250 diff: 3961
+Adrian Bunk count:1883 diff: 2355
+Muli Ben-Yehuda count:51 diff: 709
+Dmitry Butskoy count:1 diff: 0
+Mikko Rapeli count:41 diff: 3330
+Jean Tourrilhes count:41 diff: 1544
+Robert Peterson count:13 diff: 160
+Danny Kukawka count:93 diff: 1945
+Lee Trager count:1 diff: 0
+Doug Chapman count:8 diff: 874
+Jay Cliburn count:46 diff: 890
+Horst H. von Brand count:3 diff: 604
+Milan Kocian count:3 diff: 1717
+Markus Rechberger count:51 diff: 1369
+Takao Shinohara count:1 diff: 0
+Hendrik Borghorst count:1 diff: 0
+Olaf Kirch count:48 diff: 1042
+Vladimir Lebedev count:13 diff: 306
+Evgeniy Dushistov count:54 diff: 3388
+Albert Lee count:93 diff: 937
+Zwane Mwaikambo count:9 diff: 646
+Tommi Kyntola count:2 diff: 2940
+Konstantin Karasyov count:7 diff: 289
+Gerhard Dirschl count:1 diff: 0
+John Daiker count:9 diff: 801
+Simon Depiets count:1 diff: 0
+Pieter Palmers count:3 diff: 861
+Sanjoy Mahajan count:1 diff: 0
+Andrew Donofrio count:1 diff: 0
+S. Wendy Cheng count:3 diff: 159
+Kai Makisara count:22 diff: 4005
+Lars Immisch count:1 diff: 0
+garrett_damore@tadpole.com count:1 diff: 0
+Michael Buesch count:406 diff: 1998
+Mark M. Hoffman count:31 diff: 1186
+Martin Josefsson count:15 diff: 278
+Laurent Vivier count:51 diff: 3870
+Ulrich Kunitz count:31 diff: 487
+Jeremy Kerr count:173 diff: 3586
+Jurij Smakov count:2 diff: 987
+Daniel Ritz count:51 diff: 1633
+Yvan Seth count:1 diff: 0
+Kristen Carlson Accardi count:70 diff: 3359
+Francisco Larramendi count:1 diff: 0
+Laurent Riffard count:24 diff: 704
+Eiichiro Oiwa count:2 diff: 21
+Alexey Y. Starikovskiy count:3 diff: 397
+Jim Cromie count:131 diff: 2413
+Petko Manolov count:21 diff: 3859
+Jes Sorensen count:1315 diff: 4023
+Danny Tholen count:3 diff: 380
+Michael De Backer count:1 diff: 0
+Mark Hindley count:3 diff: 581
+Badari Pulavarty count:48 diff: 1215
+Matthieu CASTET count:30 diff: 3178
+Volker Braun count:3 diff: 690
+Rich Townsend count:2 diff: 193
+Christian Lupien count:1 diff: 0
+Karol Kozimor count:15 diff: 335
+Matt LaPlante count:35 diff: 1033
+Philippe Retornaz count:2 diff: 2691
+Arnaud Patard count:143 diff: 3559
+Pedro Alejandro López-Valencia count:1 diff: 0
+Ben Collins count:98 diff: 3554
+Markus Lidel count:21 diff: 641
+Manu Abraham count:273 diff: 2346
+Patrick Mochel count:44 diff: 610
+Markus Gutschke count:2 diff: 38
+Jiri Benc count:142 diff: 4119
+KAI.HSU count:1 diff: 0
+Ron Yorston count:1 diff: 0
+Arthur Othieno count:25 diff: 344
+Don Fry count:88 diff: 3031
+Alexey Kuznetsov count:25 diff: 4046
+Kirill Korotaev count:45 diff: 848
+Andreas Deresch count:1 diff: 0
+Paul Fulghum count:66 diff: 2642
+David Shaohua Li count:18 diff: 327
+Adam Radford count:5 diff: 0
+Ashok Raj count:59 diff: 4073
+Lukasz Stemach count:1 diff: 0
+Abhay Salunke count:6 diff: 130
+Paul Jackson count:130 diff: 1159
+Thomas Rosner count:1 diff: 0
+Yu Luming count:7 diff: 667
+Daniele Gozzi count:1 diff: 0
+Luming Yu count:16 diff: 2303
+Janosch Machowinski count:1 diff: 0
+Jody McIntyre count:26 diff: 1271
+Siddha, Suresh B count:41 diff: 928
+Tim Mann count:2 diff: 577
+Willem Riede count:3 diff: 94
+Ronald S. Bultje count:3 diff: 21
+Yuri Vasilevski count:2 diff: 8
+Aleksey Gorelov count:4 diff: 1092
+H. J. Lu count:13 diff: 2417
+akpm@osdl.org count:803 diff: 981
+Kostik Belousov count:2 diff: 25
+Jochen Friedrich count:61 diff: 2306
+Tommy Christensen count:3 diff: 118
+Alexander Nyberg count:9 diff: 83
+Michael Haboustak count:1 diff: 0
+Robert Moore count:12 diff: 3242
+Sylvain Meyer count:4 diff: 54
+Tim Yamin count:8 diff: 2348
+Iacopo Spalletti count:1 diff: 0
+Adam Oldham count:1 diff: 0
+Andreas Dilger count:54 diff: 4015
